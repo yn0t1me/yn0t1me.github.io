@@ -14,11 +14,11 @@ zheshiyige测试文章
 
 这里是正文
 
-![](12121.jpg)
+![](post/python/test2/12121.jpg)
 
 
 
-![](12120.jpg)
+![](post/python/test2/12120.jpg)
 
 
 
