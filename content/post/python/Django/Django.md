@@ -1,5 +1,19 @@
+---
+title: "Django"
+slug: "Django"
+description: "python后端开发常用框架：Django"
+date: "2025-02-27T18:10:47+08:00"
+lastmod: "2025-02-27T18:10:47+08:00"
+image: 
+categories: ["python"]
+tags: ["Django","python"]
+---
+
+
+<!--more-->
 
 ## Django项目创建
+
 项目+虚拟环境
 
 ### Django项目的创建
@@ -10,6 +24,7 @@ pip install django==3.2
 ```
 
 #### 命令行操作
+
 ```python
 cd 项目目录
 django-admin startproject 项目名
@@ -67,11 +82,11 @@ myproject
 #### Pycharm操作
 创建django项目
 
-![](post/python/Django/1732088054327-ef4f3362-451c-4611-8d64-2ba238d83fb0.png)
+![](/post/python/Django/1732088054327-ef4f3362-451c-4611-8d64-2ba238d83fb0.png)
 
 生成效果
 
-![](post/python/Django/1732088219082-78f02080-3e2f-4b4f-8fee-60bcef043724.png)
+![](/post/python/Django/1732088219082-78f02080-3e2f-4b4f-8fee-60bcef043724.png)
 
 ### 虚拟环境
 使用虚拟环境可以是各个项目之间的环境隔离开，为每一个项目单独创建一个虚拟环境，而不是使用系统解释器
@@ -98,7 +113,7 @@ cd \envs
 virtualenv crm --python=python39
 ```
 
-![](post/python/Django/1732089006310-a4f0e644-3969-49ec-94b1-82bed5401f53.png)
+![](/post/python/Django/1732089006310-a4f0e644-3969-49ec-94b1-82bed5401f53.png)
 
 + 激活虚拟环境
 
@@ -109,7 +124,7 @@ activate
 
 出现图示(虚拟环境名)表明激活成功
 
-![](post/python/Django/1732089138522-4e67f8fc-51a0-4114-9e2e-50c28c2b5989.png)
+![](/post/python/Django/1732089138522-4e67f8fc-51a0-4114-9e2e-50c28c2b5989.png)
 
 + 安装包
 
@@ -124,7 +139,7 @@ cd 项目目录
 django-admin startproject crm
 ```
 
-![](post/python/Django/1732089413412-38b9f663-f1e6-4e9b-be4d-0336f8867975.png)
+![](/post/python/Django/1732089413412-38b9f663-f1e6-4e9b-be4d-0336f8867975.png)
 
 ```python
 python manage.py startapp xxx
@@ -142,7 +157,7 @@ deactivate
 
 + 创建纯净项目+创建虚拟环境
 
-![](post/python/Django/1732089953446-ec7f2c26-9685-4617-a075-302bc5c97ba1.png)
+![](/post/python/Django/1732089953446-ec7f2c26-9685-4617-a075-302bc5c97ba1.png)
 
 + 创建django项目
 
@@ -160,17 +175,17 @@ django-admin startproject myproj
 
 因为我的pycharm虚拟环境有问题，只有在Script目录下才被激活，因此指定了一下创建路径
 
-![](post/python/Django/1732090258231-79603868-d786-4ff9-840e-97f7297771a0.png)
+![](/post/python/Django/1732090258231-79603868-d786-4ff9-840e-97f7297771a0.png)
 
 + 配置django的启动按钮
 
-![](post/python/Django/1732091034828-6dd33792-a724-4923-85b1-042177510b1a.png)
+![](/post/python/Django/1732091034828-6dd33792-a724-4923-85b1-042177510b1a.png)
 
 fix键
 
-![](post/python/Django/1732091520209-c45cff8d-7cfb-495e-ab4a-471cae5abb49.png)
+![](/post/python/Django/1732091520209-c45cff8d-7cfb-495e-ab4a-471cae5abb49.png)
 
-![](post/python/Django/1732091447518-e3c10327-4abf-458a-86ac-f4a432e468f0.png)
+![](/post/python/Django/1732091447518-e3c10327-4abf-458a-86ac-f4a432e468f0.png)
 
 ### app创建
 单个app目录结构如下
@@ -218,7 +233,7 @@ python manage.py startapp backend apps/backend
 ```
 
 ### 纯净版
-![](post/python/Django/1732091798025-cc0487a7-6d8c-4a3f-9dfb-3105790af457.png)
+![](/post/python/Django/1732091798025-cc0487a7-6d8c-4a3f-9dfb-3105790af457.png)
 
 将不需要使用的app，中间件，模板在settings文件中注释即可得到一个纯净版的django项目
 
@@ -320,34 +335,34 @@ D:\Data\Codefield\CODE-Python\py全栈\模块六\day06>treee -I .venv -f
         `-- ./web/views/policy.py
 ```
 
-<font style="color:rgb(39, 38, 43);">经典的MVC设计模式及其优点：</font>
+经典的MVC设计模式及其优点：
 
-<font style="color:rgb(92, 89, 98);">MVC即 Model-View-Controller(模型-视图-控制器) ，是经典的软件开发设计模式</font>
+MVC即 Model-View-Controller(模型-视图-控制器) ，是经典的软件开发设计模式
 
-+ **<font style="color:rgb(92, 89, 98);">Model (模型)</font>**<font style="color:rgb(92, 89, 98);"> ： 简而言之即数据模型。模型不是数据本身（比如数据库里的数据），而是抽象的描述数据的构成和逻辑关系。通常模型包括了数据表的各个字段（比如人的年龄和出生日期）和相互关系（单对单，单对多关系等)。Web开发框架会根据模型的定义来自动生成数据表。</font>
-+ **<font style="color:rgb(92, 89, 98);">View (视图)</font>**<font style="color:rgb(92, 89, 98);">： 主要用于显示数据，用来展示用户可以看到的内容或提供用户可以输入或操作的界面。数据来源于哪里？当然是数据库啦。那么用户输入的数据给谁? 当然是给控制器啦。</font>
-+ **<font style="color:rgb(92, 89, 98);">Controller(控制器)</font>**<font style="color:rgb(92, 89, 98);">：应用程序中处理用户交互的部分。通常控制器负责从视图读取数据，控制用户输入，并向模型发送数据（比如增加或更新数据表）。</font>
++ **Model (模型)** ： 简而言之即数据模型。模型不是数据本身（比如数据库里的数据），而是抽象的描述数据的构成和逻辑关系。通常模型包括了数据表的各个字段（比如人的年龄和出生日期）和相互关系（单对单，单对多关系等)。Web开发框架会根据模型的定义来自动生成数据表。
++ **View (视图)**： 主要用于显示数据，用来展示用户可以看到的内容或提供用户可以输入或操作的界面。数据来源于哪里？当然是数据库啦。那么用户输入的数据给谁? 当然是给控制器啦。
++ **Controller(控制器)**：应用程序中处理用户交互的部分。通常控制器负责从视图读取数据，控制用户输入，并向模型发送数据（比如增加或更新数据表）。
 
-<font style="color:rgb(39, 38, 43);">MVC设计模式</font><font style="color:rgb(92, 89, 98);">实现了软件或网络应用开发过程中数据、业务逻辑和用户界面的分离，使软件开发更清晰，也是维护变得更容易。这与静态网页设计中使用html和css实现了内容和样式的分离是同一个道理。</font>
+MVC设计模式实现了软件或网络应用开发过程中数据、业务逻辑和用户界面的分离，使软件开发更清晰，也是维护变得更容易。这与静态网页设计中使用html和css实现了内容和样式的分离是同一个道理。
 
-<font style="color:rgb(92, 89, 98);"></font>
 
-Django的MVT设计模式由Model模型，View（视图）和Template（模板）三部分组成，分别对应单个<font style="color:rgb(92, 89, 98);">app目录下的models.py, views.py和templates文件夹</font>
+
+Django的MVT设计模式由Model模型，View（视图）和Template（模板）三部分组成，分别对应单个app目录下的models.py, views.py和templates文件夹
 
 > 因实际开发时view函数过多，为了方便管理通常使用views目录取代单个view.py文件，在views目录下按功能编写各个py文件
 >
 
-+ **<font style="color:rgb(92, 89, 98);">Django Model(模型)</font>**<font style="color:rgb(92, 89, 98);">: 这个与经典MVC模式下的模型Model差不多。</font>
-+ **<font style="color:rgb(92, 89, 98);">Django View(视图)</font>**<font style="color:rgb(92, 89, 98);">: 这个与MVC下的控制器Controller更像。视图不仅负责根据用户请求从数据库读取数据、指定向用户展示数据的方式(网页或json数据), 还可以指定渲染模板并处理用户提交的数据。</font>
-+ **<font style="color:rgb(92, 89, 98);">Django Template(模板)</font>**<font style="color:rgb(92, 89, 98);">: 这个与经典MVC模式下的视图View一致。模板用来呈现Django view传来的数据，也决定了用户界面的外观。Template里面也包含了表单，可以用来搜集用户的输入内容。</font>
++ **Django Model(模型)**: 这个与经典MVC模式下的模型Model差不多。
++ **Django View(视图)**: 这个与MVC下的控制器Controller更像。视图不仅负责根据用户请求从数据库读取数据、指定向用户展示数据的方式(网页或json数据), 还可以指定渲染模板并处理用户提交的数据。
++ **Django Template(模板)**: 这个与经典MVC模式下的视图View一致。模板用来呈现Django view传来的数据，也决定了用户界面的外观。Template里面也包含了表单，可以用来搜集用户的输入内容。
 
-<font style="color:rgb(92, 89, 98);"></font>
 
-<font style="color:rgb(92, 89, 98);">Django工作流程：</font>
 
-<font style="color:rgb(92, 89, 98);">当用户发来一个请求(request)时，Django会对请求头信息进行解析，解析出用户需要访问的url地址，然后根据路由urls.py中的定义的对应关系把请求转发到相应的视图处理。视图会从数据库读取需要的数据，指定渲染模板，最后返回响应数据</font>
+Django工作流程：
 
-![](post/python/Django/1732094182588-90c28716-2202-46cf-adf8-e20294930f80.png)
+当用户发来一个请求(request)时，Django会对请求头信息进行解析，解析出用户需要访问的url地址，然后根据路由urls.py中的定义的对应关系把请求转发到相应的视图处理。视图会从数据库读取需要的数据，指定渲染模板，最后返回响应数据
+
+![](/post/python/Django/1732094182588-90c28716-2202-46cf-adf8-e20294930f80.png)
 
 简易开发流程
 
@@ -369,32 +384,32 @@ INSTALLED_APPS = [
 
 + 在urls中添加路径与视图函数对应关系
 
-![](post/python/Django/1732094938489-95a7b53c-5abc-42fa-a12a-0c1566f89138.png)
+![](/post/python/Django/1732094938489-95a7b53c-5abc-42fa-a12a-0c1566f89138.png)
 
 + 创建模型
 
 在app下新建名为models.py，在其中编写数据库字段及表与表的关联关系
 
-![](post/python/Django/1732095241289-bb64416f-c9c6-4e57-b3a1-79e75148829f.png)
+![](/post/python/Django/1732095241289-bb64416f-c9c6-4e57-b3a1-79e75148829f.png)
 
-<font style="color:rgb(92, 89, 98);">使用</font>`<font style="color:rgb(92, 89, 98);background-color:rgb(245, 246, 250);">python manage.py makemigrations</font>`<font style="color:rgb(92, 89, 98);">和</font>`<font style="color:rgb(92, 89, 98);background-color:rgb(245, 246, 250);">python manage.py migrate</font>`<font style="color:rgb(92, 89, 98);">命令让django在数据库中创建数据表</font>
+使用`python manage.py makemigrations`和`python manage.py migrate`命令让django在数据库中创建数据表
 
 + 创建视图函数
 
 在app下新建名为views的目录，根据业务功能创建account.py，并在其中定义login函数，从数据库读取数据，处理逻辑，指定渲染模板并将数据传递给对应模板
 
-![](post/python/Django/1732095370662-e9a615cc-c9d0-4b4c-98d5-464042123b53.png)
+![](/post/python/Django/1732095370662-e9a615cc-c9d0-4b4c-98d5-464042123b53.png)
 
 + 编辑模板
 
-创建在web/templates下创建login.html文件<font style="color:rgb(92, 89, 98);">用于展示视图传来的数据，Django还提供了自己的模板语言用来渲染模板。</font>
+创建在web/templates下创建login.html文件用于展示视图传来的数据，Django还提供了自己的模板语言用来渲染模板。
 
-![](post/python/Django/1732095544263-c6c72fdd-a862-458a-9ca9-fa81008113c5.png)
+![](/post/python/Django/1732095544263-c6c72fdd-a862-458a-9ca9-fa81008113c5.png)
 
 
 
 ## 路由配置
-<font style="color:rgb(92, 89, 98);">项目文件夹和每个应用(app)目录下的</font>`<font style="color:rgb(92, 89, 98);background-color:rgb(245, 246, 250);">urls.py</font>`<font style="color:rgb(92, 89, 98);">文件构成了Django的路由配置系统(URLconf)。服务器收到用户请求后，会根据用户请求的url地址和urls.py里配置的url-视图映射关系，去调用执行相应的视图函数或视图类，最后由视图返回给客户端数据</font>
+项目文件夹和每个应用(app)目录下的`urls.py`文件构成了Django的路由配置系统(URLconf)。服务器收到用户请求后，会根据用户请求的url地址和urls.py里配置的url-视图映射关系，去调用执行相应的视图函数或视图类，最后由视图返回给客户端数据
 
 ### URLconf如何工作
 #### 手动路由分发
@@ -441,7 +456,7 @@ urlpatterns = [
 ```
 
 ### URL设计方法
-#### path`<font style="color:rgb(92, 89, 98);background-color:rgb(245, 246, 250);"><变量类型:变量名></font>`
+#### path`<变量类型:变量名>`
 
 ```python
 urlpatterns = [
@@ -545,7 +560,7 @@ urlpatterns = [
 ```
 
 ### name
-<font style="color:rgb(92, 89, 98);">相当于给每个URL取了个全局变量的名字。可以让你能够在Django的任意处，尤其是模板内显式地引用它</font>
+相当于给每个URL取了个全局变量的名字。可以让你能够在Django的任意处，尤其是模板内显式地引用它
 
 ```python
 urlpatterns = [
@@ -571,9 +586,9 @@ url2 = reverse("v2", args=(666, "hhh"))
 
 + 在模板中生成URL
 
-> `<font style="color:rgb(92, 89, 98);background-color:rgb(245, 246, 250);">url</font>`<font style="color:rgb(92, 89, 98);">是个模板标签，其作用是对命名的url进行方向解析，动态生成链接。</font>
+> `url`是个模板标签，其作用是对命名的url进行方向解析，动态生成链接。
 >
-> <font style="color:rgb(92, 89, 98);">命名的url里有几个参数，使用</font>`<font style="color:rgb(92, 89, 98);background-color:rgb(245, 246, 250);">url</font>`<font style="color:rgb(92, 89, 98);">模板标签反向生成动态链接时，就需要向它传递几个参数</font>
+> 命名的url里有几个参数，使用`url`模板标签反向生成动态链接时，就需要向它传递几个参数
 >
 > 有名字的要给他传值，无名字的空格分隔即可
 >
@@ -631,9 +646,9 @@ urlpatterns = [
 app_name = "web"
 ```
 
-<font style="color:rgb(92, 89, 98);">只需要在</font>`<font style="color:rgb(92, 89, 98);background-color:rgb(245, 246, 250);">web/urls.py</font>`<font style="color:rgb(92, 89, 98);">加上</font>`<font style="color:rgb(92, 89, 98);background-color:rgb(245, 246, 250);">app_name='web'</font>`<font style="color:rgb(92, 89, 98);">这个命名空间即可</font>
+只需要在`web/urls.py`加上`app_name='web'`这个命名空间即可
 
-#### <font style="color:rgb(92, 89, 98);">视图中使用</font>
+#### 视图中使用
 ```python
 from django.urls import reverse
 
@@ -649,9 +664,9 @@ url2 = reverse("x2:auth")    # /web/auth/
 
 补充
 
-![](post/python/Django/1732101851412-65b76dda-2530-4dce-a946-d35005525825.png)
+![](/post/python/Django/1732101851412-65b76dda-2530-4dce-a946-d35005525825.png)
 
-![](post/python/Django/1732101903439-47168c0f-aa3d-41f4-8d00-bb46e599e925.png)
+![](/post/python/Django/1732101903439-47168c0f-aa3d-41f4-8d00-bb46e599e925.png)
 
 
 
@@ -661,9 +676,9 @@ url2 = reverse("x2:auth")    # /web/auth/
 
 
 ### 当前匹配对象
-`<font style="color:rgb(6, 6, 7);">ResolverMatch</font>`<font style="color:rgb(6, 6, 7);">对象是在URL解析过程中创建的，它包含了匹配到的URL模式的相关信息。当你访问一个URL时，Django的URL解析器会尝试找到匹配的模式，如果找到，它会创建一个</font>`<font style="color:rgb(6, 6, 7);">ResolverMatch</font>`<font style="color:rgb(6, 6, 7);">对象，并将其存储在请求对象的</font>`<font style="color:rgb(6, 6, 7);">resolver_match</font>`<font style="color:rgb(6, 6, 7);">属性中。</font>
+`ResolverMatch`对象是在URL解析过程中创建的，它包含了匹配到的URL模式的相关信息。当你访问一个URL时，Django的URL解析器会尝试找到匹配的模式，如果找到，它会创建一个`ResolverMatch`对象，并将其存储在请求对象的`resolver_match`属性中。
 
-`<font style="color:rgb(6, 6, 7);">ResolverMatch</font>`<font style="color:rgb(6, 6, 7);">对象在URL解析发生后才设置，这意味着它在所有视图中都是可用的，但在URL解析发生前的中间件中不可用（process_request）</font>
+`ResolverMatch`对象在URL解析发生后才设置，这意味着它在所有视图中都是可用的，但在URL解析发生前的中间件中不可用（process_request）
 
 ```python
 def my_view(request):
@@ -674,8 +689,8 @@ def my_view(request):
 
 + 直接访问URL中捕获的参数
 + 根据参数不同处理视图逻辑分支
-+ URL名称解析，<font style="color:rgb(6, 6, 7);">用来动态生成链接</font>
-+ <font style="color:rgb(6, 6, 7);">中间件支持，做权限控制</font>
++ URL名称解析，用来动态生成链接
++ 中间件支持，做权限控制
 
 ### partial
 ```python
@@ -699,7 +714,7 @@ data = yy(2)
 print(data)
 ```
 
-![](post/python/Django/1732102693440-7bbb4b99-7711-46b6-a0d9-981da50359f6.png)
+![](/post/python/Django/1732102693440-7bbb4b99-7711-46b6-a0d9-981da50359f6.png)
 
 利用partial使得_path函数传入的Pattern不同，处理路由的方式不同
 
@@ -727,7 +742,7 @@ def login(request):
 
 request是什么呢？
 
-> <font style="color:rgb(6, 6, 7);">request是由Django的中间件系统自动创建并传递给视图的</font>一个对象，封装存放了浏览器发给服务器的所有内容，包括请求相关内容和django额外添加的数据
+> request是由Django的中间件系统自动创建并传递给视图的一个对象，封装存放了浏览器发给服务器的所有内容，包括请求相关内容和django额外添加的数据
 >
 
 
@@ -869,7 +884,7 @@ return render(request, 'api/login.html')
 
 html文件放置
 
-![](post/python/Django/1732103923915-1c02e27c-d9b9-4a1a-94da-f87b6d04111c.png)
+![](/post/python/Django/1732103923915-1c02e27c-d9b9-4a1a-94da-f87b6d04111c.png)
 
 
 
@@ -894,7 +909,7 @@ def login(request):
 ```
 
 ### FBV和CBV
-![](post/python/Django/1732104063621-29bab11d-9779-48b7-bd77-8643fc50c51a.png)
+![](/post/python/Django/1732104063621-29bab11d-9779-48b7-bd77-8643fc50c51a.png)
 
 源码分析
 
@@ -996,13 +1011,13 @@ python manage.py collectstatic
 
 + 配置Web服务器
 
-<font style="color:rgb(6, 6, 7);">在生产环境中，你需要配置Web服务器（如Nginx或Apache）来提供静态文件。你需要指定静态文件的目录（通常是 </font>`<font style="color:rgb(6, 6, 7);">STATIC_ROOT</font>`<font style="color:rgb(6, 6, 7);">）</font>
+在生产环境中，你需要配置Web服务器（如Nginx或Apache）来提供静态文件。你需要指定静态文件的目录（通常是 `STATIC_ROOT`）
 
 ### 媒体文件
-<font style="color:rgb(6, 6, 7);">在你的 </font>`settings.py`<font style="color:rgb(6, 6, 7);"> 文件中，你需要定义两个设置项：</font>
+在你的 `settings.py` 文件中，你需要定义两个设置项：
 
-+ `MEDIA_URL`<font style="color:rgb(6, 6, 7);">：媒体文件的URL前缀。</font>
-+ `MEDIA_ROOT`<font style="color:rgb(6, 6, 7);">：服务器上存储上传文件的路径。</font>
++ `MEDIA_URL`：媒体文件的URL前缀。
++ `MEDIA_ROOT`：服务器上存储上传文件的路径。
 
 ```python
 # settings.py
@@ -1013,7 +1028,7 @@ MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'media'
 ```
 
-<font style="color:rgb(6, 6, 7);">在 </font>`<font style="color:rgb(6, 6, 7);">urls.py</font>`<font style="color:rgb(6, 6, 7);"> 中添加以下URL模式，在开发环境中运行服务器时，Django将能够通过 </font>`<font style="color:rgb(6, 6, 7);">/media/</font>`<font style="color:rgb(6, 6, 7);"> URL前缀提供上传的文件</font>
+在 `urls.py` 中添加以下URL模式，在开发环境中运行服务器时，Django将能够通过 `/media/` URL前缀提供上传的文件
 
 ```python
 # urls.py
@@ -1051,11 +1066,11 @@ TEMPLATES = [
 
 参数介绍
 
-| BACKEND | <font style="color:rgb(6, 6, 7);">指定模板引擎的后端</font> |
-| --- | --- |
-| DIRS | <font style="color:rgb(6, 6, 7);">一个包含额外模板目录路径的列表,通常，这里用于存放全局模板</font> |
-| APP_DIRS | <font style="color:rgb(6, 6, 7);">如果设置为</font>`<font style="color:rgb(6, 6, 7);">True</font>`<font style="color:rgb(6, 6, 7);">，则Django会在每个安装的应用的</font>`<font style="color:rgb(6, 6, 7);">templates</font>`<font style="color:rgb(6, 6, 7);">目录下寻找模板</font> |
-| OPTIONS | <font style="color:rgb(6, 6, 7);">一个字典，包含模板引擎的选项</font> |
+| BACKEND  | 指定模板引擎的后端                                           |
+| -------- | ------------------------------------------------------------ |
+| DIRS     | 一个包含额外模板目录路径的列表,通常，这里用于存放全局模板    |
+| APP_DIRS | 如果设置为`True`，则Django会在每个安装的应用的`templates`目录下寻找模板 |
+| OPTIONS  | 一个字典，包含模板引擎的选项                                 |
 
 
 寻找顺序
@@ -1119,7 +1134,7 @@ def home(request):
 
 
 
-![](post/python/Django/1732153383490-62011243-3759-49fc-b4ce-7a2542acc514.png)
+![](/post/python/Django/1732153383490-62011243-3759-49fc-b4ce-7a2542acc514.png)
 
 弹窗内容为{{ n2 }}，因为在js文件是在浏览器端发起的请求，此时模板渲染早已完成
 
@@ -1131,11 +1146,11 @@ def home(request):
 > 调用方法不用加（）
 >
 
-![](post/python/Django/1732154380277-df3b82d6-2172-4972-a56c-cc37bbb63e96.png)
+![](/post/python/Django/1732154380277-df3b82d6-2172-4972-a56c-cc37bbb63e96.png)
 
 内置函数
 
-![](post/python/Django/1732154498692-89b2f800-e9b8-48f2-b443-2815d348f102.png)
+![](/post/python/Django/1732154498692-89b2f800-e9b8-48f2-b443-2815d348f102.png)
 
 标签
 
@@ -1167,7 +1182,7 @@ def home(request):
 
 + filter
 
-> 用于修改变量值，<font style="color:rgb(6, 6, 7);">通常在模板变量后面使用，用管道符号</font>`<font style="color:rgb(6, 6, 7);">|</font>`<font style="color:rgb(6, 6, 7);">分隔</font>
+> 用于修改变量值，通常在模板变量后面使用，用管道符号`|`分隔
 >
 
 ```python
@@ -1194,7 +1209,7 @@ def lowercase(value):
 
 + simple_tag
 
-> <font style="color:rgb(6, 6, 7);">一个自定义的模板标签，它不接受任何模板变量，只接收位置参数和关键字参数，并返回一个字符串结果</font>
+> 一个自定义的模板标签，它不接受任何模板变量，只接收位置参数和关键字参数，并返回一个字符串结果
 >
 
 ```python
@@ -1220,7 +1235,7 @@ def my_simple_tag(arg):
 
 + inclusion_tag
 
-> <font style="color:rgb(6, 6, 7);">类似于simple_tag，但它返回的是渲染后的模板片段，而不是一个简单的字符串。这允许你将模板的某个部分抽象成一个独立的模板文件，并在需要时包含进来</font>
+> 类似于simple_tag，但它返回的是渲染后的模板片段，而不是一个简单的字符串。这允许你将模板的某个部分抽象成一个独立的模板文件，并在需要时包含进来
 >
 
 ```python
@@ -1285,7 +1300,7 @@ custom_template.html文件
 ```
 
 #### 子模板
-<font style="color:rgb(6, 6, 7);">子模板继承基础模板，并可以覆盖或扩展其中的内容</font>
+子模板继承基础模板，并可以覆盖或扩展其中的内容
 
 ```html
 {% extends "base.html" %}
@@ -1303,7 +1318,7 @@ custom_template.html文件
 
 
 #### 模板的导入
-![](post/python/Django/1732156134550-7ae71e20-74ab-4cf3-bfbf-b308bdc597bc.png)
+![](/post/python/Django/1732156134550-7ae71e20-74ab-4cf3-bfbf-b308bdc597bc.png)
 
 先继承模板，再导入嵌套模板，最后再进行渲染
 
@@ -1314,24 +1329,24 @@ custom_template.html文件
 ## 中间件
 Django生命周期
 
-![](post/python/Django/1732156310706-5f8a5e35-07be-4e03-9b5c-f8cc8a437e41.png)
+![](/post/python/Django/1732156310706-5f8a5e35-07be-4e03-9b5c-f8cc8a437e41.png)
 
 + 类
 + 定义方法
 + 注册
 
 ### 简单实例（原始）
-![](post/python/Django/1732156549515-a6a6761d-fe06-4d55-a6bb-bed26c8f59fa.png)
+![](/post/python/Django/1732156549515-a6a6761d-fe06-4d55-a6bb-bed26c8f59fa.png)
 
-![](post/python/Django/1732156555542-dee6a05a-5ace-48ed-a4c3-83c7c5aa76c3.png)
+![](/post/python/Django/1732156555542-dee6a05a-5ace-48ed-a4c3-83c7c5aa76c3.png)
 
 ### MiddlewareMixin（推荐）
 #### 食用方法
 自定义process_request和process_response方法，其他继承MiddlewareMixin即可
 
-![](post/python/Django/1732156660779-a5e2accc-5f34-4743-b16e-1de4162bbcd8.png)
+![](/post/python/Django/1732156660779-a5e2accc-5f34-4743-b16e-1de4162bbcd8.png)
 
-![](post/python/Django/1732156674883-057ef91a-1730-41ff-9973-04353a8d72b1.png)
+![](/post/python/Django/1732156674883-057ef91a-1730-41ff-9973-04353a8d72b1.png)
 
 
 
@@ -1364,9 +1379,9 @@ django内部默认执行call方法，传入参数。
 ```
 
 #### 执行流程
-![](post/python/Django/1732156863476-dd0017c5-a2b6-42b0-97b3-ef8bbf4c0bee.png)
+![](/post/python/Django/1732156863476-dd0017c5-a2b6-42b0-97b3-ef8bbf4c0bee.png)
 
-![](post/python/Django/1732156875903-033f2390-2324-440e-b3a1-119536220a07.png)
+![](/post/python/Django/1732156875903-033f2390-2324-440e-b3a1-119536220a07.png)
 
 > process_request都没有返回值，如果有返回值则直接执行其process_response，不再执行后续中间件及视图函数
 >
@@ -1375,7 +1390,7 @@ django内部默认执行call方法，传入参数。
 > process_response都有返回值，用于给response添加信息
 >
 
-![](post/python/Django/1732156982789-92493c72-3b89-47e8-b900-5abb53163ef2.png)
+![](/post/python/Django/1732156982789-92493c72-3b89-47e8-b900-5abb53163ef2.png)
 
 中间件间的执行顺序按照注册顺序
 
@@ -1388,54 +1403,54 @@ django内部默认执行call方法，传入参数。
 > process_view是在django中写死了的
 >
 
-![](post/python/Django/1732157126083-056bdf52-84e4-43c5-a1ef-de12c1307d1c.png)
+![](/post/python/Django/1732157126083-056bdf52-84e4-43c5-a1ef-de12c1307d1c.png)
 
 
 
 #### 其他
 ##### process_exception
-> <font style="color:rgb(6, 6, 7);">当视图抛出异常时，Django会寻找一个合适的响应</font>
+> 当视图抛出异常时，Django会寻找一个合适的响应
 >
-> <font style="color:rgb(6, 6, 7);">Djan</font>go会从后向前遍历中<font style="color:rgb(6, 6, 7);">间件栈，调用每个中间件的</font>`<font style="color:rgb(6, 6, 7);">process_exception</font>`<font style="color:rgb(6, 6, 7);">方法，直到找到一个返回了响应对象（</font>`<font style="color:rgb(6, 6, 7);">HttpResponse</font>`<font style="color:rgb(6, 6, 7);">或其子类实例）的方法，如果到达中间件栈的开始都没有找到返回响应的方法，Django将显示默认的500错误页面（服务器内部错误）</font>
+> Django会从后向前遍历中间件栈，调用每个中间件的`process_exception`方法，直到找到一个返回了响应对象（`HttpResponse`或其子类实例）的方法，如果到达中间件栈的开始都没有找到返回响应的方法，Django将显示默认的500错误页面（服务器内部错误）
 >
-> <font style="color:rgb(6, 6, 7);">这个方法允许开发者在异常发生时执行一些清理工作，或者返回一个自定义的响应给客户端，而不是默认的错误页面</font>
+> 这个方法允许开发者在异常发生时执行一些清理工作，或者返回一个自定义的响应给客户端，而不是默认的错误页面
 >
 
-![](post/python/Django/1732157307696-c14048f3-9e5d-46f3-920e-936258e8efe0.png)
+![](/post/python/Django/1732157307696-c14048f3-9e5d-46f3-920e-936258e8efe0.png)
 
-![](post/python/Django/1732157312628-1d652b10-e89d-47b3-9e86-33d5c9c83a3d.png)
+![](/post/python/Django/1732157312628-1d652b10-e89d-47b3-9e86-33d5c9c83a3d.png)
 
 
 
 ##### process_template_response
-> <font style="color:rgb(6, 6, 7);">在视图被完全执行后调用，如果响应实例有</font>`<font style="color:rgb(6, 6, 7);">render()</font>`<font style="color:rgb(6, 6, 7);">方法，表明它是一个</font>`<font style="color:rgb(6, 6, 7);">TemplateResponse</font>`<font style="color:rgb(6, 6, 7);">或等效对象。这个方法允许你在模板渲染之后、响应发送到客户端之前，对</font>`<font style="color:rgb(6, 6, 7);">TemplateResponse</font>`<font style="color:rgb(6, 6, 7);">对象进行处理</font>
+> 在视图被完全执行后调用，如果响应实例有`render()`方法，表明它是一个`TemplateResponse`或等效对象。这个方法允许你在模板渲染之后、响应发送到客户端之前，对`TemplateResponse`对象进行处理
 >
 
-<font style="color:rgb(6, 6, 7);">执行顺序</font>
+执行顺序
 
-+ `process_template_response`<font style="color:rgb(6, 6, 7);">方法在视图函数返回一个</font>`TemplateResponse`<font style="color:rgb(6, 6, 7);">对象后被调用。</font>
-+ <font style="color:rgb(6, 6, 7);">如果视图返回的是一个</font>`TemplateResponse`<font style="color:rgb(6, 6, 7);">对象，Django会从中间件栈的末尾开始调用中间件的</font>`process_template_response`<font style="color:rgb(6, 6, 7);">方法，直到找到一个返回了</font>`TemplateResponse`<font style="color:rgb(6, 6, 7);">对象的方法或者到达中间件栈的开始。</font>
-+ <font style="color:rgb(6, 6, 7);">中间件在响应阶段会按照相反的顺序运行，其中包括</font>`process_template_response`<font style="color:rgb(6, 6, 7);">。</font>
++ `process_template_response`方法在视图函数返回一个`TemplateResponse`对象后被调用。
++ 如果视图返回的是一个`TemplateResponse`对象，Django会从中间件栈的末尾开始调用中间件的`process_template_response`方法，直到找到一个返回了`TemplateResponse`对象的方法或者到达中间件栈的开始。
++ 中间件在响应阶段会按照相反的顺序运行，其中包括`process_template_response`。
 
-<font style="color:rgb(6, 6, 7);"></font>
 
-#### <font style="color:rgb(6, 6, 7);">总结</font>
-+ <font style="color:rgb(6, 6, 7);">定义中间类</font>
-+ <font style="color:rgb(6, 6, 7);">类方法</font>
-    - <font style="color:rgb(6, 6, 7);">process_request</font>
-    - <font style="color:rgb(6, 6, 7);">process_view</font>
-    - <font style="color:rgb(6, 6, 7);">process_reponse</font>
-    - <font style="color:rgb(6, 6, 7);">process_exception，视图函数出现异常，自定义异常页面。</font>
-    - <font style="color:rgb(6, 6, 7);">process_template_response，视图函数返回TemplateResponse对象  or  对象中含有.render方法。</font>
 
-<font style="color:rgb(6, 6, 7);"></font>
+#### 总结
++ 定义中间类
++ 类方法
+    - process_request
+    - process_view
+    - process_reponse
+    - process_exception，视图函数出现异常，自定义异常页面。
+    - process_template_response，视图函数返回TemplateResponse对象  or  对象中含有.render方法。
 
-## <font style="color:rgb(6, 6, 7);">ORM操作</font>
-<font style="color:rgb(6, 6, 7);">ORM（Object-Relational Mapping，对象关系映射）是Django框架的核心组件之一，它允许开发者使用Python代码来操作数据库，而无需编写SQL语句。ORM抽象了数据库的操作，使得开发者可以像操作普通Python对象一样操作数据库</font>
 
-**<font style="color:rgb(6, 6, 7);">本质就是翻译的</font>**
 
-![](post/python/Django/1732162192972-fdc2e43c-6249-4700-87ce-05447e6c372a.png)
+## ORM操作
+ORM（Object-Relational Mapping，对象关系映射）是Django框架的核心组件之一，它允许开发者使用Python代码来操作数据库，而无需编写SQL语句。ORM抽象了数据库的操作，使得开发者可以像操作普通Python对象一样操作数据库
+
+**本质就是翻译的**
+
+![](/post/python/Django/1732162192972-fdc2e43c-6249-4700-87ce-05447e6c372a.png)
 
 特点：开发效率高，执行效率低
 
@@ -1690,7 +1705,7 @@ router = ["DemoRouter"]
 
 
 
-![](post/python/Django/1732325909611-81b8f2b8-b1d8-4f6f-93d1-55edf06e2e2c.png)
+![](/post/python/Django/1732325909611-81b8f2b8-b1d8-4f6f-93d1-55edf06e2e2c.png)
 
 
 
@@ -1725,7 +1740,7 @@ python manage.py migrate app01 --database=default
 python manage.py migrate app02 --database=bak
 ```
 
-![](post/python/Django/1732326481315-96d08a97-ae7f-49ca-8895-832b28cde414.png)
+![](/post/python/Django/1732326481315-96d08a97-ae7f-49ca-8895-832b28cde414.png)
 
 + 读写操作
 
@@ -1749,14 +1764,14 @@ def index(request):
 
 + router
 
-![](post/python/Django/1732326552654-4d53afce-ca65-4eda-9bf8-0a7c80cf3798.png)
+![](/post/python/Django/1732326552654-4d53afce-ca65-4eda-9bf8-0a7c80cf3798.png)
 
 
 
 #### 分库（单app）
 100张表，20张表-A数据库；50张表-B数据库
 
-![](post/python/Django/1732326718970-ad2e5342-406c-48a9-b91f-44e58e3cc8e0.png)
+![](/post/python/Django/1732326718970-ad2e5342-406c-48a9-b91f-44e58e3cc8e0.png)
 
 ```python
 from django.shortcuts import render, HttpResponse
@@ -1776,7 +1791,7 @@ def index(request):
     return HttpResponse("返回")
 ```
 
-![](post/python/Django/1732327229566-09bc94b8-3a1d-4c39-8bc5-66660b0832ed.png)
+![](/post/python/Django/1732327229566-09bc94b8-3a1d-4c39-8bc5-66660b0832ed.png)
 
 
 
@@ -1812,11 +1827,11 @@ class Meta:
     unique_together=((),) # 联合唯一索引
 ```
 
-![](post/python/Django/1732327662770-2fd0b964-e1aa-4fe9-b26c-035103380938.png)
+![](/post/python/Django/1732327662770-2fd0b964-e1aa-4fe9-b26c-035103380938.png)
 
 + 多对多
 
-![](post/python/Django/1732327680736-3c72a242-eeb6-4b65-9bf6-763542287727.png)
+![](/post/python/Django/1732327680736-3c72a242-eeb6-4b65-9bf6-763542287727.png)
 
 如果关系只有3列
 
@@ -1872,7 +1887,7 @@ class B2G(models.Model):
 
 + 一对一
 
-![](post/python/Django/1732327864468-81318d94-11f6-4107-bda8-01b951a84d53.png)
+![](/post/python/Django/1732327864468-81318d94-11f6-4107-bda8-01b951a84d53.png)
 
 ### 数据操作
 #### 单表
@@ -1899,7 +1914,7 @@ obj.save()
 
 控制输出格式 重写__str__方法
 
-![](post/python/Django/1732328790674-7e46b45b-8bc0-4323-83cd-7c80b33db501.png)
+![](/post/python/Django/1732328790674-7e46b45b-8bc0-4323-83cd-7c80b33db501.png)
 
 + 删
 
@@ -2137,20 +2152,20 @@ def index(request):
 ```
 
 #### 一对一
-![](post/python/Django/1732336942184-224968b7-56b0-4464-9ba3-71fc23969d44.png)
+![](/post/python/Django/1732336942184-224968b7-56b0-4464-9ba3-71fc23969d44.png)
 
 
 
 ## cookie和seeesion
 ### cookie
-![](post/python/Django/1732337342278-0d558d6d-b66c-4fe7-8a19-db307b1287a8.png)
+![](/post/python/Django/1732337342278-0d558d6d-b66c-4fe7-8a19-db307b1287a8.png)
 
 ```python
 127.0.0.1       v1.wupeiqi.com
 127.0.0.1       v2.wupeiqi.com
 ```
 
-![](post/python/Django/1732337452694-3063ebca-e902-4e52-8996-67df227dbcd7.png)
+![](/post/python/Django/1732337452694-3063ebca-e902-4e52-8996-67df227dbcd7.png)
 
 ### 配置session
 + 文件版
@@ -2220,7 +2235,7 @@ SESSION_EXPIRE_AT_BROWSER_CLOSE = False  # 是否关闭浏览器使得Session过
 SESSION_SAVE_EVERY_REQUEST = True  # 是否每次请求都保存Session，默认修改之后才保存
 ```
 
-![](post/python/Django/1732337591554-c318f336-ede4-418c-a048-ad2c07c652c4.png)
+![](/post/python/Django/1732337591554-c318f336-ede4-418c-a048-ad2c07c652c4.png)
 
 + 缓存
 
@@ -2295,4 +2310,3 @@ conn = get_redis_connection("default")
 conn.set("xx","123123")
 conn.get("xx")
 ```
-
