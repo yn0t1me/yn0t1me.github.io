@@ -1,6 +1,6 @@
 ---
-title: "First Test"
-slug: "First Test"
+title: "Second Test"
+slug: "Second Test"
 description: ""
 date: "2025-02-26T19:23:26+08:00"
 lastmod: "2025-02-26T19:23:26+08:00"
