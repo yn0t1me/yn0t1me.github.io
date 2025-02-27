@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>yn0t1me的博客</title>
+        <link>https://yn0t1me.github.io/</link>
+        <description>Recent content on yn0t1me的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>yn0t1me</copyright>
+        <lastBuildDate>Wed, 26 Feb 2025 19:23:26 +0800</lastBuildDate><atom:link href="https://yn0t1me.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>First Test</title>
+        <link>https://yn0t1me.github.io/p/first-test/</link>
+        <pubDate>Wed, 26 Feb 2025 19:23:26 +0800</pubDate>
+        
+        <guid>https://yn0t1me.github.io/p/first-test/</guid>
+        <description>&lt;img src="https://yn0t1me.github.io/post/python/test/test/assets/12120.jpg" alt="Featured image of post First Test" /&gt;&lt;p&gt;zheshiyige测试文章&lt;/p&gt;
+&lt;p&gt;这里是正文&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/test/test/assets/12121.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/test/test/assets/12120.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>First Test</title>
+        <link>https://yn0t1me.github.io/p/first-test/</link>
+        <pubDate>Wed, 26 Feb 2025 19:23:26 +0800</pubDate>
+        
+        <guid>https://yn0t1me.github.io/p/first-test/</guid>
+        <description>&lt;img src="https://yn0t1me.github.io/post/test/12120.jpg" alt="Featured image of post First Test" /&gt;&lt;p&gt;zheshiyige测试文章2&lt;/p&gt;
+&lt;p&gt;这里是正文&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/test/assets/12121.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/test/assets/12120.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>https://yn0t1me.github.io/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://yn0t1me.github.io/about/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>归档</title>
+        <link>https://yn0t1me.github.io/archives/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://yn0t1me.github.io/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://yn0t1me.github.io/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://yn0t1me.github.io/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>友链</title>
+        <link>https://yn0t1me.github.io/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://yn0t1me.github.io/links/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

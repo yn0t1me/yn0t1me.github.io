@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on yn0t1me的博客</title>
+        <link>https://yn0t1me.github.io/categories/</link>
+        <description>Recent content in Categories on yn0t1me的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>yn0t1me</copyright><atom:link href="https://yn0t1me.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Python</title>
+        <link>https://yn0t1me.github.io/categories/python/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://yn0t1me.github.io/categories/python/</guid>
+        <description>&lt;img src="https://yn0t1me.github.io/categories/python/python.jpg" alt="Featured image of post Python" /&gt;</description>
+        </item>
+        <item>
+        <title>前端</title>
+        <link>https://yn0t1me.github.io/categories/%E5%89%8D%E7%AB%AF/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://yn0t1me.github.io/categories/%E5%89%8D%E7%AB%AF/</guid>
+        <description>&lt;img src="https://yn0t1me.github.io/categories/%E5%89%8D%E7%AB%AF/front%20end.jpg" alt="Featured image of post 前端" /&gt;</description>
+        </item>
+        <item>
+        <title>数据结构与算法</title>
+        <link>https://yn0t1me.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://yn0t1me.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</guid>
+        <description>&lt;img src="https://yn0t1me.github.io/dsa.jpg" alt="Featured image of post 数据结构与算法" /&gt;</description>
+        </item>
+        <item>
+        <title>碎碎念</title>
+        <link>https://yn0t1me.github.io/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://yn0t1me.github.io/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</guid>
+        <description>&lt;img src="https://yn0t1me.github.io/talks.jpg" alt="Featured image of post 碎碎念" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
