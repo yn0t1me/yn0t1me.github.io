@@ -4,7 +4,7 @@ slug: "First Test"
 description: ""
 date: "2025-02-26T19:23:26+08:00"
 lastmod: "2025-02-26T19:23:26+08:00"
-image: post/python/test/test/12120.jpg
+image: post/python/test/12120.jpg
 categories: [""]
 tags: [""]
 ---
