@@ -553,7 +553,7 @@ let info = "我是" + "?" + "今年技术";
 </script>
 ```
 
-![image-20250208144832691](/post/前端/Vue3/image-20250208144832691.png)
+![image-20250208144832691](/post/Vue/Vue3/image-20250208144832691.png)
 
 扩展运算符（Spread Operator）用于将数组或对象展开为独立的元素
 
@@ -569,7 +569,7 @@ let info = "我是" + "?" + "今年技术";
 </script>
 ```
 
-![image-20250208145000810](/post/前端/Vue3/image-20250208145000810.png)
+![image-20250208145000810](/post/Vue/Vue3/image-20250208145000810.png)
 
 
 
@@ -861,20 +861,20 @@ import {name,addr} from 'vue'
 
 命名导出+命名导入
 
-![image-20221113100640595](/post/前端/Vue3/image-20221113100640595.png)
+![image-20221113100640595](/post/Vue/Vue3/image-20221113100640595.png)
 
 命名导出+命名空间导入
 
-![image-20221113100708949](/post/前端/Vue3/image-20221113100708949.png)
+![image-20221113100708949](/post/Vue/Vue3/image-20221113100708949.png)
 
 默认导出+默认导入
 
-![image-20221113100834135](/post/前端/Vue3/image-20221113100834135.png)
+![image-20221113100834135](/post/Vue/Vue3/image-20221113100834135.png)
 
 ### 关于环境
 
 - 关于node.js
-  ![image-20221113102414428](/post/前端/Vue3/image-20221113102414428.png)
+  ![image-20221113102414428](/post/Vue/Vue3/image-20221113102414428.png)
 
   
   
@@ -916,7 +916,7 @@ import {name,addr} from 'vue'
 
 使用WebStorm创建项目，自动配置好项目启动按钮等，但是vuex，vue-router等组件需要手动安装，其他均已配置好
 
-![image-20250208181420027](/post/前端/Vue3/image-20250208181420027.png)
+![image-20250208181420027](/post/Vue/Vue3/image-20250208181420027.png)
 
 ### 项目部署
 
@@ -936,11 +936,11 @@ npm run build
 
 - 将项目打包成静态文件，通常输出到 `dist` 文件夹中
 
-- ![image-20250208182317285](/post/前端/Vue3/image-20250208182317285.png)
+- ![image-20250208182317285](/post/Vue/Vue3/image-20250208182317285.png)
 
 第二步：将编译后的代码dist文件上传到服务器（阿里云、腾讯云）
 
-![image-20220312123432759](/post/前端/Vue3/image-20220312123432759.png)
+![image-20220312123432759](/post/Vue/Vue3/image-20220312123432759.png)
 
 第三步：安装nginx + 配置 + 启动
 
@@ -1010,7 +1010,7 @@ yum install nginx
   ```
 
 第四步：访问
-![image-20221112172411638](/post/前端/Vue3/image-20221112172411638.png)
+![image-20221112172411638](/post/Vue/Vue3/image-20221112172411638.png)
 
 
 
@@ -1538,7 +1538,7 @@ align-content: center;
 </style>
 ```
 
-![image-20221113112314914](/post/前端/Vue3/image-20221113112314914.png)
+![image-20221113112314914](/post/Vue/Vue3/image-20221113112314914.png)
 
 ```html
 <!DOCTYPE html>
@@ -1691,11 +1691,11 @@ align-content: center;
 - `vue add router`
   - 一键完成所有配置
 
-![image-20250208200643749](/post/前端/Vue3/image-20250208200643749.png)
+![image-20250208200643749](/post/Vue/Vue3/image-20250208200643749.png)
 
 可以看到，需要配置的地方都自动完成配置了
 
-![image-20250208201525153](/post/前端/Vue3/image-20250208201525153.png)
+![image-20250208201525153](/post/Vue/Vue3/image-20250208201525153.png)
 
 
 
@@ -1703,7 +1703,7 @@ align-content: center;
 
 #### 快速上手（案例）
 
-![image-20221113114601213](/post/前端/Vue3/image-20221113114601213.png)
+![image-20221113114601213](/post/Vue/Vue3/image-20221113114601213.png)
 
 详细见：**src-1.zip**
 
@@ -1795,7 +1795,7 @@ export default router
 
 #### URL传值（GET）
 
-![image-20221113121504119](/post/前端/Vue3/image-20221113121504119.png)
+![image-20221113121504119](/post/Vue/Vue3/image-20221113121504119.png)
 
 - 可以在App.vue的router-link标签内的to属性中传递参数
 
@@ -1869,7 +1869,7 @@ onBeforeRouteUpdate((to, from) => {
 
 #### URL动态参数
 
-![image-20221113142551078](/post/前端/Vue3/image-20221113142551078.png)
+![image-20221113142551078](/post/Vue/Vue3/image-20221113142551078.png)
 
 上面一种情况是get请求时携带参数（Query String），参数跟在?后面，例如xxx.xxx.com/course?page=2&size=1
 
@@ -2128,7 +2128,7 @@ export default router
 
 与其他一级标题相同，只需要编写自己的页面，然后切换时就可以嵌入到router-view中，保留顶部
 
-![image-20221113150609761](/post/前端/Vue3/image-20221113150609761.png)
+![image-20221113150609761](/post/Vue/Vue3/image-20221113150609761.png)
 
 `App.vue`
 
@@ -2262,11 +2262,11 @@ function doLogin() {
 
 需要将登录与其他一级路由独立开来，路由结构如下图，这样就可以保证登录界面无顶部，而其他页面都有导航栏
 
-![image-20250209194053844](/post/前端/Vue3/image-20250209194053844.png)
+![image-20250209194053844](/post/Vue/Vue3/image-20250209194053844.png)
 
-![image-20221113151724446](/post/前端/Vue3/image-20221113151724446.png)
+![image-20221113151724446](/post/Vue/Vue3/image-20221113151724446.png)
 
-![image-20221113151735710](/post/前端/Vue3/image-20221113151735710.png)
+![image-20221113151735710](/post/Vue/Vue3/image-20221113151735710.png)
 
 详见：src-5.zip
 
@@ -2454,7 +2454,7 @@ export default {
 
 #### 导航守卫（全局）
 
-![image-20221113154651481](/post/前端/Vue3/image-20221113154651481.png)
+![image-20221113154651481](/post/Vue/Vue3/image-20221113154651481.png)
 
 main.js配置全局导航守卫
 
@@ -2584,7 +2584,7 @@ npm install vue-vuex --save
 vue add vuex （推荐）
 ```
 
-![image-20250209205551225](/post/前端/Vue3/image-20250209205551225.png)
+![image-20250209205551225](/post/Vue/Vue3/image-20250209205551225.png)
 
 ### 使用示例
 

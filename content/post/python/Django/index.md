@@ -82,11 +82,11 @@ myproject
 #### Pycharm操作
 创建django项目
 
-![](/post/python/Django/1732088054327-ef4f3362-451c-4611-8d64-2ba238d83fb0.png)
+![](/post/Python/Django/1732088054327-ef4f3362-451c-4611-8d64-2ba238d83fb0.png)
 
 生成效果
 
-![](/post/python/Django/1732088219082-78f02080-3e2f-4b4f-8fee-60bcef043724.png)
+![](/post/Python/Django/1732088219082-78f02080-3e2f-4b4f-8fee-60bcef043724.png)
 
 ### 虚拟环境
 使用虚拟环境可以是各个项目之间的环境隔离开，为每一个项目单独创建一个虚拟环境，而不是使用系统解释器
@@ -113,7 +113,7 @@ cd \envs
 virtualenv crm --python=python39
 ```
 
-![](/post/python/Django/1732089006310-a4f0e644-3969-49ec-94b1-82bed5401f53.png)
+![](/post/Python/Django/1732089006310-a4f0e644-3969-49ec-94b1-82bed5401f53.png)
 
 + 激活虚拟环境
 
@@ -124,7 +124,7 @@ activate
 
 出现图示(虚拟环境名)表明激活成功
 
-![](/post/python/Django/1732089138522-4e67f8fc-51a0-4114-9e2e-50c28c2b5989.png)
+![](/post/Python/Django/1732089138522-4e67f8fc-51a0-4114-9e2e-50c28c2b5989.png)
 
 + 安装包
 
@@ -139,7 +139,7 @@ cd 项目目录
 django-admin startproject crm
 ```
 
-![](/post/python/Django/1732089413412-38b9f663-f1e6-4e9b-be4d-0336f8867975.png)
+![](/post/Python/Django/1732089413412-38b9f663-f1e6-4e9b-be4d-0336f8867975.png)
 
 ```python
 python manage.py startapp xxx
@@ -157,7 +157,7 @@ deactivate
 
 + 创建纯净项目+创建虚拟环境
 
-![](/post/python/Django/1732089953446-ec7f2c26-9685-4617-a075-302bc5c97ba1.png)
+![](/post/Python/Django/1732089953446-ec7f2c26-9685-4617-a075-302bc5c97ba1.png)
 
 + 创建django项目
 
@@ -175,17 +175,17 @@ django-admin startproject myproj
 
 因为我的pycharm虚拟环境有问题，只有在Script目录下才被激活，因此指定了一下创建路径
 
-![](/post/python/Django/1732090258231-79603868-d786-4ff9-840e-97f7297771a0.png)
+![](/post/Python/Django/1732090258231-79603868-d786-4ff9-840e-97f7297771a0.png)
 
 + 配置django的启动按钮
 
-![](/post/python/Django/1732091034828-6dd33792-a724-4923-85b1-042177510b1a.png)
+![](/post/Python/Django/1732091034828-6dd33792-a724-4923-85b1-042177510b1a.png)
 
 fix键
 
-![](/post/python/Django/1732091520209-c45cff8d-7cfb-495e-ab4a-471cae5abb49.png)
+![](/post/Python/Django/1732091520209-c45cff8d-7cfb-495e-ab4a-471cae5abb49.png)
 
-![](/post/python/Django/1732091447518-e3c10327-4abf-458a-86ac-f4a432e468f0.png)
+![](/post/Python/Django/1732091447518-e3c10327-4abf-458a-86ac-f4a432e468f0.png)
 
 ### app创建
 单个app目录结构如下
@@ -233,7 +233,7 @@ python manage.py startapp backend apps/backend
 ```
 
 ### 纯净版
-![](/post/python/Django/1732091798025-cc0487a7-6d8c-4a3f-9dfb-3105790af457.png)
+![](/post/Python/Django/1732091798025-cc0487a7-6d8c-4a3f-9dfb-3105790af457.png)
 
 将不需要使用的app，中间件，模板在settings文件中注释即可得到一个纯净版的django项目
 
@@ -362,7 +362,7 @@ Django工作流程：
 
 当用户发来一个请求(request)时，Django会对请求头信息进行解析，解析出用户需要访问的url地址，然后根据路由urls.py中的定义的对应关系把请求转发到相应的视图处理。视图会从数据库读取需要的数据，指定渲染模板，最后返回响应数据
 
-![](/post/python/Django/1732094182588-90c28716-2202-46cf-adf8-e20294930f80.png)
+![](/post/Python/Django/1732094182588-90c28716-2202-46cf-adf8-e20294930f80.png)
 
 简易开发流程
 
@@ -384,13 +384,13 @@ INSTALLED_APPS = [
 
 + 在urls中添加路径与视图函数对应关系
 
-![](/post/python/Django/1732094938489-95a7b53c-5abc-42fa-a12a-0c1566f89138.png)
+![](/post/Python/Django/1732094938489-95a7b53c-5abc-42fa-a12a-0c1566f89138.png)
 
 + 创建模型
 
 在app下新建名为models.py，在其中编写数据库字段及表与表的关联关系
 
-![](/post/python/Django/1732095241289-bb64416f-c9c6-4e57-b3a1-79e75148829f.png)
+![](/post/Python/Django/1732095241289-bb64416f-c9c6-4e57-b3a1-79e75148829f.png)
 
 使用`python manage.py makemigrations`和`python manage.py migrate`命令让django在数据库中创建数据表
 
@@ -398,13 +398,13 @@ INSTALLED_APPS = [
 
 在app下新建名为views的目录，根据业务功能创建account.py，并在其中定义login函数，从数据库读取数据，处理逻辑，指定渲染模板并将数据传递给对应模板
 
-![](/post/python/Django/1732095370662-e9a615cc-c9d0-4b4c-98d5-464042123b53.png)
+![](/post/Python/Django/1732095370662-e9a615cc-c9d0-4b4c-98d5-464042123b53.png)
 
 + 编辑模板
 
 创建在web/templates下创建login.html文件用于展示视图传来的数据，Django还提供了自己的模板语言用来渲染模板。
 
-![](/post/python/Django/1732095544263-c6c72fdd-a862-458a-9ca9-fa81008113c5.png)
+![](/post/Python/Django/1732095544263-c6c72fdd-a862-458a-9ca9-fa81008113c5.png)
 
 
 
@@ -664,9 +664,9 @@ url2 = reverse("x2:auth")    # /web/auth/
 
 补充
 
-![](/post/python/Django/1732101851412-65b76dda-2530-4dce-a946-d35005525825.png)
+![](/post/Python/Django/1732101851412-65b76dda-2530-4dce-a946-d35005525825.png)
 
-![](/post/python/Django/1732101903439-47168c0f-aa3d-41f4-8d00-bb46e599e925.png)
+![](/post/Python/Django/1732101903439-47168c0f-aa3d-41f4-8d00-bb46e599e925.png)
 
 
 
@@ -714,7 +714,7 @@ data = yy(2)
 print(data)
 ```
 
-![](/post/python/Django/1732102693440-7bbb4b99-7711-46b6-a0d9-981da50359f6.png)
+![](/post/Python/Django/1732102693440-7bbb4b99-7711-46b6-a0d9-981da50359f6.png)
 
 利用partial使得_path函数传入的Pattern不同，处理路由的方式不同
 
@@ -884,7 +884,7 @@ return render(request, 'api/login.html')
 
 html文件放置
 
-![](/post/python/Django/1732103923915-1c02e27c-d9b9-4a1a-94da-f87b6d04111c.png)
+![](/post/Python/Django/1732103923915-1c02e27c-d9b9-4a1a-94da-f87b6d04111c.png)
 
 
 
@@ -909,7 +909,7 @@ def login(request):
 ```
 
 ### FBV和CBV
-![](/post/python/Django/1732104063621-29bab11d-9779-48b7-bd77-8643fc50c51a.png)
+![](/post/Python/Django/1732104063621-29bab11d-9779-48b7-bd77-8643fc50c51a.png)
 
 源码分析
 
@@ -1134,7 +1134,7 @@ def home(request):
 
 
 
-![](/post/python/Django/1732153383490-62011243-3759-49fc-b4ce-7a2542acc514.png)
+![](/post/Python/Django/1732153383490-62011243-3759-49fc-b4ce-7a2542acc514.png)
 
 弹窗内容为{{ n2 }}，因为在js文件是在浏览器端发起的请求，此时模板渲染早已完成
 
@@ -1146,11 +1146,11 @@ def home(request):
 > 调用方法不用加（）
 >
 
-![](/post/python/Django/1732154380277-df3b82d6-2172-4972-a56c-cc37bbb63e96.png)
+![](/post/Python/Django/1732154380277-df3b82d6-2172-4972-a56c-cc37bbb63e96.png)
 
 内置函数
 
-![](/post/python/Django/1732154498692-89b2f800-e9b8-48f2-b443-2815d348f102.png)
+![](/post/Python/Django/1732154498692-89b2f800-e9b8-48f2-b443-2815d348f102.png)
 
 标签
 
@@ -1318,7 +1318,7 @@ custom_template.html文件
 
 
 #### 模板的导入
-![](/post/python/Django/1732156134550-7ae71e20-74ab-4cf3-bfbf-b308bdc597bc.png)
+![](/post/Python/Django/1732156134550-7ae71e20-74ab-4cf3-bfbf-b308bdc597bc.png)
 
 先继承模板，再导入嵌套模板，最后再进行渲染
 
@@ -1329,24 +1329,24 @@ custom_template.html文件
 ## 中间件
 Django生命周期
 
-![](/post/python/Django/1732156310706-5f8a5e35-07be-4e03-9b5c-f8cc8a437e41.png)
+![](/post/Python/Django/1732156310706-5f8a5e35-07be-4e03-9b5c-f8cc8a437e41.png)
 
 + 类
 + 定义方法
 + 注册
 
 ### 简单实例（原始）
-![](/post/python/Django/1732156549515-a6a6761d-fe06-4d55-a6bb-bed26c8f59fa.png)
+![](/post/Python/Django/1732156549515-a6a6761d-fe06-4d55-a6bb-bed26c8f59fa.png)
 
-![](/post/python/Django/1732156555542-dee6a05a-5ace-48ed-a4c3-83c7c5aa76c3.png)
+![](/post/Python/Django/1732156555542-dee6a05a-5ace-48ed-a4c3-83c7c5aa76c3.png)
 
 ### MiddlewareMixin（推荐）
 #### 食用方法
 自定义process_request和process_response方法，其他继承MiddlewareMixin即可
 
-![](/post/python/Django/1732156660779-a5e2accc-5f34-4743-b16e-1de4162bbcd8.png)
+![](/post/Python/Django/1732156660779-a5e2accc-5f34-4743-b16e-1de4162bbcd8.png)
 
-![](/post/python/Django/1732156674883-057ef91a-1730-41ff-9973-04353a8d72b1.png)
+![](/post/Python/Django/1732156674883-057ef91a-1730-41ff-9973-04353a8d72b1.png)
 
 
 
@@ -1379,9 +1379,9 @@ django内部默认执行call方法，传入参数。
 ```
 
 #### 执行流程
-![](/post/python/Django/1732156863476-dd0017c5-a2b6-42b0-97b3-ef8bbf4c0bee.png)
+![](/post/Python/Django/1732156863476-dd0017c5-a2b6-42b0-97b3-ef8bbf4c0bee.png)
 
-![](/post/python/Django/1732156875903-033f2390-2324-440e-b3a1-119536220a07.png)
+![](/post/Python/Django/1732156875903-033f2390-2324-440e-b3a1-119536220a07.png)
 
 > process_request都没有返回值，如果有返回值则直接执行其process_response，不再执行后续中间件及视图函数
 >
@@ -1390,7 +1390,7 @@ django内部默认执行call方法，传入参数。
 > process_response都有返回值，用于给response添加信息
 >
 
-![](/post/python/Django/1732156982789-92493c72-3b89-47e8-b900-5abb53163ef2.png)
+![](/post/Python/Django/1732156982789-92493c72-3b89-47e8-b900-5abb53163ef2.png)
 
 中间件间的执行顺序按照注册顺序
 
@@ -1403,7 +1403,7 @@ django内部默认执行call方法，传入参数。
 > process_view是在django中写死了的
 >
 
-![](/post/python/Django/1732157126083-056bdf52-84e4-43c5-a1ef-de12c1307d1c.png)
+![](/post/Python/Django/1732157126083-056bdf52-84e4-43c5-a1ef-de12c1307d1c.png)
 
 
 
@@ -1416,9 +1416,9 @@ django内部默认执行call方法，传入参数。
 > 这个方法允许开发者在异常发生时执行一些清理工作，或者返回一个自定义的响应给客户端，而不是默认的错误页面
 >
 
-![](/post/python/Django/1732157307696-c14048f3-9e5d-46f3-920e-936258e8efe0.png)
+![](/post/Python/Django/1732157307696-c14048f3-9e5d-46f3-920e-936258e8efe0.png)
 
-![](/post/python/Django/1732157312628-1d652b10-e89d-47b3-9e86-33d5c9c83a3d.png)
+![](/post/Python/Django/1732157312628-1d652b10-e89d-47b3-9e86-33d5c9c83a3d.png)
 
 
 
@@ -1450,7 +1450,7 @@ ORM（Object-Relational Mapping，对象关系映射）是Django框架的核心�
 
 **本质就是翻译的**
 
-![](/post/python/Django/1732162192972-fdc2e43c-6249-4700-87ce-05447e6c372a.png)
+![](/post/Python/Django/1732162192972-fdc2e43c-6249-4700-87ce-05447e6c372a.png)
 
 特点：开发效率高，执行效率低
 
@@ -1705,7 +1705,7 @@ router = ["DemoRouter"]
 
 
 
-![](/post/python/Django/1732325909611-81b8f2b8-b1d8-4f6f-93d1-55edf06e2e2c.png)
+![](/post/Python/Django/1732325909611-81b8f2b8-b1d8-4f6f-93d1-55edf06e2e2c.png)
 
 
 
@@ -1740,7 +1740,7 @@ python manage.py migrate app01 --database=default
 python manage.py migrate app02 --database=bak
 ```
 
-![](/post/python/Django/1732326481315-96d08a97-ae7f-49ca-8895-832b28cde414.png)
+![](/post/Python/Django/1732326481315-96d08a97-ae7f-49ca-8895-832b28cde414.png)
 
 + 读写操作
 
@@ -1764,14 +1764,14 @@ def index(request):
 
 + router
 
-![](/post/python/Django/1732326552654-4d53afce-ca65-4eda-9bf8-0a7c80cf3798.png)
+![](/post/Python/Django/1732326552654-4d53afce-ca65-4eda-9bf8-0a7c80cf3798.png)
 
 
 
 #### 分库（单app）
 100张表，20张表-A数据库；50张表-B数据库
 
-![](/post/python/Django/1732326718970-ad2e5342-406c-48a9-b91f-44e58e3cc8e0.png)
+![](/post/Python/Django/1732326718970-ad2e5342-406c-48a9-b91f-44e58e3cc8e0.png)
 
 ```python
 from django.shortcuts import render, HttpResponse
@@ -1791,7 +1791,7 @@ def index(request):
     return HttpResponse("返回")
 ```
 
-![](/post/python/Django/1732327229566-09bc94b8-3a1d-4c39-8bc5-66660b0832ed.png)
+![](/post/Python/Django/1732327229566-09bc94b8-3a1d-4c39-8bc5-66660b0832ed.png)
 
 
 
@@ -1827,11 +1827,11 @@ class Meta:
     unique_together=((),) # 联合唯一索引
 ```
 
-![](/post/python/Django/1732327662770-2fd0b964-e1aa-4fe9-b26c-035103380938.png)
+![](/post/Python/Django/1732327662770-2fd0b964-e1aa-4fe9-b26c-035103380938.png)
 
 + 多对多
 
-![](/post/python/Django/1732327680736-3c72a242-eeb6-4b65-9bf6-763542287727.png)
+![](/post/Python/Django/1732327680736-3c72a242-eeb6-4b65-9bf6-763542287727.png)
 
 如果关系只有3列
 
@@ -1887,7 +1887,7 @@ class B2G(models.Model):
 
 + 一对一
 
-![](/post/python/Django/1732327864468-81318d94-11f6-4107-bda8-01b951a84d53.png)
+![](/post/Python/Django/1732327864468-81318d94-11f6-4107-bda8-01b951a84d53.png)
 
 ### 数据操作
 #### 单表
@@ -1914,7 +1914,7 @@ obj.save()
 
 控制输出格式 重写__str__方法
 
-![](/post/python/Django/1732328790674-7e46b45b-8bc0-4323-83cd-7c80b33db501.png)
+![](/post/Python/Django/1732328790674-7e46b45b-8bc0-4323-83cd-7c80b33db501.png)
 
 + 删
 
@@ -2152,20 +2152,20 @@ def index(request):
 ```
 
 #### 一对一
-![](/post/python/Django/1732336942184-224968b7-56b0-4464-9ba3-71fc23969d44.png)
+![](/post/Python/Django/1732336942184-224968b7-56b0-4464-9ba3-71fc23969d44.png)
 
 
 
 ## cookie和seeesion
 ### cookie
-![](/post/python/Django/1732337342278-0d558d6d-b66c-4fe7-8a19-db307b1287a8.png)
+![](/post/Python/Django/1732337342278-0d558d6d-b66c-4fe7-8a19-db307b1287a8.png)
 
 ```python
 127.0.0.1       v1.wupeiqi.com
 127.0.0.1       v2.wupeiqi.com
 ```
 
-![](/post/python/Django/1732337452694-3063ebca-e902-4e52-8996-67df227dbcd7.png)
+![](/post/Python/Django/1732337452694-3063ebca-e902-4e52-8996-67df227dbcd7.png)
 
 ### 配置session
 + 文件版
@@ -2235,7 +2235,7 @@ SESSION_EXPIRE_AT_BROWSER_CLOSE = False  # 是否关闭浏览器使得Session过
 SESSION_SAVE_EVERY_REQUEST = True  # 是否每次请求都保存Session，默认修改之后才保存
 ```
 
-![](/post/python/Django/1732337591554-c318f336-ede4-418c-a048-ad2c07c652c4.png)
+![](/post/Python/Django/1732337591554-c318f336-ede4-418c-a048-ad2c07c652c4.png)
 
 + 缓存
 

@@ -1,5 +1,5 @@
 ---
-title: "数据结构与算法"
+title: "Data Structures and Algorithms"
 description: "记录算法题刷题过程及总结"
 slug: "dsa"
 image: "dsa.jpg"

@@ -156,7 +156,7 @@ USER = [
 
 + 将菜单 + 角色写入数据库
 
-![](/post/python/order_trading_platform/1732339379585-36fe528c-6de1-4063-8dd3-410112a3d40c.png)
+![](/post/Python/order_trading_platform/1732339379585-36fe528c-6de1-4063-8dd3-410112a3d40c.png)
 
 ```python
 # 在页面展示数据库
@@ -210,7 +210,7 @@ ADMIN = [
 
 拓展：菜单多级关系
 
-![](/post/python/order_trading_platform/1732339989906-a9856733-c818-43dd-8bac-d93df45a45fa.png)
+![](/post/Python/order_trading_platform/1732339989906-a9856733-c818-43dd-8bac-d93df45a45fa.png)
 
 #### 权限
 权限的判定，要考虑：正常的点击、非法的输入
@@ -245,7 +245,7 @@ admin访问某个URL + 路由信息（name，namespace），获取当前URL /lev
 
 + 数据库方式
 
-![](/post/python/order_trading_platform/1732349583777-e301bcc2-78a6-4951-bd36-e46f5e864674.png)
+![](/post/Python/order_trading_platform/1732349583777-e301bcc2-78a6-4951-bd36-e46f5e864674.png)
 
 
 
@@ -838,7 +838,7 @@ else:
     ...
 ```
 
-![](/post/python/order_trading_platform/1732377343476-dfd6b6b1-1b53-4861-b14a-40c18d8dfacc.png)
+![](/post/Python/order_trading_platform/1732377343476-dfd6b6b1-1b53-4861-b14a-40c18d8dfacc.png)
 
     - 拓展
 
@@ -847,7 +847,7 @@ else:
 form.add_error("password", "用户名或密码错误")
 ```
 
-![](/post/python/order_trading_platform/1732377389035-fddedf5e-b105-4d35-80bd-b17ab91f489a.png)
+![](/post/Python/order_trading_platform/1732377389035-fddedf5e-b105-4d35-80bd-b17ab91f489a.png)
 
 
 
@@ -1003,11 +1003,11 @@ class LevelModelForm(BootStrapForm, forms.ModelForm):
 ```
 
 ##### 局部去除bootstrap样式 + 修改字段样式
-![](/post/python/order_trading_platform/1732416059542-81dab9ba-f776-472d-8ab7-f55dfc0324fb.png)
+![](/post/Python/order_trading_platform/1732416059542-81dab9ba-f776-472d-8ab7-f55dfc0324fb.png)
 
 原理：
 
-![](/post/python/order_trading_platform/1732416076683-02a8e815-2209-4c5d-ace3-ef48620a4ed6.png)
+![](/post/Python/order_trading_platform/1732416076683-02a8e815-2209-4c5d-ace3-ef48620a4ed6.png)
 
 
 
@@ -1036,11 +1036,11 @@ form = LevelModelForm(instance=level_object)
 #### 修改查询条件
 + models中的limit_choice_to字段
 
-![](/post/python/order_trading_platform/1732415713151-2d59c2e8-efcd-451a-a38e-34eca240a6da.png)
+![](/post/Python/order_trading_platform/1732415713151-2d59c2e8-efcd-451a-a38e-34eca240a6da.png)
 
 + 自定义choices和queryset
 
-![](/post/python/order_trading_platform/1732415742966-cf853046-b791-41e2-a730-d50c7f021ef2.png)
+![](/post/Python/order_trading_platform/1732415742966-cf853046-b791-41e2-a730-d50c7f021ef2.png)
 
 传入request以便后续条件复杂化
 
@@ -1054,13 +1054,13 @@ form = LevelModelForm(instance=level_object)
 
 
 ### 队列
-![](/post/python/order_trading_platform/1732349610537-4e709222-39a3-4489-b719-1cd4e1008d0e.png)
+![](/post/Python/order_trading_platform/1732349610537-4e709222-39a3-4489-b719-1cd4e1008d0e.png)
 
 + rabbitMQ，Linux命令+服务构建+python代码。
 + kafka，Linux命令+服务构建+python代码。
 + redis的列表
 
-![](/post/python/order_trading_platform/1732349626708-a5c87e69-4f8d-42f0-816e-4751167eb4aa.png)
+![](/post/Python/order_trading_platform/1732349626708-a5c87e69-4f8d-42f0-816e-4751167eb4aa.png)
 
 
 
@@ -1130,20 +1130,20 @@ pool.shutdown()  # 卡主，等待所有的任务执行完毕。
 
 ### 分页组件
 #### 选项生成
-![](/post/python/order_trading_platform/1732416637414-b8a1fbc2-d88a-49e0-b546-5326800b9acc.png)
+![](/post/Python/order_trading_platform/1732416637414-b8a1fbc2-d88a-49e0-b546-5326800b9acc.png)
 
 #### 页码逻辑和动态页码
-![](/post/python/order_trading_platform/1732416707994-199c0f3d-c70c-4632-9c20-c95ab4bea4ea.png)
+![](/post/Python/order_trading_platform/1732416707994-199c0f3d-c70c-4632-9c20-c95ab4bea4ea.png)
 
 
 
 #### 分页组件的封装
-![](/post/python/order_trading_platform/1732416742666-835e5124-e6cd-41aa-a4a2-489e5b271587.png)
+![](/post/Python/order_trading_platform/1732416742666-835e5124-e6cd-41aa-a4a2-489e5b271587.png)
 
 #### 优化
 加入首页、尾页、上一页、下一页
 
-![](/post/python/order_trading_platform/1732416785524-9beb4d22-b0bb-4af7-80c0-e50edd5b94f9.png)
+![](/post/Python/order_trading_platform/1732416785524-9beb4d22-b0bb-4af7-80c0-e50edd5b94f9.png)
 
 #### querydict
 ```python
@@ -1183,7 +1183,7 @@ paramString = request.GET.urlencode() "filter=wupeiqi&age=19&page=3"
 ```
 
 #### 解决url参数携带问题
-![](/post/python/order_trading_platform/1732416996115-a1389f86-7e9a-44bc-98c3-4d33f67f01b7.png)
+![](/post/Python/order_trading_platform/1732416996115-a1389f86-7e9a-44bc-98c3-4d33f67f01b7.png)
 
 #### 最终版
 
@@ -1318,7 +1318,7 @@ def demo(request, name, *args, **kwargs):
     return "...."
 ```
 
-![](/post/python/order_trading_platform/1732417614947-651a16d8-3a0e-41dd-af35-d4f3ab9236b9.png)
+![](/post/Python/order_trading_platform/1732417614947-651a16d8-3a0e-41dd-af35-d4f3ab9236b9.png)
 
 ```python
 生成内容分为按钮的生成和表单中td标签的生成和th标点的生成
@@ -1326,7 +1326,7 @@ def demo(request, name, *args, **kwargs):
 但级别管理是通过url:level/delete/1来接收pk然后直接删除，没有模态框等操作，因此重写delete_url_permission方法
 ```
 
-![](/post/python/order_trading_platform/1732419352138-59ac7616-92c9-4bf0-bd2c-b807c364e1b8.png)
+![](/post/Python/order_trading_platform/1732419352138-59ac7616-92c9-4bf0-bd2c-b807c364e1b8.png)
 
 
 
@@ -1369,7 +1369,7 @@ def policy_edit(request, pk):
     return redirect(url)
 ```
 
-![](/post/python/order_trading_platform/1732420375791-3a55f11f-dbde-49a1-8afb-dc818037c834.png)
+![](/post/Python/order_trading_platform/1732420375791-3a55f11f-dbde-49a1-8afb-dc818037c834.png)
 
 
 
@@ -1582,7 +1582,7 @@ if __name__ == '__main__':
 
 
 ### Message组件
-![](/post/python/order_trading_platform/1732720463327-c9cff61e-1c73-4592-a43f-b2363cdf865d.png)
+![](/post/Python/order_trading_platform/1732720463327-c9cff61e-1c73-4592-a43f-b2363cdf865d.png)
 
 #### 配置
 ```python
@@ -1593,7 +1593,7 @@ MESSAGE_STORAGE = 'django.contrib.messages.storage.session.SessionStorage'
 
 如图四个位置
 
-![](/post/python/order_trading_platform/1732720505524-787489d0-acec-4b44-9f2a-0f284c23571d.png)
+![](/post/Python/order_trading_platform/1732720505524-787489d0-acec-4b44-9f2a-0f284c23571d.png)
 
 #### 读取值
 ```python
@@ -1613,7 +1613,7 @@ for msg in messages:
 </ul>
 ```
 
-![](/post/python/order_trading_platform/1732720567644-3d4b2423-3498-4e03-8101-48bf4dff412d.png)
+![](/post/Python/order_trading_platform/1732720567644-3d4b2423-3498-4e03-8101-48bf4dff412d.png)
 
 #### 源码分析
 前戏：message是一个对象（包裹）。
@@ -1637,9 +1637,9 @@ messages.add_message(reqeust, messages.ERROR, "删除成功1")
 messages.add_message(reqeust, messages.SUCCESS, "删除成功2", extra_tags="哈哈哈")
 ```
 
-![](/post/python/order_trading_platform/1732720676596-a3032643-a0f7-4073-a3ff-abe7f170a6eb.png)
+![](/post/Python/order_trading_platform/1732720676596-a3032643-a0f7-4073-a3ff-abe7f170a6eb.png)
 
-![](/post/python/order_trading_platform/1732720682764-31163ba5-8c3d-485a-a48d-a78521419e80.png)
+![](/post/Python/order_trading_platform/1732720682764-31163ba5-8c3d-485a-a48d-a78521419e80.png)
 
 + 【设置】中间件process_request加载
 + 【设置】在视图函数中往message中写入值（内存）
@@ -1657,9 +1657,9 @@ added_new = True，老的数据源加载的+新增的都重新保存到数据源
 
 + 1.1 process_request
 
-![](/post/python/order_trading_platform/1732720747603-5775175f-9420-481a-90af-d35b154cf25f.png)
+![](/post/Python/order_trading_platform/1732720747603-5775175f-9420-481a-90af-d35b154cf25f.png)
 
-![](/post/python/order_trading_platform/1732720752615-2aa212e3-bc17-4946-a4be-4ba5cd7bb10f.png)
+![](/post/Python/order_trading_platform/1732720752615-2aa212e3-bc17-4946-a4be-4ba5cd7bb10f.png)
 
 ```python
 给request._message赋值了一个SessionStorage对象
@@ -1667,19 +1667,19 @@ added_new = True，老的数据源加载的+新增的都重新保存到数据源
 
 + 1.2 删除视图
 
-![](/post/python/order_trading_platform/1732720777652-624b9187-f46d-4c6e-8cf4-a26680c26721.png)
+![](/post/Python/order_trading_platform/1732720777652-624b9187-f46d-4c6e-8cf4-a26680c26721.png)
 
 + 1.3 request_response
 
-![](/post/python/order_trading_platform/1732720791532-35f3a55a-352d-4d01-900b-5118d007448d.png)
+![](/post/Python/order_trading_platform/1732720791532-35f3a55a-352d-4d01-900b-5118d007448d.png)
 
 + 2.1 process_request + 列表视图
 
-![](/post/python/order_trading_platform/1732720810924-4c5bbd80-c48a-41ef-a072-c04da375676b.png)
+![](/post/Python/order_trading_platform/1732720810924-4c5bbd80-c48a-41ef-a072-c04da375676b.png)
 
 + 2.2 request_response
 
-![](/post/python/order_trading_platform/1732720828091-ff87ebff-38e7-4373-9f97-01fd9b82ada5.png)
+![](/post/Python/order_trading_platform/1732720828091-ff87ebff-38e7-4373-9f97-01fd9b82ada5.png)
 
 
 
@@ -2172,13 +2172,13 @@ raise ValidationError("用户名格式错误")
 
 
 
-![](/post/python/order_trading_platform/1732500920107-dd72d923-0813-43c5-9cc2-cbc1851acf06.png)
+![](/post/Python/order_trading_platform/1732500920107-dd72d923-0813-43c5-9cc2-cbc1851acf06.png)
 
 + 用户看到login.html填写表单并提交，回到`account.py下的login()视图函数`
 
-![](/post/python/order_trading_platform/1732501766273-5e19ada5-1989-4867-b1db-5b2389279505.png)
+![](/post/Python/order_trading_platform/1732501766273-5e19ada5-1989-4867-b1db-5b2389279505.png)
 
-![](/post/python/order_trading_platform/1732501497237-59a80514-8caa-4035-984d-d8386fab982a.png)
+![](/post/Python/order_trading_platform/1732501497237-59a80514-8caa-4035-984d-d8386fab982a.png)
 
 #### 手机验证码登录
 ```python
@@ -2190,25 +2190,25 @@ json返回值对象
 
 + 点击短信登陆进行跳转
 
-![](/post/python/order_trading_platform/1732501594477-80367c51-4524-4f77-bf0f-fae47c252c31.png)
+![](/post/Python/order_trading_platform/1732501594477-80367c51-4524-4f77-bf0f-fae47c252c31.png)
 
-![](/post/python/order_trading_platform/1732501621069-6f7e6a6c-bd40-4b07-a3ee-ee4b805e5cae.png)
+![](/post/Python/order_trading_platform/1732501621069-6f7e6a6c-bd40-4b07-a3ee-ee4b805e5cae.png)
 
 + 用户看到sms_login.html
 
-![](/post/python/order_trading_platform/1732502286562-c6bb7e54-0678-4fc8-8bb5-7995c3bef201.png)
+![](/post/Python/order_trading_platform/1732502286562-c6bb7e54-0678-4fc8-8bb5-7995c3bef201.png)
 
 + 发送验证码前置
 
-![](/post/python/order_trading_platform/1732502965263-ae771897-7ce1-4d95-9db7-0e1d24fc6218.png)
+![](/post/Python/order_trading_platform/1732502965263-ae771897-7ce1-4d95-9db7-0e1d24fc6218.png)
 
 + 发送验证码
 
-![](/post/python/order_trading_platform/1732503252223-95871ea5-ce14-4d93-b339-4200302cf554.png)
+![](/post/Python/order_trading_platform/1732503252223-95871ea5-ce14-4d93-b339-4200302cf554.png)
 
 + 登录成功
 
-![](/post/python/order_trading_platform/1732503341745-241794bd-3215-4d53-bd86-88cff7951f3d.png)
+![](/post/Python/order_trading_platform/1732503341745-241794bd-3215-4d53-bd86-88cff7951f3d.png)
 
 
 
@@ -2237,7 +2237,7 @@ request中取出访问路径 request.path_info
 登陆成功封装用户信息至request
 ```
 
-![](/post/python/order_trading_platform/1732583177967-d3c9f1f3-2401-4c56-b006-3f5f12d5cac7.png)
+![](/post/Python/order_trading_platform/1732583177967-d3c9f1f3-2401-4c56-b006-3f5f12d5cac7.png)
 
 + 菜单页面优化
 
@@ -2329,21 +2329,21 @@ home.html
 
 + 动态菜单
 
-![](/post/python/order_trading_platform/1732598117149-f4ddfbba-a2d3-48e7-af1d-4f0f0453756d.png)
+![](/post/Python/order_trading_platform/1732598117149-f4ddfbba-a2d3-48e7-af1d-4f0f0453756d.png)
 
 + 顶部导航（注销）
 
-![](/post/python/order_trading_platform/1732598564449-30c0f304-0cac-4e20-83ca-27421423c926.png)
+![](/post/Python/order_trading_platform/1732598564449-30c0f304-0cac-4e20-83ca-27421423c926.png)
 
 + 权限校验
 
-![](/post/python/order_trading_platform/1732694957748-4f79bd97-c777-4c4e-b154-f56c7a30aa15.png)
+![](/post/Python/order_trading_platform/1732694957748-4f79bd97-c777-4c4e-b154-f56c7a30aa15.png)
 
 + 顶部导航栏与关联菜单选中样式
 
-![](/post/python/order_trading_platform/1732695541151-0b5c3516-7df2-411b-9539-26e85b61cda7.png)
+![](/post/Python/order_trading_platform/1732695541151-0b5c3516-7df2-411b-9539-26e85b61cda7.png)
 
-![](/post/python/order_trading_platform/1732695642676-d757fb34-e278-4b92-9314-dd73eeed9874.png)
+![](/post/Python/order_trading_platform/1732695642676-d757fb34-e278-4b92-9314-dd73eeed9874.png)
 
 #### 按钮显示权限
 ```python
@@ -2450,32 +2450,32 @@ def has_permission(request, others):
 
 
 ### 级别管理
-![](/post/python/order_trading_platform/1732700979200-7e6e5546-7dee-4532-bffa-ff9f314e549f.png)
+![](/post/Python/order_trading_platform/1732700979200-7e6e5546-7dee-4532-bffa-ff9f314e549f.png)
 
 #### 级别列表
 ```python
 如果用户没有对应权限就不要显示按钮
 ```
 
-![](/post/python/order_trading_platform/1732701720064-3a58477a-81ee-41b7-8449-593d4665076a.png)
+![](/post/Python/order_trading_platform/1732701720064-3a58477a-81ee-41b7-8449-593d4665076a.png)
 
 
 
 #### 新增级别
-![](/post/python/order_trading_platform/1732708539130-2b8bfdc2-487c-4d32-8f9e-8e5440e05d2c.png)
+![](/post/Python/order_trading_platform/1732708539130-2b8bfdc2-487c-4d32-8f9e-8e5440e05d2c.png)
 
 #### 编辑级别
-![](/post/python/order_trading_platform/1732708762614-b6b7596c-1305-428e-82b3-5e979cb5c4a6.png)
+![](/post/Python/order_trading_platform/1732708762614-b6b7596c-1305-428e-82b3-5e979cb5c4a6.png)
 
 #### 删除级别
-![](/post/python/order_trading_platform/1732709150253-189c3fac-8b69-4f92-889a-a3312cf450b2.png)
+![](/post/Python/order_trading_platform/1732709150253-189c3fac-8b69-4f92-889a-a3312cf450b2.png)
 
 
 
 
 
 ### 客户管理
-![](/post/python/order_trading_platform/1732709272761-5737ab89-656d-499f-8141-2793e6cb4862.png)
+![](/post/Python/order_trading_platform/1732709272761-5737ab89-656d-499f-8141-2793e6cb4862.png)
 
 
 
@@ -2494,13 +2494,13 @@ def has_permission(request, others):
 
 视图函数
 
-![](/post/python/order_trading_platform/1732709842539-afbc14bf-f6bd-4dae-9dd7-cdd0cfa26063.png)
+![](/post/Python/order_trading_platform/1732709842539-afbc14bf-f6bd-4dae-9dd7-cdd0cfa26063.png)
 
 模板
 
-![](/post/python/order_trading_platform/1732710156474-b8061e66-cbe8-4ef2-8f27-cc11bde7e842.png)
+![](/post/Python/order_trading_platform/1732710156474-b8061e66-cbe8-4ef2-8f27-cc11bde7e842.png)
 
-![](/post/python/order_trading_platform/1732710607268-8e661743-6b94-4bd9-bfbb-4f9d5a458a45.png)
+![](/post/Python/order_trading_platform/1732710607268-8e661743-6b94-4bd9-bfbb-4f9d5a458a45.png)
 
 
 
@@ -2522,17 +2522,17 @@ def has_permission(request, others):
 	5.跳转回页面
 ```
 
-![](/post/python/order_trading_platform/1732710963113-314dc788-1681-43e2-9691-c4a183b4f5d9.png)
+![](/post/Python/order_trading_platform/1732710963113-314dc788-1681-43e2-9691-c4a183b4f5d9.png)
 
 #### 编辑客户
 ```python
 和添加的页面不同，新建一个form
 ```
 
-![](/post/python/order_trading_platform/1732711225774-04e3868a-9b09-4708-aaf3-52854942af3d.png)
+![](/post/Python/order_trading_platform/1732711225774-04e3868a-9b09-4708-aaf3-52854942af3d.png)
 
 #### 重置密码
-![](/post/python/order_trading_platform/1732711342983-96fffb37-2bfa-4a82-9f27-951a787cc325.png)
+![](/post/Python/order_trading_platform/1732711342983-96fffb37-2bfa-4a82-9f27-951a787cc325.png)
 
 
 
@@ -2546,45 +2546,45 @@ def has_permission(request, others):
 删除成功后页面处理
 ```
 
-![](/post/python/order_trading_platform/1732711493928-3f4e65ca-4047-407d-84b2-5231701ab74f.png)
+![](/post/Python/order_trading_platform/1732711493928-3f4e65ca-4047-407d-84b2-5231701ab74f.png)
 
 
 
 #### 交易记录列表
 视图函数
 
-![](/post/python/order_trading_platform/1732712848306-c24732ba-3439-4ea0-b420-d480c5ca046a.png)
+![](/post/Python/order_trading_platform/1732712848306-c24732ba-3439-4ea0-b420-d480c5ca046a.png)
 
 模板
 
 充值扣款添加颜色
 
-![](/post/python/order_trading_platform/1732713412511-d3341d19-c1d6-409a-96ac-a5a82e8411ed.png)
+![](/post/Python/order_trading_platform/1732713412511-d3341d19-c1d6-409a-96ac-a5a82e8411ed.png)
 
-![](/post/python/order_trading_platform/1732713612510-d8e3a230-7f2d-489a-9f70-fd4e2b088751.png)
+![](/post/Python/order_trading_platform/1732713612510-d8e3a230-7f2d-489a-9f70-fd4e2b088751.png)
 
 #### 充值和扣款（对话框）
 模板
 
-#### ![](/post/python/order_trading_platform/1732714253476-a85ee918-3e85-4bc0-9420-fb090b70999e.png)
+#### ![](/post/Python/order_trading_platform/1732714253476-a85ee918-3e85-4bc0-9420-fb090b70999e.png)
 视图函数
 
-![](/post/python/order_trading_platform/1732714421549-44c80ea4-589a-4a96-ad9d-da9030ba1ddd.png)
+![](/post/Python/order_trading_platform/1732714421549-44c80ea4-589a-4a96-ad9d-da9030ba1ddd.png)
 
 ### 价格策略
-![](/post/python/order_trading_platform/1732714728946-9c197fdf-ae64-4434-ba7b-09a3ef0dc039.png)
+![](/post/Python/order_trading_platform/1732714728946-9c197fdf-ae64-4434-ba7b-09a3ef0dc039.png)
 
 #### 价格策略列表
-![](/post/python/order_trading_platform/1732717257949-47129a3d-c95d-40fb-b862-0417156dd829.png)
+![](/post/Python/order_trading_platform/1732717257949-47129a3d-c95d-40fb-b862-0417156dd829.png)
 
 #### 新建价格策略
-![](/post/python/order_trading_platform/1732717308086-c7ff3823-ce95-4f3a-9a53-22d7198b86e5.png)
+![](/post/Python/order_trading_platform/1732717308086-c7ff3823-ce95-4f3a-9a53-22d7198b86e5.png)
 
 #### 编辑价格策略
-![](/post/python/order_trading_platform/1732717332909-5f7038ac-971f-4617-a7f6-cd389653e85b.png)
+![](/post/Python/order_trading_platform/1732717332909-5f7038ac-971f-4617-a7f6-cd389653e85b.png)
 
 #### 删除价格策略
-![](/post/python/order_trading_platform/1732717354155-23522bb7-dd9a-4e67-ad94-246b54868123.png)
+![](/post/Python/order_trading_platform/1732717354155-23522bb7-dd9a-4e67-ad94-246b54868123.png)
 
 
 
@@ -2603,41 +2603,41 @@ def has_permission(request, others):
         * 生成交易记录
         * 归还扣款
 
-![](/post/python/order_trading_platform/1732717529916-4ea32a05-7e7e-4c35-9eb6-9721c26572bb.png)
+![](/post/Python/order_trading_platform/1732717529916-4ea32a05-7e7e-4c35-9eb6-9721c26572bb.png)
 
 #### 我的订单列表
-![](/post/python/order_trading_platform/1732718252013-ebb91e8a-6f34-497c-865f-c6d0715ae7bf.png)
+![](/post/Python/order_trading_platform/1732718252013-ebb91e8a-6f34-497c-865f-c6d0715ae7bf.png)
 
 message
 
 #### 新建订单
-![](/post/python/order_trading_platform/1732718673191-5cf5603c-69fe-477c-9d2f-283a4b6d1237.png)
+![](/post/Python/order_trading_platform/1732718673191-5cf5603c-69fe-477c-9d2f-283a4b6d1237.png)
 
-![](/post/python/order_trading_platform/1732718836457-70e387e0-141e-4175-8e55-25a7363eb655.png)
+![](/post/Python/order_trading_platform/1732718836457-70e387e0-141e-4175-8e55-25a7363eb655.png)
 
 #### 撤销订单
-![](/post/python/order_trading_platform/1732721178721-88384401-a19f-446d-9661-d957c2b2c46d.png)
+![](/post/Python/order_trading_platform/1732721178721-88384401-a19f-446d-9661-d957c2b2c46d.png)
 
 
 
 ### 我的交易记录
-![](/post/python/order_trading_platform/1732721310752-098e3751-9820-412c-a3ef-8a2e8a511fed.png)
+![](/post/Python/order_trading_platform/1732721310752-098e3751-9820-412c-a3ef-8a2e8a511fed.png)
 
 
 
 #### 客户
-![](/post/python/order_trading_platform/1732721442476-eef3795d-2b96-4160-8345-2d9c8ba09d53.png)
+![](/post/Python/order_trading_platform/1732721442476-eef3795d-2b96-4160-8345-2d9c8ba09d53.png)
 
-![](/post/python/order_trading_platform/1732721550932-6d819b16-6653-4b80-b620-9b6d40c1af7d.png)
+![](/post/Python/order_trading_platform/1732721550932-6d819b16-6653-4b80-b620-9b6d40c1af7d.png)
 
 #### 管理员
-![](/post/python/order_trading_platform/1732721666199-d74a8162-588c-4425-85b4-32366ad50ab1.png)
+![](/post/Python/order_trading_platform/1732721666199-d74a8162-588c-4425-85b4-32366ad50ab1.png)
 
 模板与客户无异
 
 
 
 ### Worker
-![](/post/python/order_trading_platform/1732721732393-6b533304-9dd0-41fa-b251-04ab2f9b2bcb.png)
+![](/post/Python/order_trading_platform/1732721732393-6b533304-9dd0-41fa-b251-04ab2f9b2bcb.png)
 
 执行worker去执行订单的执行。

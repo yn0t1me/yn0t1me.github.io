@@ -13,7 +13,7 @@
         <pubDate>Thu, 27 Feb 2025 19:08:25 +0800</pubDate>
         
         <guid>https://yn0t1me.github.io/categories/%E5%89%8D%E7%AB%AF/</guid>
-        <description>&lt;img src="https://yn0t1me.github.io/categories/%E5%89%8D%E7%AB%AF/front%20end.jpg" alt="Featured image of post 前端" /&gt;</description>
+        <description></description>
         </item>
         <item>
         <title>Python</title>
@@ -24,19 +24,27 @@
         <description>&lt;img src="https://yn0t1me.github.io/categories/python/python.jpg" alt="Featured image of post Python" /&gt;</description>
         </item>
         <item>
-        <title>数据结构与算法</title>
-        <link>https://yn0t1me.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</link>
+        <title>Data Structures and Algorithms</title>
+        <link>https://yn0t1me.github.io/categories/data-structures-and-algorithms/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://yn0t1me.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</guid>
-        <description>&lt;img src="https://yn0t1me.github.io/dsa.jpg" alt="Featured image of post 数据结构与算法" /&gt;</description>
+        <guid>https://yn0t1me.github.io/categories/data-structures-and-algorithms/</guid>
+        <description>&lt;img src="https://yn0t1me.github.io/dsa.jpg" alt="Featured image of post Data Structures and Algorithms" /&gt;</description>
+        </item>
+        <item>
+        <title>front_end</title>
+        <link>https://yn0t1me.github.io/categories/front_end/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://yn0t1me.github.io/categories/front_end/</guid>
+        <description>&lt;img src="https://yn0t1me.github.io/categories/front_end/front_end.jpg" alt="Featured image of post front_end" /&gt;</description>
         </item>
         <item>
         <title>碎碎念</title>
-        <link>https://yn0t1me.github.io/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</link>
+        <link>https://yn0t1me.github.io/categories/talks/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://yn0t1me.github.io/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</guid>
+        <guid>https://yn0t1me.github.io/categories/talks/</guid>
         <description>&lt;img src="https://yn0t1me.github.io/talks.jpg" alt="Featured image of post 碎碎念" /&gt;</description>
         </item>
         

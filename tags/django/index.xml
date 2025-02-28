@@ -266,7 +266,7 @@
 &lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;将菜单 + 角色写入数据库&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732339379585-36fe528c-6de1-4063-8dd3-410112a3d40c.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732339379585-36fe528c-6de1-4063-8dd3-410112a3d40c.png&#34;
 	
 	
 	
@@ -369,7 +369,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;拓展：菜单多级关系&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732339989906-a9856733-c818-43dd-8bac-d93df45a45fa.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732339989906-a9856733-c818-43dd-8bac-d93df45a45fa.png&#34;
 	
 	
 	
@@ -437,7 +437,7 @@
 &lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;数据库方式&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732349583777-e301bcc2-78a6-4951-bd36-e46f5e864674.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732349583777-e301bcc2-78a6-4951-bd36-e46f5e864674.png&#34;
 	
 	
 	
@@ -1487,7 +1487,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;o&#34;&gt;...&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732377343476-dfd6b6b1-1b53-4861-b14a-40c18d8dfacc.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732377343476-dfd6b6b1-1b53-4861-b14a-40c18d8dfacc.png&#34;
 	
 	
 	
@@ -1507,7 +1507,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;form&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;add_error&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;password&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;用户名或密码错误&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732377389035-fddedf5e-b105-4d35-80bd-b17ab91f489a.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732377389035-fddedf5e-b105-4d35-80bd-b17ab91f489a.png&#34;
 	
 	
 	
@@ -1795,7 +1795,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h5 id=&#34;局部去除bootstrap样式--修改字段样式&#34;&gt;局部去除bootstrap样式 + 修改字段样式
-&lt;/h5&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732416059542-81dab9ba-f776-472d-8ab7-f55dfc0324fb.png&#34;
+&lt;/h5&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732416059542-81dab9ba-f776-472d-8ab7-f55dfc0324fb.png&#34;
 	
 	
 	
@@ -1804,7 +1804,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;原理：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732416076683-02a8e815-2209-4c5d-ace3-ef48620a4ed6.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732416076683-02a8e815-2209-4c5d-ace3-ef48620a4ed6.png&#34;
 	
 	
 	
@@ -1847,7 +1847,7 @@
 &lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;models中的limit_choice_to字段&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732415713151-2d59c2e8-efcd-451a-a38e-34eca240a6da.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732415713151-2d59c2e8-efcd-451a-a38e-34eca240a6da.png&#34;
 	
 	
 	
@@ -1858,7 +1858,7 @@
 &lt;ul&gt;
 &lt;li&gt;自定义choices和queryset&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732415742966-cf853046-b791-41e2-a730-d50c7f021ef2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732415742966-cf853046-b791-41e2-a730-d50c7f021ef2.png&#34;
 	
 	
 	
@@ -1871,7 +1871,7 @@
 &lt;/h3&gt;&lt;h4 id=&#34;母版&#34;&gt;母版
 &lt;/h4&gt;&lt;h4 id=&#34;inclusion_tag&#34;&gt;inclusion_tag
 &lt;/h4&gt;&lt;h3 id=&#34;队列&#34;&gt;队列
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732349610537-4e709222-39a3-4489-b719-1cd4e1008d0e.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732349610537-4e709222-39a3-4489-b719-1cd4e1008d0e.png&#34;
 	
 	
 	
@@ -1884,7 +1884,7 @@
 &lt;li&gt;kafka，Linux命令+服务构建+python代码。&lt;/li&gt;
 &lt;li&gt;redis的列表&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732349626708-a5c87e69-4f8d-42f0-816e-4751167eb4aa.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732349626708-a5c87e69-4f8d-42f0-816e-4751167eb4aa.png&#34;
 	
 	
 	
@@ -2011,7 +2011,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;h3 id=&#34;分页组件&#34;&gt;分页组件
 &lt;/h3&gt;&lt;h4 id=&#34;选项生成&#34;&gt;选项生成
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732416637414-b8a1fbc2-d88a-49e0-b546-5326800b9acc.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732416637414-b8a1fbc2-d88a-49e0-b546-5326800b9acc.png&#34;
 	
 	
 	
@@ -2020,7 +2020,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;页码逻辑和动态页码&#34;&gt;页码逻辑和动态页码
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732416707994-199c0f3d-c70c-4632-9c20-c95ab4bea4ea.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732416707994-199c0f3d-c70c-4632-9c20-c95ab4bea4ea.png&#34;
 	
 	
 	
@@ -2029,7 +2029,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;分页组件的封装&#34;&gt;分页组件的封装
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732416742666-835e5124-e6cd-41aa-a4a2-489e5b271587.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732416742666-835e5124-e6cd-41aa-a4a2-489e5b271587.png&#34;
 	
 	
 	
@@ -2039,7 +2039,7 @@
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;优化&#34;&gt;优化
 &lt;/h4&gt;&lt;p&gt;加入首页、尾页、上一页、下一页&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732416785524-9beb4d22-b0bb-4af7-80c0-e50edd5b94f9.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732416785524-9beb4d22-b0bb-4af7-80c0-e50edd5b94f9.png&#34;
 	
 	
 	
@@ -2121,7 +2121,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h4 id=&#34;解决url参数携带问题&#34;&gt;解决url参数携带问题
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732416996115-a1389f86-7e9a-44bc-98c3-4d33f67f01b7.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732416996115-a1389f86-7e9a-44bc-98c3-4d33f67f01b7.png&#34;
 	
 	
 	
@@ -2322,7 +2322,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;....&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732417614947-651a16d8-3a0e-41dd-af35-d4f3ab9236b9.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732417614947-651a16d8-3a0e-41dd-af35-d4f3ab9236b9.png&#34;
 	
 	
 	
@@ -2342,7 +2342,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;但级别管理是通过url&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;level&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;delete&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;来接收pk然后直接删除&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;，&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;没有模态框等操作&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;，&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;因此重写delete_url_permission方法&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732419352138-59ac7616-92c9-4bf0-bd2c-b807c364e1b8.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732419352138-59ac7616-92c9-4bf0-bd2c-b807c364e1b8.png&#34;
 	
 	
 	
@@ -2415,7 +2415,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;redirect&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;url&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732420375791-3a55f11f-dbde-49a1-8afb-dc818037c834.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732420375791-3a55f11f-dbde-49a1-8afb-dc818037c834.png&#34;
 	
 	
 	
@@ -2751,7 +2751,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h3 id=&#34;message组件&#34;&gt;Message组件
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732720463327-c9cff61e-1c73-4592-a43f-b2363cdf865d.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732720463327-c9cff61e-1c73-4592-a43f-b2363cdf865d.png&#34;
 	
 	
 	
@@ -2773,7 +2773,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;如图四个位置&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732720505524-787489d0-acec-4b44-9f2a-0f284c23571d.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732720505524-787489d0-acec-4b44-9f2a-0f284c23571d.png&#34;
 	
 	
 	
@@ -2812,7 +2812,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ul&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732720567644-3d4b2423-3498-4e03-8101-48bf4dff412d.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732720567644-3d4b2423-3498-4e03-8101-48bf4dff412d.png&#34;
 	
 	
 	
@@ -2860,7 +2860,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;messages&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;add_message&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;reqeust&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;messages&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;SUCCESS&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;删除成功2&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;extra_tags&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;哈哈哈&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732720676596-a3032643-a0f7-4073-a3ff-abe7f170a6eb.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732720676596-a3032643-a0f7-4073-a3ff-abe7f170a6eb.png&#34;
 	
 	
 	
@@ -2868,7 +2868,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732720682764-31163ba5-8c3d-485a-a48d-a78521419e80.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732720682764-31163ba5-8c3d-485a-a48d-a78521419e80.png&#34;
 	
 	
 	
@@ -2898,7 +2898,7 @@
 &lt;ul&gt;
 &lt;li&gt;1.1 process_request&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732720747603-5775175f-9420-481a-90af-d35b154cf25f.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732720747603-5775175f-9420-481a-90af-d35b154cf25f.png&#34;
 	
 	
 	
@@ -2906,7 +2906,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732720752615-2aa212e3-bc17-4946-a4be-4ba5cd7bb10f.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732720752615-2aa212e3-bc17-4946-a4be-4ba5cd7bb10f.png&#34;
 	
 	
 	
@@ -2925,7 +2925,7 @@
 &lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;1.2 删除视图&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732720777652-624b9187-f46d-4c6e-8cf4-a26680c26721.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732720777652-624b9187-f46d-4c6e-8cf4-a26680c26721.png&#34;
 	
 	
 	
@@ -2936,7 +2936,7 @@
 &lt;ul&gt;
 &lt;li&gt;1.3 request_response&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732720791532-35f3a55a-352d-4d01-900b-5118d007448d.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732720791532-35f3a55a-352d-4d01-900b-5118d007448d.png&#34;
 	
 	
 	
@@ -2947,7 +2947,7 @@
 &lt;ul&gt;
 &lt;li&gt;2.1 process_request + 列表视图&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732720810924-4c5bbd80-c48a-41ef-a072-c04da375676b.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732720810924-4c5bbd80-c48a-41ef-a072-c04da375676b.png&#34;
 	
 	
 	
@@ -2958,7 +2958,7 @@
 &lt;ul&gt;
 &lt;li&gt;2.2 request_response&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732720828091-ff87ebff-38e7-4373-9f97-01fd9b82ada5.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732720828091-ff87ebff-38e7-4373-9f97-01fd9b82ada5.png&#34;
 	
 	
 	
@@ -3861,7 +3861,7 @@
 &lt;li&gt;访问&lt;code&gt;/login/&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;来到&lt;code&gt;account.py下的login()视图函数&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732500920107-dd72d923-0813-43c5-9cc2-cbc1851acf06.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732500920107-dd72d923-0813-43c5-9cc2-cbc1851acf06.png&#34;
 	
 	
 	
@@ -3872,7 +3872,7 @@
 &lt;ul&gt;
 &lt;li&gt;用户看到login.html填写表单并提交，回到&lt;code&gt;account.py下的login()视图函数&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732501766273-5e19ada5-1989-4867-b1db-5b2389279505.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732501766273-5e19ada5-1989-4867-b1db-5b2389279505.png&#34;
 	
 	
 	
@@ -3880,7 +3880,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732501497237-59a80514-8caa-4035-984d-d8386fab982a.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732501497237-59a80514-8caa-4035-984d-d8386fab982a.png&#34;
 	
 	
 	
@@ -3906,7 +3906,7 @@
 &lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;点击短信登陆进行跳转&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732501594477-80367c51-4524-4f77-bf0f-fae47c252c31.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732501594477-80367c51-4524-4f77-bf0f-fae47c252c31.png&#34;
 	
 	
 	
@@ -3914,7 +3914,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732501621069-6f7e6a6c-bd40-4b07-a3ee-ee4b805e5cae.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732501621069-6f7e6a6c-bd40-4b07-a3ee-ee4b805e5cae.png&#34;
 	
 	
 	
@@ -3925,7 +3925,7 @@
 &lt;ul&gt;
 &lt;li&gt;用户看到sms_login.html&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732502286562-c6bb7e54-0678-4fc8-8bb5-7995c3bef201.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732502286562-c6bb7e54-0678-4fc8-8bb5-7995c3bef201.png&#34;
 	
 	
 	
@@ -3936,7 +3936,7 @@
 &lt;ul&gt;
 &lt;li&gt;发送验证码前置&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732502965263-ae771897-7ce1-4d95-9db7-0e1d24fc6218.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732502965263-ae771897-7ce1-4d95-9db7-0e1d24fc6218.png&#34;
 	
 	
 	
@@ -3947,7 +3947,7 @@
 &lt;ul&gt;
 &lt;li&gt;发送验证码&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732503252223-95871ea5-ce14-4d93-b339-4200302cf554.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732503252223-95871ea5-ce14-4d93-b339-4200302cf554.png&#34;
 	
 	
 	
@@ -3958,7 +3958,7 @@
 &lt;ul&gt;
 &lt;li&gt;登录成功&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732503341745-241794bd-3215-4d53-bd86-88cff7951f3d.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732503341745-241794bd-3215-4d53-bd86-88cff7951f3d.png&#34;
 	
 	
 	
@@ -4013,7 +4013,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;登陆成功封装用户信息至request&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732583177967-d3c9f1f3-2401-4c56-b006-3f5f12d5cac7.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732583177967-d3c9f1f3-2401-4c56-b006-3f5f12d5cac7.png&#34;
 	
 	
 	
@@ -4189,7 +4189,7 @@
 &lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;动态菜单&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732598117149-f4ddfbba-a2d3-48e7-af1d-4f0f0453756d.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732598117149-f4ddfbba-a2d3-48e7-af1d-4f0f0453756d.png&#34;
 	
 	
 	
@@ -4200,7 +4200,7 @@
 &lt;ul&gt;
 &lt;li&gt;顶部导航（注销）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732598564449-30c0f304-0cac-4e20-83ca-27421423c926.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732598564449-30c0f304-0cac-4e20-83ca-27421423c926.png&#34;
 	
 	
 	
@@ -4211,7 +4211,7 @@
 &lt;ul&gt;
 &lt;li&gt;权限校验&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732694957748-4f79bd97-c777-4c4e-b154-f56c7a30aa15.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732694957748-4f79bd97-c777-4c4e-b154-f56c7a30aa15.png&#34;
 	
 	
 	
@@ -4222,7 +4222,7 @@
 &lt;ul&gt;
 &lt;li&gt;顶部导航栏与关联菜单选中样式&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732695541151-0b5c3516-7df2-411b-9539-26e85b61cda7.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732695541151-0b5c3516-7df2-411b-9539-26e85b61cda7.png&#34;
 	
 	
 	
@@ -4230,7 +4230,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732695642676-d757fb34-e278-4b92-9314-dd73eeed9874.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732695642676-d757fb34-e278-4b92-9314-dd73eeed9874.png&#34;
 	
 	
 	
@@ -4440,7 +4440,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h3 id=&#34;级别管理&#34;&gt;级别管理
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732700979200-7e6e5546-7dee-4532-bffa-ff9f314e549f.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732700979200-7e6e5546-7dee-4532-bffa-ff9f314e549f.png&#34;
 	
 	
 	
@@ -4457,7 +4457,7 @@
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;如果用户没有对应权限就不要显示按钮&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732701720064-3a58477a-81ee-41b7-8449-593d4665076a.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732701720064-3a58477a-81ee-41b7-8449-593d4665076a.png&#34;
 	
 	
 	
@@ -4466,7 +4466,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;新增级别&#34;&gt;新增级别
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732708539130-2b8bfdc2-487c-4d32-8f9e-8e5440e05d2c.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732708539130-2b8bfdc2-487c-4d32-8f9e-8e5440e05d2c.png&#34;
 	
 	
 	
@@ -4475,7 +4475,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;编辑级别&#34;&gt;编辑级别
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732708762614-b6b7596c-1305-428e-82b3-5e979cb5c4a6.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732708762614-b6b7596c-1305-428e-82b3-5e979cb5c4a6.png&#34;
 	
 	
 	
@@ -4484,7 +4484,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;删除级别&#34;&gt;删除级别
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732709150253-189c3fac-8b69-4f92-889a-a3312cf450b2.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732709150253-189c3fac-8b69-4f92-889a-a3312cf450b2.png&#34;
 	
 	
 	
@@ -4493,7 +4493,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;客户管理&#34;&gt;客户管理
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732709272761-5737ab89-656d-499f-8141-2793e6cb4862.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732709272761-5737ab89-656d-499f-8141-2793e6cb4862.png&#34;
 	
 	
 	
@@ -4527,7 +4527,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;视图函数&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732709842539-afbc14bf-f6bd-4dae-9dd7-cdd0cfa26063.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732709842539-afbc14bf-f6bd-4dae-9dd7-cdd0cfa26063.png&#34;
 	
 	
 	
@@ -4536,7 +4536,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;模板&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732710156474-b8061e66-cbe8-4ef2-8f27-cc11bde7e842.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732710156474-b8061e66-cbe8-4ef2-8f27-cc11bde7e842.png&#34;
 	
 	
 	
@@ -4544,7 +4544,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732710607268-8e661743-6b94-4bd9-bfbb-4f9d5a458a45.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732710607268-8e661743-6b94-4bd9-bfbb-4f9d5a458a45.png&#34;
 	
 	
 	
@@ -4587,7 +4587,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;mf&#34;&gt;5.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;跳转回页面&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732710963113-314dc788-1681-43e2-9691-c4a183b4f5d9.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732710963113-314dc788-1681-43e2-9691-c4a183b4f5d9.png&#34;
 	
 	
 	
@@ -4604,7 +4604,7 @@
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;和添加的页面不同&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;，&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;新建一个form&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732711225774-04e3868a-9b09-4708-aaf3-52854942af3d.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732711225774-04e3868a-9b09-4708-aaf3-52854942af3d.png&#34;
 	
 	
 	
@@ -4613,7 +4613,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;重置密码&#34;&gt;重置密码
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732711342983-96fffb37-2bfa-4a82-9f27-951a787cc325.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732711342983-96fffb37-2bfa-4a82-9f27-951a787cc325.png&#34;
 	
 	
 	
@@ -4640,7 +4640,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;删除成功后页面处理&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732711493928-3f4e65ca-4047-407d-84b2-5231701ab74f.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732711493928-3f4e65ca-4047-407d-84b2-5231701ab74f.png&#34;
 	
 	
 	
@@ -4650,7 +4650,7 @@
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;交易记录列表&#34;&gt;交易记录列表
 &lt;/h4&gt;&lt;p&gt;视图函数&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732712848306-c24732ba-3439-4ea0-b420-d480c5ca046a.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732712848306-c24732ba-3439-4ea0-b420-d480c5ca046a.png&#34;
 	
 	
 	
@@ -4660,7 +4660,7 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;模板&lt;/p&gt;
 &lt;p&gt;充值扣款添加颜色&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732713412511-d3341d19-c1d6-409a-96ac-a5a82e8411ed.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732713412511-d3341d19-c1d6-409a-96ac-a5a82e8411ed.png&#34;
 	
 	
 	
@@ -4668,7 +4668,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732713612510-d8e3a230-7f2d-489a-9f70-fd4e2b088751.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732713612510-d8e3a230-7f2d-489a-9f70-fd4e2b088751.png&#34;
 	
 	
 	
@@ -4678,7 +4678,7 @@
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;充值和扣款对话框&#34;&gt;充值和扣款（对话框）
 &lt;/h4&gt;&lt;p&gt;模板&lt;/p&gt;
-&lt;h4 id=&#34;&#34;&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732714253476-a85ee918-3e85-4bc0-9420-fb090b70999e.png&#34;
+&lt;h4 id=&#34;&#34;&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732714253476-a85ee918-3e85-4bc0-9420-fb090b70999e.png&#34;
 	
 	
 	
@@ -4687,7 +4687,7 @@
 	
 &gt;
 &lt;/h4&gt;&lt;p&gt;视图函数&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732714421549-44c80ea4-589a-4a96-ad9d-da9030ba1ddd.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732714421549-44c80ea4-589a-4a96-ad9d-da9030ba1ddd.png&#34;
 	
 	
 	
@@ -4696,7 +4696,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;价格策略&#34;&gt;价格策略
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732714728946-9c197fdf-ae64-4434-ba7b-09a3ef0dc039.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732714728946-9c197fdf-ae64-4434-ba7b-09a3ef0dc039.png&#34;
 	
 	
 	
@@ -4705,7 +4705,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;价格策略列表&#34;&gt;价格策略列表
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732717257949-47129a3d-c95d-40fb-b862-0417156dd829.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732717257949-47129a3d-c95d-40fb-b862-0417156dd829.png&#34;
 	
 	
 	
@@ -4714,7 +4714,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;新建价格策略&#34;&gt;新建价格策略
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732717308086-c7ff3823-ce95-4f3a-9a53-22d7198b86e5.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732717308086-c7ff3823-ce95-4f3a-9a53-22d7198b86e5.png&#34;
 	
 	
 	
@@ -4723,7 +4723,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;编辑价格策略&#34;&gt;编辑价格策略
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732717332909-5f7038ac-971f-4617-a7f6-cd389653e85b.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732717332909-5f7038ac-971f-4617-a7f6-cd389653e85b.png&#34;
 	
 	
 	
@@ -4732,7 +4732,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;删除价格策略&#34;&gt;删除价格策略
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732717354155-23522bb7-dd9a-4e67-ad94-246b54868123.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732717354155-23522bb7-dd9a-4e67-ad94-246b54868123.png&#34;
 	
 	
 	
@@ -4768,7 +4768,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732717529916-4ea32a05-7e7e-4c35-9eb6-9721c26572bb.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732717529916-4ea32a05-7e7e-4c35-9eb6-9721c26572bb.png&#34;
 	
 	
 	
@@ -4777,7 +4777,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;我的订单列表&#34;&gt;我的订单列表
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732718252013-ebb91e8a-6f34-497c-865f-c6d0715ae7bf.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732718252013-ebb91e8a-6f34-497c-865f-c6d0715ae7bf.png&#34;
 	
 	
 	
@@ -4787,7 +4787,7 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;message&lt;/p&gt;
 &lt;h4 id=&#34;新建订单&#34;&gt;新建订单
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732718673191-5cf5603c-69fe-477c-9d2f-283a4b6d1237.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732718673191-5cf5603c-69fe-477c-9d2f-283a4b6d1237.png&#34;
 	
 	
 	
@@ -4795,7 +4795,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732718836457-70e387e0-141e-4175-8e55-25a7363eb655.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732718836457-70e387e0-141e-4175-8e55-25a7363eb655.png&#34;
 	
 	
 	
@@ -4804,7 +4804,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;撤销订单&#34;&gt;撤销订单
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732721178721-88384401-a19f-446d-9661-d957c2b2c46d.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732721178721-88384401-a19f-446d-9661-d957c2b2c46d.png&#34;
 	
 	
 	
@@ -4813,7 +4813,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;我的交易记录&#34;&gt;我的交易记录
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732721310752-098e3751-9820-412c-a3ef-8a2e8a511fed.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732721310752-098e3751-9820-412c-a3ef-8a2e8a511fed.png&#34;
 	
 	
 	
@@ -4822,7 +4822,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;客户&#34;&gt;客户
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732721442476-eef3795d-2b96-4160-8345-2d9c8ba09d53.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732721442476-eef3795d-2b96-4160-8345-2d9c8ba09d53.png&#34;
 	
 	
 	
@@ -4830,7 +4830,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732721550932-6d819b16-6653-4b80-b620-9b6d40c1af7d.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732721550932-6d819b16-6653-4b80-b620-9b6d40c1af7d.png&#34;
 	
 	
 	
@@ -4839,7 +4839,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;管理员&#34;&gt;管理员
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732721666199-d74a8162-588c-4425-85b4-32366ad50ab1.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732721666199-d74a8162-588c-4425-85b4-32366ad50ab1.png&#34;
 	
 	
 	
@@ -4849,7 +4849,7 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;模板与客户无异&lt;/p&gt;
 &lt;h3 id=&#34;worker&#34;&gt;Worker
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/order_trading_platform/1732721732393-6b533304-9dd0-41fa-b251-04ab2f9b2bcb.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/order_trading_platform/1732721732393-6b533304-9dd0-41fa-b251-04ab2f9b2bcb.png&#34;
 	
 	
 	
@@ -4867,7 +4867,7 @@
         <guid>https://yn0t1me.github.io/p/drf/</guid>
         <description>&lt;h2 id=&#34;前言&#34;&gt;前言
 &lt;/h2&gt;&lt;h3 id=&#34;前后端分离&#34;&gt;前后端分离
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/1733982054512-99900304-27f3-48bb-aa08-adf52759a427.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/1733982054512-99900304-27f3-48bb-aa08-adf52759a427.png&#34;
 	
 	
 	
@@ -4875,7 +4875,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/1733982078114-e0b608b9-4f16-4e15-a508-747a37443a76.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/1733982078114-e0b608b9-4f16-4e15-a508-747a37443a76.png&#34;
 	
 	
 	
@@ -4995,7 +4995,7 @@
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;创建纯净python项目并配置虚拟环境&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/1733983824945-78126a3b-6ded-4f6c-aeb6-8cc02cb2da76.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/1733983824945-78126a3b-6ded-4f6c-aeb6-8cc02cb2da76.png&#34;
 	
 	
 	
@@ -5104,7 +5104,7 @@
 &lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;配置项目启动按钮&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/1733984751636-3187b259-2c2d-4914-965a-e45893bd79ed.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/1733984751636-3187b259-2c2d-4914-965a-e45893bd79ed.png&#34;
 	
 	
 	
@@ -5112,7 +5112,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/1733984879376-354e1923-5d2a-46e1-bbc4-1f33db967ac0.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/1733984879376-354e1923-5d2a-46e1-bbc4-1f33db967ac0.png&#34;
 	
 	
 	
@@ -5120,7 +5120,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/1733984996746-4c8d1633-72c5-4cd2-8848-5adf2d7cdf34.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/1733984996746-4c8d1633-72c5-4cd2-8848-5adf2d7cdf34.png&#34;
 	
 	
 	
@@ -5128,7 +5128,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/1733985045978-a462498f-b2ba-4da9-803c-29176ef07abc.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/1733985045978-a462498f-b2ba-4da9-803c-29176ef07abc.png&#34;
 	
 	
 	
@@ -5747,7 +5747,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;h3 id=&#34;参数&#34;&gt;参数
 &lt;/h3&gt;&lt;p&gt;普通匹配：&lt;code&gt;&amp;lt;数据类型:参数名&amp;gt;&lt;/code&gt;，视图直接用&lt;code&gt;参数&lt;/code&gt;接收，或者&lt;code&gt;self.kwargs&lt;/code&gt;中获取&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/1734150636720-5cac42a1-7030-46db-950d-cda1559234b2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/1734150636720-5cac42a1-7030-46db-950d-cda1559234b2.png&#34;
 	
 	
 	
@@ -5756,7 +5756,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;不指定参数名正则匹配（导入re_path）：&lt;code&gt;(正则表达式)&lt;/code&gt;，视图直接用&lt;code&gt;参数&lt;/code&gt;接收，或者&lt;code&gt;self.args&lt;/code&gt;中获取&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/1734150642488-23de7af7-4501-423a-a4ce-35d03662d913.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/1734150642488-23de7af7-4501-423a-a4ce-35d03662d913.png&#34;
 	
 	
 	
@@ -5766,7 +5766,7 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;指定参数名正则匹配：&lt;code&gt;(?P&amp;lt;参数名&amp;gt;正则表达式)&lt;/code&gt;，视图直接用&lt;code&gt;参数&lt;/code&gt;接收，或者&lt;code&gt;self.kwargs&lt;/code&gt;中获取&lt;/p&gt;
 &lt;p&gt;命名捕获组（Named Capture Group）：&lt;code&gt;(?P&amp;lt;参数名&amp;gt;正则表达式)&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/1734150651203-61c81235-6ac7-49d7-ae8d-32234589fdfe.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/1734150651203-61c81235-6ac7-49d7-ae8d-32234589fdfe.png&#34;
 	
 	
 	
@@ -5830,7 +5830,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h3 id=&#34;源码分析&#34;&gt;源码分析
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/1734153342930-18d2c2fe-47b0-4bdf-a768-d6145989fd3b.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/1734153342930-18d2c2fe-47b0-4bdf-a768-d6145989fd3b.png&#34;
 	
 	
 	
@@ -6042,7 +6042,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;drf中的request其实是对请求的再次封装，其目的就是在原来的request对象基础中再进行封装一些drf中需要用到的值&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/1734153473029-fd2d91cd-6312-4f75-9888-afc49b5dfc8f.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/1734153473029-fd2d91cd-6312-4f75-9888-afc49b5dfc8f.png&#34;
 	
 	
 	
@@ -6137,7 +6137,7 @@
 &lt;ul&gt;
 &lt;li&gt;认证失败信息定制&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/1734157419487-92ad7693-d15f-46a1-af5a-f403b0e0358b.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/1734157419487-92ad7693-d15f-46a1-af5a-f403b0e0358b.png&#34;
 	
 	
 	
@@ -6148,7 +6148,7 @@
 &lt;ul&gt;
 &lt;li&gt;匿名用户&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/1734157650997-6ee13a51-5b0b-4f8b-bf96-c8e051217c05.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/1734157650997-6ee13a51-5b0b-4f8b-bf96-c8e051217c05.png&#34;
 	
 	
 	
@@ -6159,7 +6159,7 @@
 &lt;ul&gt;
 &lt;li&gt;认证组件中返回的两个值，分别赋值给：&lt;code&gt;request.user&lt;/code&gt; 和 &lt;code&gt;request.auth&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/1734157774032-eab61203-3c75-47c0-9b85-9273a5af1fbf.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/1734157774032-eab61203-3c75-47c0-9b85-9273a5af1fbf.png&#34;
 	
 	
 	
@@ -6419,7 +6419,7 @@
 如果认证组件中未定义，则统一为 HTTP_403_FORBIDDEN&lt;/p&gt;
 &lt;p&gt;如果自定义了，还会加上一个响应头&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;定义&lt;code&gt;get_authenticate_header&lt;/code&gt;方法&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241215160350164.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241215160350164.png&#34;
 	
 	
 	
@@ -6429,7 +6429,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241215162322059.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241215162322059.png&#34;
 	
 	
 	
@@ -6717,7 +6717,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	user为空值即未认证，触发_authenticate方法，循环认证类实例对象列表authenticators，调用自己的认证方法，返回元组就赋值user和auth，退出循环；返回None继续循环；抛出异常就捕获异常，在dispatch中捕获；如果循环完没返回元组也没异常，执行_not_authenticated方法处理匿名用户
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/%e6%97%a0%e6%a0%87%e9%a2%98-2024-11-16-0939.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/%e6%97%a0%e6%a0%87%e9%a2%98-2024-11-16-0939.png&#34;
 	
 	
 	
@@ -7084,7 +7084,7 @@
 &lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;创建数据库&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241215214124221.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241215214124221.png&#34;
 	
 	
 	
@@ -7097,7 +7097,7 @@
 &lt;ul&gt;
 &lt;li&gt;手动添加数据做测试&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241215214406794.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241215214406794.png&#34;
 	
 	
 	
@@ -7261,7 +7261,7 @@
 &lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;postman发送post请求测试接口示例&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241215215621539.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241215215621539.png&#34;
 	
 	
 	
@@ -7330,7 +7330,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Response&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;({&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;status&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;True&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;data&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;token&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;})&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241215221444282.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241215221444282.png&#34;
 	
 	
 	
@@ -7358,7 +7358,7 @@
 &lt;/div&gt;&lt;h4 id=&#34;访问效果&#34;&gt;访问效果
 &lt;/h4&gt;&lt;blockquote&gt;
 &lt;p&gt;在请求头中携带和在请求参数中携带均可，有对应的认证组件校验&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241215223514300.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241215223514300.png&#34;
 	
 	
 	
@@ -7598,7 +7598,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241217125147471.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241217125147471.png&#34;
 	
 	
 	
@@ -7637,7 +7637,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;左图为默认错误信息，右图为自定义错误信息&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241217131658811.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241217131658811.png&#34;
 	
 	
 	
@@ -7739,7 +7739,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;终端只打印了&lt;code&gt;MyPermission1&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241217140459678.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241217140459678.png&#34;
 	
 	
 	
@@ -8006,7 +8006,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;h3 id=&#34;案例-权限处理&#34;&gt;案例-权限处理
 &lt;/h3&gt;&lt;h4 id=&#34;创建数据表-1&#34;&gt;创建数据表
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241217171036327.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241217171036327.png&#34;
 	
 	
 	
@@ -8047,7 +8047,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;手动添加数据&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241217172759096.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241217172759096.png&#34;
 	
 	
 	
@@ -8400,7 +8400,7 @@
 &lt;p&gt;&lt;code&gt;token3&lt;/code&gt;对应&lt;code&gt;员工&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;员工可以访问&lt;code&gt;/avatar&lt;/code&gt;,访问不了&lt;code&gt;/order&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;经理可以访问&lt;code&gt;/order&lt;/code&gt;,访问不了&lt;code&gt;/avatar&lt;/code&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241217173736707.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241217173736707.png&#34;
 	
 	
 	
@@ -8460,7 +8460,7 @@
 &lt;/div&gt;&lt;blockquote&gt;
 &lt;p&gt;drf中的认证/权限组件与django中的中间件有什么关系?&lt;/p&gt;
 &lt;p&gt;认证/权限组件在中间件之后&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241217182023566.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241217182023566.png&#34;
 	
 	
 	
@@ -8736,7 +8736,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;o&#34;&gt;...&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241218093359538.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241218093359538.png&#34;
 	
 	
 	
@@ -9414,7 +9414,7 @@
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;配置文件中的&lt;code&gt;VERSION_PARAM&lt;/code&gt;决定哪个参数表示版本信息&lt;/p&gt;
 &lt;p&gt;参数携带的版本信息会被封装到&lt;code&gt;request.version&lt;/code&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241219203724421.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241219203724421.png&#34;
 	
 	
 	
@@ -9456,7 +9456,7 @@
 &lt;/div&gt;&lt;h3 id=&#34;反向生成url&#34;&gt;反向生成URL
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;与django中的反向生成URL不同，drf反向生成的URL可以携带相关版本信息&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241220092026291.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241220092026291.png&#34;
 	
 	
 	
@@ -9713,7 +9713,7 @@
 &lt;/div&gt;&lt;h3 id=&#34;url路径传递&#34;&gt;URL路径传递
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;urls.py中path和re_path两种方式均可&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241220114016697.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241220114016697.png&#34;
 	
 	
 	
@@ -9755,7 +9755,7 @@
 &lt;h3 id=&#34;accept请求头传递&#34;&gt;Accept请求头传递
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;反向生成的URL不含版本，因为他本来就不出现在url中&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241220121052593.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241220121052593.png&#34;
 	
 	
 	
@@ -9990,7 +9990,7 @@
 &lt;/div&gt;&lt;h3 id=&#34;常见应用&#34;&gt;常见应用
 &lt;/h3&gt;&lt;h4 id=&#34;jsonparser&#34;&gt;JSONParser
 &lt;/h4&gt;&lt;p&gt;解析&lt;code&gt;JSON&lt;/code&gt;格式的请求数据（&lt;code&gt;application/json&lt;/code&gt;），返回python中的&lt;code&gt;字典&lt;/code&gt;类型&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241221095817376.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241221095817376.png&#34;
 	
 	
 	
@@ -10002,7 +10002,7 @@
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;formparser&#34;&gt;FormParser
 &lt;/h4&gt;&lt;p&gt;解析&lt;code&gt;表单&lt;/code&gt;（&lt;code&gt;application/x-www-form-urlencoded&lt;/code&gt;）数据为&lt;code&gt;QueryDict（字典）&lt;/code&gt;类型数据&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241221100042471.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241221100042471.png&#34;
 	
 	
 	
@@ -10014,7 +10014,7 @@
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;multipartparser&#34;&gt;MultiPartParser
 &lt;/h4&gt;&lt;p&gt;解析&lt;code&gt;多部分表单数据&lt;/code&gt;（&lt;code&gt;multipart/form-data&lt;/code&gt;），支持同时解析文件和表单字段，通常用于文件上传&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241221100114196.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241221100114196.png&#34;
 	
 	
 	
@@ -10026,7 +10026,7 @@
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;fileuploadparser&#34;&gt;FileUploadParser
 &lt;/h4&gt;&lt;p&gt;只能处理&lt;code&gt;文件&lt;/code&gt;上传请求&lt;code&gt;application/octet-stream&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241221100143428.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241221100143428.png&#34;
 	
 	
 	
@@ -10461,7 +10461,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;h3 id=&#34;解析器全局配置&#34;&gt;解析器全局配置
 &lt;/h3&gt;&lt;p&gt;如图，默认解析器有&lt;code&gt;JSONParser,FormParser,MutiPartParser&lt;/code&gt;三种&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241221100502285.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241221100502285.png&#34;
 	
 	
 	
@@ -10851,7 +10851,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Bar&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241221113024024.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241221113024024.png&#34;
 	
 	
 	
@@ -11037,7 +11037,7 @@
 &lt;h4 id=&#34;serializer&#34;&gt;Serializer
 &lt;/h4&gt;&lt;p&gt;&lt;code&gt;Serializer&lt;/code&gt;是基础序列化器，需要手动定义每个字段&lt;/p&gt;
 &lt;p&gt;先创建数据库，以便后续测试获取数据&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241221182140560.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241221182140560.png&#34;
 	
 	
 	
@@ -11048,7 +11048,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;手动添加两组数据&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241221182452157.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241221182452157.png&#34;
 	
 	
 	
@@ -11059,7 +11059,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;模型实例对象&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241221184453282.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241221184453282.png&#34;
 	
 	
 	
@@ -11112,7 +11112,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;Queryset数据集对象&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241221185028899.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241221185028899.png&#34;
 	
 	
 	
@@ -11125,7 +11125,7 @@
 &lt;h4 id=&#34;modelserializer&#34;&gt;ModelSerializer
 &lt;/h4&gt;&lt;p&gt;&lt;code&gt;ModelSerializer&lt;/code&gt;是&lt;code&gt;Serializer&lt;/code&gt;的子类，专门为模型数据设计，提供了基于模型类自动生成字段的功能&lt;/p&gt;
 &lt;p&gt;如下图，指定model为Depart类并指定fields即可基于模型类Depart的字段自动生成字段&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241221185924204.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241221185924204.png&#34;
 	
 	
 	
@@ -11152,7 +11152,7 @@
 &lt;/div&gt;&lt;h4 id=&#34;字段和参数&#34;&gt;字段和参数
 &lt;/h4&gt;&lt;p&gt;上面我们已经学习了&lt;code&gt;Serializer&lt;/code&gt;和&lt;code&gt;ModelSerializer&lt;/code&gt;两种序列化器，但是仅仅如此远远达不到我们开发时需要的灵活的，因此，这一部分将介绍对字段及参数的自定义，来实现灵活开发&lt;/p&gt;
 &lt;p&gt;前置数据准备&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241221194402180-17347814432471.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241221194402180-17347814432471.png&#34;
 	
 	
 	
@@ -11162,7 +11162,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241221194618320.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241221194618320.png&#34;
 	
 	
 	
@@ -11174,7 +11174,7 @@
 &gt;&lt;/p&gt;
 &lt;h5 id=&#34;返回所有字段&#34;&gt;返回所有字段
 &lt;/h5&gt;&lt;p&gt;返回模型类中定义的所有字段&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241221195330516.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241221195330516.png&#34;
 	
 	
 	
@@ -11224,7 +11224,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;h5 id=&#34;指定字段返回&#34;&gt;指定字段返回
 &lt;/h5&gt;&lt;p&gt;有时我们不需要将类中定义的全部字段返回，于是就需要自定义字段返回&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241222160835246.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241222160835246.png&#34;
 	
 	
 	
@@ -11265,7 +11265,7 @@
 &lt;p&gt;&lt;code&gt;时间数据格式设置&lt;/code&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241222161854882.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241222161854882.png&#34;
 	
 	
 	
@@ -11317,7 +11317,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 传入的obj为每次循环的数据库对象，obj.name即可获取对应的数据库内的数据&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241222162904065.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241222162904065.png&#34;
 	
 	
 	
@@ -11379,7 +11379,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;然后创建并应用迁移对象实现对数据库的操作&lt;/p&gt;
 &lt;p&gt;添加如下数据以便后续测试&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241222191532495.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241222191532495.png&#34;
 	
 	
 	
@@ -11393,7 +11393,7 @@
 &lt;/h5&gt;&lt;p&gt;那么需求来了，我们如何返回一个用户对应的所有标签呢？&lt;/p&gt;
 &lt;p&gt;最大的Queryset对象存放的是一个一个的用户对象obj，&lt;code&gt;obj.tags.all()&lt;/code&gt;即可获得所有的标签对象[Tag1,Tag2,&amp;hellip;.]&lt;/p&gt;
 &lt;p&gt;那么思路有了我们就可以用上面学会的自定义方法实现&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241222192549232.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241222192549232.png&#34;
 	
 	
 	
@@ -11418,7 +11418,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;我们通过自定义方法可以实现该需求，但仍需要自己书写逻辑，其实DRF的序列化支持嵌套，下面就来看看如何利用嵌套实现&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241222193614643.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241222193614643.png&#34;
 	
 	
 	
@@ -11485,7 +11485,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;总结：一般在有&lt;code&gt;foreignkey&lt;/code&gt;或者&lt;code&gt;manytomany&lt;/code&gt;时使用&lt;/p&gt;
 &lt;h5 id=&#34;继承&#34;&gt;继承
-&lt;/h5&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241222194350380.png&#34;
+&lt;/h5&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241222194350380.png&#34;
 	
 	
 	
@@ -11731,7 +11731,7 @@
 &lt;p&gt;所以想让那个字段先处理，就把他的位置写的上面一些，例如密码&lt;code&gt;password&lt;/code&gt;与确认密码&lt;code&gt;confirm_password&lt;/code&gt;就需要这样一个先后关系&lt;/p&gt;
 &lt;h4 id=&#34;创建类&#34;&gt;创建类
 &lt;/h4&gt;&lt;p&gt;上一小节中我们已经了解了字段对象的创建逻辑，那么在字段加载完成后，字段将会被作为参数传递进去创建&lt;code&gt;InfoSerializer&lt;/code&gt;类&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241223185239959.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241223185239959.png&#34;
 	
 	
 	
@@ -12546,7 +12546,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;每个字段的钩子方法以&lt;code&gt;validate_字段名&lt;/code&gt;命令，而全局的钩子方法直接是&lt;code&gt;validate&lt;/code&gt;方法，他会在各个字段的钩子方法校验完成后再对整体进行校验，因此传入的attr是所有字段和值组成的有序字典，而单个字段钩子方法的value是单个字段的值&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241224232824750.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241224232824750.png&#34;
 	
 	
 	
@@ -12557,7 +12557,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;总的钩子方法的错误信息也与字段的钩子不同&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241224233043880.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241224233043880.png&#34;
 	
 	
 	
@@ -12568,7 +12568,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;它的错误信息的键默认是&lt;code&gt;non_field_errors&lt;/code&gt;，可以通过&lt;code&gt;api_settings.NON_FIELD_ERRORS_KEY&lt;/code&gt;进行配置，如：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241224233734229.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241224233734229.png&#34;
 	
 	
 	
@@ -12726,7 +12726,7 @@
 &lt;/div&gt;&lt;h4 id=&#34;保存数据之fk和m2m字段&#34;&gt;保存数据之FK和M2M字段
 &lt;/h4&gt;&lt;p&gt;上一小节我们介绍了普通字段的保存，但是还有两种比较特殊的字段，如果是ForeignKey字段和ManytoMany字段，该怎么进行保存&lt;/p&gt;
 &lt;p&gt;我们先看FK&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241225104844380.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241225104844380.png&#34;
 	
 	
 	
@@ -12738,7 +12738,7 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;如图，depart是一个FK，关联到职位表，用户在输入时实际上输入的是职位的id，如果id不存在就会报错。如果需求升级，就算该职位存在，还要做进一步校验，就需要我们的钩子方法，在钩子中，value值其实已经是用户传入的id对应的depart对象了，我们就可以对对象进行操作、校验&lt;/p&gt;
 &lt;p&gt;然后我们来看M2M的情况&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241225110343348.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241225110343348.png&#34;
 	
 	
 	
@@ -12970,7 +12970,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;上述代码实现在输入时只需要输入title、order、count三个字段，在返回给用户时只返回id、title、order三个字段。完成共用一个序列化器实现数据校验保存和数据序列化字段的灵活自定义。可以应用在用户注册时，在注册时需要用户输入密码，但是返回数据展示时不会将密码返回&lt;/p&gt;
 &lt;p&gt;上面我们已经实现了控制哪些字段返回，但是返回的格式还需要进一步操作。例如对于一个choices的gender字段，返回时是返回数据中真实存储的1或2吗，显然不是，而应该是对应的男和女。同样的还有FK字段depart，我们应该单单返回一个depart_id吗？显然也不是，而是应该将其depart_title或其他信息返回，这应该怎么实现呢？&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241225204254510.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241225204254510.png&#34;
 	
 	
 	
@@ -13043,7 +13043,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;id&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;obj&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gender&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;text&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;obj&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;get_gender_display&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241225205712042.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241225205712042.png&#34;
 	
 	
 	
@@ -13122,7 +13122,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241225210517195.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241225210517195.png&#34;
 	
 	
 	
@@ -13178,7 +13178,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;我们上面学习的对choices的处理，都是要新定义一个字段来展示男/女，但需求中不管是提供的字段还是返回的字段都叫gender，显然不是我们原先学习的方法可以实现的&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20241226161015680.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20241226161015680.png&#34;
 	
 	
 	
@@ -13849,7 +13849,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;数据如下&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20250109120757629.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20250109120757629.png&#34;
 	
 	
 	
@@ -14139,7 +14139,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;结果如下&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20250109164431239.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20250109164431239.png&#34;
 	
 	
 	
@@ -14403,7 +14403,7 @@
 &lt;/div&gt;&lt;h5 id=&#34;发布评论&#34;&gt;发布评论
 &lt;/h5&gt;&lt;p&gt;发表评论可以采用单独写一个视图类的序列化类来实现，但更规范的写法是整合到上面的博客评论中，当GET请求时，是展示评论，当POST请求时，是发布评论&lt;/p&gt;
 &lt;p&gt;因为发布评论必须先登录，因此要用到认证类，但是展示评论不需要登录，而这两个功能是写在一个视图类中的，所以我们可以采用匿名用户，当未登录时不让他抛出错误而是返回None，最后如果request.user不为None则说明登陆了，如果是None说明是未登录，不让发表。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20250112160054842.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20250112160054842.png&#34;
 	
 	
 	
@@ -14772,7 +14772,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;实现效果&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20250120233733760.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20250120233733760.png&#34;
 	
 	
 	
@@ -14818,7 +14818,7 @@
 /accounts/?lastid=20&amp;amp;offset=0&amp;amp;limit=10&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h3 id=&#34;pagenumberpagination&#34;&gt;PageNumberPagination
 &lt;/h3&gt;&lt;h4 id=&#34;初步使用&#34;&gt;初步使用
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20250121154003508.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20250121154003508.png&#34;
 	
 	
 	
@@ -14831,7 +14831,7 @@
 &lt;p&gt;在url中传入不同的page,可以返回对应页的数据&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;一共有三篇博客,page_size=2,因此第一页两条数据,第二页一条数据&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20250121154415485.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20250121154415485.png&#34;
 	
 	
 	
@@ -14891,7 +14891,7 @@
 &lt;/div&gt;&lt;p&gt;写了三行代码,改了一个值就实现了分页功能&lt;/p&gt;
 &lt;h4 id=&#34;1212-自定义pagenumberpagination类&#34;&gt;12.1.2 自定义PageNumberPagination类
 &lt;/h4&gt;&lt;p&gt;通过继承PageNumberPagination类,自定义一些字段的值实现定制&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20250121155536954.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20250121155536954.png&#34;
 	
 	
 	
@@ -15852,7 +15852,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;上述代码打包命名为drf3.zip&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h3 id=&#34;genericviewset&#34;&gt;GenericViewSet
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20250122230642274.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20250122230642274.png&#34;
 	
 	
 	
@@ -15873,7 +15873,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;可见GenericViewSet类只是简单继承了ViewSetMixin类和GenericAPIView类，下面我们来看看ViewSetMixin类提供了什么功能&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20250122232449040.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20250122232449040.png&#34;
 	
 	
 	
@@ -16631,7 +16631,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;serializer_class&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;UserSerializer&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20250123141034289.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20250123141034289.png&#34;
 	
 	
 	
@@ -17300,7 +17300,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;filterset_fields是存放需要用于筛选的字段的列表，如上面filterset_fields中有id和username，那么当请求的URL中携带id，他就会进行筛选，返回符合条件的&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/DRF/image-20250124024712756.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/DRF/image-20250124024712756.png&#34;
 	
 	
 	
@@ -17727,7 +17727,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;h4 id=&#34;pycharm操作&#34;&gt;Pycharm操作
 &lt;/h4&gt;&lt;p&gt;创建django项目&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732088054327-ef4f3362-451c-4611-8d64-2ba238d83fb0.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732088054327-ef4f3362-451c-4611-8d64-2ba238d83fb0.png&#34;
 	
 	
 	
@@ -17736,7 +17736,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;生成效果&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732088219082-78f02080-3e2f-4b4f-8fee-60bcef043724.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732088219082-78f02080-3e2f-4b4f-8fee-60bcef043724.png&#34;
 	
 	
 	
@@ -17782,7 +17782,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;virtualenv&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;crm&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;python&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;python39&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732089006310-a4f0e644-3969-49ec-94b1-82bed5401f53.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732089006310-a4f0e644-3969-49ec-94b1-82bed5401f53.png&#34;
 	
 	
 	
@@ -17804,7 +17804,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;出现图示(虚拟环境名)表明激活成功&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732089138522-4e67f8fc-51a0-4114-9e2e-50c28c2b5989.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732089138522-4e67f8fc-51a0-4114-9e2e-50c28c2b5989.png&#34;
 	
 	
 	
@@ -17836,7 +17836,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;django&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;admin&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;startproject&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;crm&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732089413412-38b9f663-f1e6-4e9b-be4d-0336f8867975.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732089413412-38b9f663-f1e6-4e9b-be4d-0336f8867975.png&#34;
 	
 	
 	
@@ -17870,7 +17870,7 @@
 &lt;ul&gt;
 &lt;li&gt;创建纯净项目+创建虚拟环境&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732089953446-ec7f2c26-9685-4617-a075-302bc5c97ba1.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732089953446-ec7f2c26-9685-4617-a075-302bc5c97ba1.png&#34;
 	
 	
 	
@@ -17900,7 +17900,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;因为我的pycharm虚拟环境有问题，只有在Script目录下才被激活，因此指定了一下创建路径&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732090258231-79603868-d786-4ff9-840e-97f7297771a0.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732090258231-79603868-d786-4ff9-840e-97f7297771a0.png&#34;
 	
 	
 	
@@ -17911,7 +17911,7 @@
 &lt;ul&gt;
 &lt;li&gt;配置django的启动按钮&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732091034828-6dd33792-a724-4923-85b1-042177510b1a.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732091034828-6dd33792-a724-4923-85b1-042177510b1a.png&#34;
 	
 	
 	
@@ -17920,7 +17920,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;fix键&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732091520209-c45cff8d-7cfb-495e-ab4a-471cae5abb49.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732091520209-c45cff8d-7cfb-495e-ab4a-471cae5abb49.png&#34;
 	
 	
 	
@@ -17928,7 +17928,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732091447518-e3c10327-4abf-458a-86ac-f4a432e468f0.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732091447518-e3c10327-4abf-458a-86ac-f4a432e468f0.png&#34;
 	
 	
 	
@@ -18020,7 +18020,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h3 id=&#34;纯净版&#34;&gt;纯净版
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732091798025-cc0487a7-6d8c-4a3f-9dfb-3105790af457.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732091798025-cc0487a7-6d8c-4a3f-9dfb-3105790af457.png&#34;
 	
 	
 	
@@ -18238,7 +18238,7 @@
 &lt;/ul&gt;
 &lt;p&gt;Django工作流程：&lt;/p&gt;
 &lt;p&gt;当用户发来一个请求(request)时，Django会对请求头信息进行解析，解析出用户需要访问的url地址，然后根据路由urls.py中的定义的对应关系把请求转发到相应的视图处理。视图会从数据库读取需要的数据，指定渲染模板，最后返回响应数据&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732094182588-90c28716-2202-46cf-adf8-e20294930f80.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732094182588-90c28716-2202-46cf-adf8-e20294930f80.png&#34;
 	
 	
 	
@@ -18278,7 +18278,7 @@
 &lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;在urls中添加路径与视图函数对应关系&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732094938489-95a7b53c-5abc-42fa-a12a-0c1566f89138.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732094938489-95a7b53c-5abc-42fa-a12a-0c1566f89138.png&#34;
 	
 	
 	
@@ -18290,7 +18290,7 @@
 &lt;li&gt;创建模型&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;在app下新建名为models.py，在其中编写数据库字段及表与表的关联关系&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732095241289-bb64416f-c9c6-4e57-b3a1-79e75148829f.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732095241289-bb64416f-c9c6-4e57-b3a1-79e75148829f.png&#34;
 	
 	
 	
@@ -18303,7 +18303,7 @@
 &lt;li&gt;创建视图函数&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;在app下新建名为views的目录，根据业务功能创建account.py，并在其中定义login函数，从数据库读取数据，处理逻辑，指定渲染模板并将数据传递给对应模板&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732095370662-e9a615cc-c9d0-4b4c-98d5-464042123b53.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732095370662-e9a615cc-c9d0-4b4c-98d5-464042123b53.png&#34;
 	
 	
 	
@@ -18315,7 +18315,7 @@
 &lt;li&gt;编辑模板&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;创建在web/templates下创建login.html文件用于展示视图传来的数据，Django还提供了自己的模板语言用来渲染模板。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732095544263-c6c72fdd-a862-458a-9ca9-fa81008113c5.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732095544263-c6c72fdd-a862-458a-9ca9-fa81008113c5.png&#34;
 	
 	
 	
@@ -18760,7 +18760,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;补充&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732101851412-65b76dda-2530-4dce-a946-d35005525825.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732101851412-65b76dda-2530-4dce-a946-d35005525825.png&#34;
 	
 	
 	
@@ -18768,7 +18768,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732101903439-47168c0f-aa3d-41f4-8d00-bb46e599e925.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732101903439-47168c0f-aa3d-41f4-8d00-bb46e599e925.png&#34;
 	
 	
 	
@@ -18841,7 +18841,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732102693440-7bbb4b99-7711-46b6-a0d9-981da50359f6.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732102693440-7bbb4b99-7711-46b6-a0d9-981da50359f6.png&#34;
 	
 	
 	
@@ -19134,7 +19134,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;html文件放置&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732103923915-1c02e27c-d9b9-4a1a-94da-f87b6d04111c.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732103923915-1c02e27c-d9b9-4a1a-94da-f87b6d04111c.png&#34;
 	
 	
 	
@@ -19182,7 +19182,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h3 id=&#34;fbv和cbv&#34;&gt;FBV和CBV
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732104063621-29bab11d-9779-48b7-bd77-8643fc50c51a.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732104063621-29bab11d-9779-48b7-bd77-8643fc50c51a.png&#34;
 	
 	
 	
@@ -19560,7 +19560,7 @@
 &lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;生成最终输出，返回响应&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732153383490-62011243-3759-49fc-b4ce-7a2542acc514.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732153383490-62011243-3759-49fc-b4ce-7a2542acc514.png&#34;
 	
 	
 	
@@ -19573,7 +19573,7 @@
 &lt;/h3&gt;&lt;p&gt;变量传递&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;调用方法不用加（）&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732154380277-df3b82d6-2172-4972-a56c-cc37bbb63e96.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732154380277-df3b82d6-2172-4972-a56c-cc37bbb63e96.png&#34;
 	
 	
 	
@@ -19582,7 +19582,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;内置函数&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732154498692-89b2f800-e9b8-48f2-b443-2815d348f102.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732154498692-89b2f800-e9b8-48f2-b443-2815d348f102.png&#34;
 	
 	
 	
@@ -19863,7 +19863,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;母版一般放在根目录下的templates目录，若要视app为组件，可在app下的templates也放一份&lt;/p&gt;
 &lt;h4 id=&#34;模板的导入&#34;&gt;模板的导入
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732156134550-7ae71e20-74ab-4cf3-bfbf-b308bdc597bc.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732156134550-7ae71e20-74ab-4cf3-bfbf-b308bdc597bc.png&#34;
 	
 	
 	
@@ -19882,7 +19882,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;h2 id=&#34;中间件&#34;&gt;中间件
 &lt;/h2&gt;&lt;p&gt;Django生命周期&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732156310706-5f8a5e35-07be-4e03-9b5c-f8cc8a437e41.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732156310706-5f8a5e35-07be-4e03-9b5c-f8cc8a437e41.png&#34;
 	
 	
 	
@@ -19896,7 +19896,7 @@
 &lt;li&gt;注册&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;简单实例原始&#34;&gt;简单实例（原始）
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732156549515-a6a6761d-fe06-4d55-a6bb-bed26c8f59fa.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732156549515-a6a6761d-fe06-4d55-a6bb-bed26c8f59fa.png&#34;
 	
 	
 	
@@ -19904,7 +19904,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732156555542-dee6a05a-5ace-48ed-a4c3-83c7c5aa76c3.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732156555542-dee6a05a-5ace-48ed-a4c3-83c7c5aa76c3.png&#34;
 	
 	
 	
@@ -19915,7 +19915,7 @@
 &lt;h3 id=&#34;middlewaremixin推荐&#34;&gt;MiddlewareMixin（推荐）
 &lt;/h3&gt;&lt;h4 id=&#34;食用方法&#34;&gt;食用方法
 &lt;/h4&gt;&lt;p&gt;自定义process_request和process_response方法，其他继承MiddlewareMixin即可&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732156660779-a5e2accc-5f34-4743-b16e-1de4162bbcd8.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732156660779-a5e2accc-5f34-4743-b16e-1de4162bbcd8.png&#34;
 	
 	
 	
@@ -19923,7 +19923,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732156674883-057ef91a-1730-41ff-9973-04353a8d72b1.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732156674883-057ef91a-1730-41ff-9973-04353a8d72b1.png&#34;
 	
 	
 	
@@ -19985,7 +19985,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h4 id=&#34;执行流程&#34;&gt;执行流程
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732156863476-dd0017c5-a2b6-42b0-97b3-ef8bbf4c0bee.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732156863476-dd0017c5-a2b6-42b0-97b3-ef8bbf4c0bee.png&#34;
 	
 	
 	
@@ -19993,7 +19993,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732156875903-033f2390-2324-440e-b3a1-119536220a07.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732156875903-033f2390-2324-440e-b3a1-119536220a07.png&#34;
 	
 	
 	
@@ -20005,7 +20005,7 @@
 &lt;p&gt;process_request都没有返回值，如果有返回值则直接执行其process_response，不再执行后续中间件及视图函数&lt;/p&gt;
 &lt;p&gt;用于权限判断，ip黑名单拦截&lt;/p&gt;
 &lt;p&gt;process_response都有返回值，用于给response添加信息&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732156982789-92493c72-3b89-47e8-b900-5abb53163ef2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732156982789-92493c72-3b89-47e8-b900-5abb53163ef2.png&#34;
 	
 	
 	
@@ -20018,7 +20018,7 @@
 &lt;p&gt;先按顺序依次执行各个中间件的process_request，再进行路由匹配，在返回去执行process_view方法才进入视图函数，若某一process_view有返回值，则直接跳走，完整执行process_reponse&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;process_view是在django中写死了的&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732157126083-056bdf52-84e4-43c5-a1ef-de12c1307d1c.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732157126083-056bdf52-84e4-43c5-a1ef-de12c1307d1c.png&#34;
 	
 	
 	
@@ -20032,7 +20032,7 @@
 &lt;p&gt;当视图抛出异常时，Django会寻找一个合适的响应&lt;/p&gt;
 &lt;p&gt;Django会从后向前遍历中间件栈，调用每个中间件的&lt;code&gt;process_exception&lt;/code&gt;方法，直到找到一个返回了响应对象（&lt;code&gt;HttpResponse&lt;/code&gt;或其子类实例）的方法，如果到达中间件栈的开始都没有找到返回响应的方法，Django将显示默认的500错误页面（服务器内部错误）&lt;/p&gt;
 &lt;p&gt;这个方法允许开发者在异常发生时执行一些清理工作，或者返回一个自定义的响应给客户端，而不是默认的错误页面&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732157307696-c14048f3-9e5d-46f3-920e-936258e8efe0.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732157307696-c14048f3-9e5d-46f3-920e-936258e8efe0.png&#34;
 	
 	
 	
@@ -20040,7 +20040,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732157312628-1d652b10-e89d-47b3-9e86-33d5c9c83a3d.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732157312628-1d652b10-e89d-47b3-9e86-33d5c9c83a3d.png&#34;
 	
 	
 	
@@ -20073,7 +20073,7 @@
 &lt;h2 id=&#34;orm操作&#34;&gt;ORM操作
 &lt;/h2&gt;&lt;p&gt;ORM（Object-Relational Mapping，对象关系映射）是Django框架的核心组件之一，它允许开发者使用Python代码来操作数据库，而无需编写SQL语句。ORM抽象了数据库的操作，使得开发者可以像操作普通Python对象一样操作数据库&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;本质就是翻译的&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732162192972-fdc2e43c-6249-4700-87ce-05447e6c372a.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732162192972-fdc2e43c-6249-4700-87ce-05447e6c372a.png&#34;
 	
 	
 	
@@ -20542,7 +20542,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;进行数据库操作时&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;，&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;会根据读还是写进入db_for_read或db_for_write函数&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;，&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;然后根据其返回的数据库名对其进行操作&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732325909611-81b8f2b8-b1d8-4f6f-93d1-55edf06e2e2c.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732325909611-81b8f2b8-b1d8-4f6f-93d1-55edf06e2e2c.png&#34;
 	
 	
 	
@@ -20605,7 +20605,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;python&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;manage&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;py&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;migrate&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;app02&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;database&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;bak&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732326481315-96d08a97-ae7f-49ca-8895-832b28cde414.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732326481315-96d08a97-ae7f-49ca-8895-832b28cde414.png&#34;
 	
 	
 	
@@ -20655,7 +20655,7 @@
 &lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;router&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732326552654-4d53afce-ca65-4eda-9bf8-0a7c80cf3798.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732326552654-4d53afce-ca65-4eda-9bf8-0a7c80cf3798.png&#34;
 	
 	
 	
@@ -20665,7 +20665,7 @@
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;分库单app&#34;&gt;分库（单app）
 &lt;/h4&gt;&lt;p&gt;100张表，20张表-A数据库；50张表-B数据库&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732326718970-ad2e5342-406c-48a9-b91f-44e58e3cc8e0.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732326718970-ad2e5342-406c-48a9-b91f-44e58e3cc8e0.png&#34;
 	
 	
 	
@@ -20709,7 +20709,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;HttpResponse&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;返回&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732327229566-09bc94b8-3a1d-4c39-8bc5-66660b0832ed.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732327229566-09bc94b8-3a1d-4c39-8bc5-66660b0832ed.png&#34;
 	
 	
 	
@@ -20768,7 +20768,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;unique_together&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;((),)&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# 联合唯一索引&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732327662770-2fd0b964-e1aa-4fe9-b26c-035103380938.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732327662770-2fd0b964-e1aa-4fe9-b26c-035103380938.png&#34;
 	
 	
 	
@@ -20779,7 +20779,7 @@
 &lt;ul&gt;
 &lt;li&gt;多对多&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732327680736-3c72a242-eeb6-4b65-9bf6-763542287727.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732327680736-3c72a242-eeb6-4b65-9bf6-763542287727.png&#34;
 	
 	
 	
@@ -20891,7 +20891,7 @@
 &lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;一对一&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732327864468-81318d94-11f6-4107-bda8-01b951a84d53.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732327864468-81318d94-11f6-4107-bda8-01b951a84d53.png&#34;
 	
 	
 	
@@ -20943,7 +20943,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;控制输出格式 重写__str__方法&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732328790674-7e46b45b-8bc0-4323-83cd-7c80b33db501.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732328790674-7e46b45b-8bc0-4323-83cd-7c80b33db501.png&#34;
 	
 	
 	
@@ -21398,7 +21398,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h4 id=&#34;一对一&#34;&gt;一对一
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732336942184-224968b7-56b0-4464-9ba3-71fc23969d44.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732336942184-224968b7-56b0-4464-9ba3-71fc23969d44.png&#34;
 	
 	
 	
@@ -21408,7 +21408,7 @@
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;cookie和seeesion&#34;&gt;cookie和seeesion
 &lt;/h2&gt;&lt;h3 id=&#34;cookie&#34;&gt;cookie
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732337342278-0d558d6d-b66c-4fe7-8a19-db307b1287a8.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732337342278-0d558d6d-b66c-4fe7-8a19-db307b1287a8.png&#34;
 	
 	
 	
@@ -21426,7 +21426,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;mf&#34;&gt;127.0.0.1&lt;/span&gt;       &lt;span class=&#34;n&#34;&gt;v2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;wupeiqi&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;com&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732337452694-3063ebca-e902-4e52-8996-67df227dbcd7.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732337452694-3063ebca-e902-4e52-8996-67df227dbcd7.png&#34;
 	
 	
 	
@@ -21567,7 +21567,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;SESSION_SAVE_EVERY_REQUEST&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;True&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# 是否每次请求都保存Session，默认修改之后才保存&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/python/Django/1732337591554-c318f336-ede4-418c-a048-ad2c07c652c4.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Python/Django/1732337591554-c318f336-ede4-418c-a048-ad2c07c652c4.png&#34;
 	
 	
 	

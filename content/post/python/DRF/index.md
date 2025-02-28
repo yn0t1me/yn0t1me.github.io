@@ -14,9 +14,9 @@ tags: ["Django","DRF","python"]
 
 ### 前后端分离
 
-![](/post/python/DRF/1733982054512-99900304-27f3-48bb-aa08-adf52759a427.png)
+![](/post/Python/DRF/1733982054512-99900304-27f3-48bb-aa08-adf52759a427.png)
 
-![](/post/python/DRF/1733982078114-e0b608b9-4f16-4e15-a508-747a37443a76.png)
+![](/post/Python/DRF/1733982078114-e0b608b9-4f16-4e15-a508-747a37443a76.png)
 
 
 
@@ -85,7 +85,7 @@ class UserInfo(APIViews)
 
 + 创建纯净python项目并配置虚拟环境
 
-![](/post/python/DRF/1733983824945-78126a3b-6ded-4f6c-aeb6-8cc02cb2da76.png)
+![](/post/Python/DRF/1733983824945-78126a3b-6ded-4f6c-aeb6-8cc02cb2da76.png)
 
 + 安装django库并完成基础的项目配置
 
@@ -139,13 +139,13 @@ TEMPLATES = [
 
 + 配置项目启动按钮
 
-![](/post/python/DRF/1733984751636-3187b259-2c2d-4914-965a-e45893bd79ed.png)
+![](/post/Python/DRF/1733984751636-3187b259-2c2d-4914-965a-e45893bd79ed.png)
 
-![](/post/python/DRF/1733984879376-354e1923-5d2a-46e1-bbc4-1f33db967ac0.png)
+![](/post/Python/DRF/1733984879376-354e1923-5d2a-46e1-bbc4-1f33db967ac0.png)
 
-![](/post/python/DRF/1733984996746-4c8d1633-72c5-4cd2-8848-5adf2d7cdf34.png)
+![](/post/Python/DRF/1733984996746-4c8d1633-72c5-4cd2-8848-5adf2d7cdf34.png)
 
-![](/post/python/DRF/1733985045978-a462498f-b2ba-4da9-803c-29176ef07abc.png)
+![](/post/Python/DRF/1733985045978-a462498f-b2ba-4da9-803c-29176ef07abc.png)
 
 + 测试简单实例
 
@@ -468,17 +468,17 @@ request.uuuu
 
 普通匹配：`<数据类型:参数名>`，视图直接用`参数`接收，或者`self.kwargs`中获取
 
-![](/post/python/DRF/1734150636720-5cac42a1-7030-46db-950d-cda1559234b2.png)
+![](/post/Python/DRF/1734150636720-5cac42a1-7030-46db-950d-cda1559234b2.png)
 
 不指定参数名正则匹配（导入re_path）：`(正则表达式)`，视图直接用`参数`接收，或者`self.args`中获取
 
-![](/post/python/DRF/1734150642488-23de7af7-4501-423a-a4ce-35d03662d913.png)
+![](/post/Python/DRF/1734150642488-23de7af7-4501-423a-a4ce-35d03662d913.png)
 
 指定参数名正则匹配：`(?P<参数名>正则表达式)`，视图直接用`参数`接收，或者`self.kwargs`中获取
 
 命名捕获组（Named Capture Group）：`(?P<参数名>正则表达式)`
 
-![](/post/python/DRF/1734150651203-61c81235-6ac7-49d7-ae8d-32234589fdfe.png)
+![](/post/Python/DRF/1734150651203-61c81235-6ac7-49d7-ae8d-32234589fdfe.png)
 
 - `测试代码`
 
@@ -511,7 +511,7 @@ class UserView(APIView):
 
 ### 源码分析
 
-![](/post/python/DRF/1734153342930-18d2c2fe-47b0-4bdf-a768-d6145989fd3b.png)
+![](/post/Python/DRF/1734153342930-18d2c2fe-47b0-4bdf-a768-d6145989fd3b.png)
 
 - `流程梳理-文字版`
 
@@ -626,7 +626,7 @@ class UserView(APIView):
 
 drf中的request其实是对请求的再次封装，其目的就是在原来的request对象基础中再进行封装一些drf中需要用到的值
 
-![](/post/python/DRF/1734153473029-fd2d91cd-6312-4f75-9888-afc49b5dfc8f.png)
+![](/post/Python/DRF/1734153473029-fd2d91cd-6312-4f75-9888-afc49b5dfc8f.png)
 
 - `测试代码`
 
@@ -685,15 +685,15 @@ class UserView(APIView):
 
 + 认证失败信息定制
 
-![](/post/python/DRF/1734157419487-92ad7693-d15f-46a1-af5a-f403b0e0358b.png)
+![](/post/Python/DRF/1734157419487-92ad7693-d15f-46a1-af5a-f403b0e0358b.png)
 
 + 匿名用户
 
-![](/post/python/DRF/1734157650997-6ee13a51-5b0b-4f8b-bf96-c8e051217c05.png)
+![](/post/Python/DRF/1734157650997-6ee13a51-5b0b-4f8b-bf96-c8e051217c05.png)
 
 + 认证组件中返回的两个值，分别赋值给：`request.user` 和 `request.auth`
 
-![](/post/python/DRF/1734157774032-eab61203-3c75-47c0-9b85-9273a5af1fbf.png)
+![](/post/Python/DRF/1734157774032-eab61203-3c75-47c0-9b85-9273a5af1fbf.png)
 
 - `urls.py`
 
@@ -840,9 +840,9 @@ class OrderView(APIView):
 
 定义`get_authenticate_header`方法
 
-![image-20241215160350164](/post/python/DRF/image-20241215160350164.png)
+![image-20241215160350164](/post/Python/DRF/image-20241215160350164.png)
 
-![image-20241215162322059](/post/python/DRF/image-20241215162322059.png)
+![image-20241215162322059](/post/Python/DRF/image-20241215162322059.png)
 
 - 参考源码
 
@@ -1012,7 +1012,7 @@ obj.dispatch()  # authentication_classes = [11,22,33,44]
 
 
 
-![无标题-2024-11-16-0939](/post/python/DRF/无标题-2024-11-16-0939.png)
+![无标题-2024-11-16-0939](/post/Python/DRF/无标题-2024-11-16-0939.png)
 
 
 
@@ -1207,11 +1207,11 @@ class UserInfo(models.Model):
 
 - 创建数据库
 
-![image-20241215214124221](/post/python/DRF/image-20241215214124221.png)
+![image-20241215214124221](/post/Python/DRF/image-20241215214124221.png)
 
 - 手动添加数据做测试
 
-![image-20241215214406794](/post/python/DRF/image-20241215214406794.png)
+![image-20241215214406794](/post/Python/DRF/image-20241215214406794.png)
 
 #### 路由系统
 
@@ -1302,7 +1302,7 @@ class NoAuthentication(BaseAuthentication):
 
 - postman发送post请求测试接口示例
 
-![image-20241215215621539](/post/python/DRF/image-20241215215621539.png)
+![image-20241215215621539](/post/Python/DRF/image-20241215215621539.png)
 
 - 登录生成token接口
 
@@ -1334,7 +1334,7 @@ class LoginView(APIView):
         return Response({"status": True, "data": token})
 ```
 
-![image-20241215221444282](/post/python/DRF/image-20241215221444282.png)
+![image-20241215221444282](/post/Python/DRF/image-20241215221444282.png)
 
 - 需要认证的视图函数
 
@@ -1348,7 +1348,7 @@ class UserView(APIView):
 
 > 在请求头中携带和在请求参数中携带均可，有对应的认证组件校验
 
-![image-20241215223514300](/post/python/DRF/image-20241215223514300.png)
+![image-20241215223514300](/post/Python/DRF/image-20241215223514300.png)
 
 ### 总结
 
@@ -1490,7 +1490,7 @@ REST_FRAMEWORK = {
 }
 ```
 
-![image-20241217125147471](/post/python/DRF/image-20241217125147471.png)
+![image-20241217125147471](/post/Python/DRF/image-20241217125147471.png)
 
 ### 错误信息和多个权限类
 
@@ -1510,7 +1510,7 @@ class MyPermission(BasePermission):
 
 左图为默认错误信息，右图为自定义错误信息
 
-![image-20241217131658811](/post/python/DRF/image-20241217131658811.png)
+![image-20241217131658811](/post/Python/DRF/image-20241217131658811.png)
 
 - 多个权限类
 
@@ -1564,7 +1564,7 @@ class OrderView(APIView):
 
 终端只打印了`MyPermission1`
 
-![image-20241217140459678](/post/python/DRF/image-20241217140459678.png)
+![image-20241217140459678](/post/Python/DRF/image-20241217140459678.png)
 
 > 说明程序会按顺序校验每个权限类，一旦有一个返回False即校验不通过，则不再校验后续权限类，只有通过每一个权限类的校验才算有权限访问
 
@@ -1720,7 +1720,7 @@ class OrderView(NbApiView):
 
 #### 创建数据表
 
-![image-20241217171036327](/post/python/DRF/image-20241217171036327.png)
+![image-20241217171036327](/post/Python/DRF/image-20241217171036327.png)
 
 ```python
 class UserInfo(models.Model):
@@ -1739,7 +1739,7 @@ migrate
 
 手动添加数据
 
-![image-20241217172759096](/post/python/DRF/image-20241217172759096.png)
+![image-20241217172759096](/post/Python/DRF/image-20241217172759096.png)
 
 
 
@@ -1939,7 +1939,7 @@ class AvatarView(NbApiView):
 >
 > 经理可以访问`/order`,访问不了`/avatar`
 
-![image-20241217173736707](/post/python/DRF/image-20241217173736707.png)
+![image-20241217173736707](/post/Python/DRF/image-20241217173736707.png)
 
 
 
@@ -1975,7 +1975,7 @@ class AvatarView(NbApiView):
 >
 > 认证/权限组件在中间件之后
 
-![image-20241217182023566](/post/python/DRF/image-20241217182023566.png)
+![image-20241217182023566](/post/Python/DRF/image-20241217182023566.png)
 
 
 
@@ -2089,7 +2089,7 @@ class UserView(NbApiView):
 > 4. 计算长度
 >
 >    	4.1 超过，报错
->    	   	   	
+>    	   	   	   	   	
 >    	4.2 未超过，访问
 
 
@@ -2156,7 +2156,7 @@ class LoginView(APIView):
     ...
 ```
 
-![image-20241218093359538](/post/python/DRF/image-20241218093359538.png)
+![image-20241218093359538](/post/Python/DRF/image-20241218093359538.png)
 
 ### 源码流程
 
@@ -2523,7 +2523,7 @@ class LoginView(APIView):
 >
 > 参数携带的版本信息会被封装到`request.version`
 
-![image-20241219203724421](/post/python/DRF/image-20241219203724421.png)
+![image-20241219203724421](/post/Python/DRF/image-20241219203724421.png)
 
 - `settings.py`
 
@@ -2546,7 +2546,7 @@ REST_FRAMEWORK = {
 
 > 与django中的反向生成URL不同，drf反向生成的URL可以携带相关版本信息
 
-![image-20241220092026291](/post/python/DRF/image-20241220092026291.png)
+![image-20241220092026291](/post/Python/DRF/image-20241220092026291.png)
 
 GET请求携带的其他参数不会自动生成
 
@@ -2680,7 +2680,7 @@ class HomeView(APIView):
 
 > urls.py中path和re_path两种方式均可
 
-![image-20241220114016697](/post/python/DRF/image-20241220114016697.png)
+![image-20241220114016697](/post/Python/DRF/image-20241220114016697.png)
 
 ```python
 # 源码
@@ -2705,7 +2705,7 @@ class URLPathVersioning(BaseVersioning):
 
 > 反向生成的URL不含版本，因为他本来就不出现在url中
 
-![image-20241220121052593](/post/python/DRF/image-20241220121052593.png)
+![image-20241220121052593](/post/Python/DRF/image-20241220121052593.png)
 
 **参考代码**
 
@@ -2843,13 +2843,13 @@ class JSON 解析器
 
 解析`JSON`格式的请求数据（`application/json`），返回python中的`字典`类型
 
-![image-20241221095817376](/post/python/DRF/image-20241221095817376.png)
+![image-20241221095817376](/post/Python/DRF/image-20241221095817376.png)
 
 #### FormParser
 
 解析`表单`（`application/x-www-form-urlencoded`）数据为`QueryDict（字典）`类型数据
 
-![image-20241221100042471](/post/python/DRF/image-20241221100042471.png)
+![image-20241221100042471](/post/Python/DRF/image-20241221100042471.png)
 
 
 
@@ -2857,7 +2857,7 @@ class JSON 解析器
 
 解析`多部分表单数据`（`multipart/form-data`），支持同时解析文件和表单字段，通常用于文件上传
 
-![image-20241221100114196](/post/python/DRF/image-20241221100114196.png)
+![image-20241221100114196](/post/Python/DRF/image-20241221100114196.png)
 
 
 
@@ -2865,7 +2865,7 @@ class JSON 解析器
 
 只能处理`文件`上传请求`application/octet-stream`
 
-![image-20241221100143428](/post/python/DRF/image-20241221100143428.png)
+![image-20241221100143428](/post/Python/DRF/image-20241221100143428.png)
 
 
 
@@ -3088,7 +3088,7 @@ class HomeView(APIView):
 
 如图，默认解析器有`JSONParser,FormParser,MutiPartParser`三种
 
-![image-20241221100502285](/post/python/DRF/image-20241221100502285.png)
+![image-20241221100502285](/post/Python/DRF/image-20241221100502285.png)
 
 但为了防止不能上传图片等功能点因为默认解析器可以上传图片，导致`request.data`的类型的不确定性，建议局部配置
 
@@ -3315,7 +3315,7 @@ Foo()
 Bar()
 ```
 
-![image-20241221113024024](/post/python/DRF/image-20241221113024024.png)
+![image-20241221113024024](/post/Python/DRF/image-20241221113024024.png)
 
 
 
@@ -3438,15 +3438,15 @@ obj()  # 执行Base的__call__
 
 先创建数据库，以便后续测试获取数据
 
-![image-20241221182140560](/post/python/DRF/image-20241221182140560.png)
+![image-20241221182140560](/post/Python/DRF/image-20241221182140560.png)
 
 手动添加两组数据
 
-![image-20241221182452157](/post/python/DRF/image-20241221182452157.png)
+![image-20241221182452157](/post/Python/DRF/image-20241221182452157.png)
 
 模型实例对象
 
-![image-20241221184453282](/post/python/DRF/image-20241221184453282.png)
+![image-20241221184453282](/post/Python/DRF/image-20241221184453282.png)
 
 ```python
 class DepartSerializer(serializers.Serializer):
@@ -3471,7 +3471,7 @@ class DepartView(APIView):
 
 Queryset数据集对象
 
-![image-20241221185028899](/post/python/DRF/image-20241221185028899.png)
+![image-20241221185028899](/post/Python/DRF/image-20241221185028899.png)
 
 #### ModelSerializer
 
@@ -3479,7 +3479,7 @@ Queryset数据集对象
 
 如下图，指定model为Depart类并指定fields即可基于模型类Depart的字段自动生成字段
 
-![image-20241221185924204](/post/python/DRF/image-20241221185924204.png)
+![image-20241221185924204](/post/Python/DRF/image-20241221185924204.png)
 
 ```python
 class DepartSerializer(serializers.ModelSerializer):
@@ -3494,15 +3494,15 @@ class DepartSerializer(serializers.ModelSerializer):
 
 前置数据准备
 
-![image-20241221194402180](/post/python/DRF/image-20241221194402180-17347814432471.png)
+![image-20241221194402180](/post/Python/DRF/image-20241221194402180-17347814432471.png)
 
-![image-20241221194618320](/post/python/DRF/image-20241221194618320.png)
+![image-20241221194618320](/post/Python/DRF/image-20241221194618320.png)
 
 ##### 返回所有字段
 
 返回模型类中定义的所有字段
 
-![image-20241221195330516](/post/python/DRF/image-20241221195330516.png)
+![image-20241221195330516](/post/Python/DRF/image-20241221195330516.png)
 
 ```python
 class UserSerializer(serializers.ModelSerializer):
@@ -3527,7 +3527,7 @@ class UserView(APIView):
 
 有时我们不需要将类中定义的全部字段返回，于是就需要自定义字段返回
 
-![image-20241222160835246](/post/python/DRF/image-20241222160835246.png)
+![image-20241222160835246](/post/Python/DRF/image-20241222160835246.png)
 
 我们发现gender返回的是数据库中真实存储的1和2，那应该如何让他返回男和女呢？
 
@@ -3549,7 +3549,7 @@ gender = serializers.CharField(source='gender')  # 等同于直接在fields中�
 
 
 
-![image-20241222161854882](/post/python/DRF/image-20241222161854882.png)
+![image-20241222161854882](/post/Python/DRF/image-20241222161854882.png)
 
 ```python
 class UserSerializer(serializers.ModelSerializer):
@@ -3575,7 +3575,7 @@ def get_xxx(self, obj):
 # 传入的obj为每次循环的数据库对象，obj.name即可获取对应的数据库内的数据
 ```
 
-![image-20241222162904065](/post/python/DRF/image-20241222162904065.png)
+![image-20241222162904065](/post/Python/DRF/image-20241222162904065.png)
 
 #### 嵌套与继承
 
@@ -3609,7 +3609,7 @@ class UserInfo(models.Model):
 
 添加如下数据以便后续测试
 
-![image-20241222191532495](/post/python/DRF/image-20241222191532495.png)
+![image-20241222191532495](/post/Python/DRF/image-20241222191532495.png)
 
 ##### 嵌套
 
@@ -3619,7 +3619,7 @@ class UserInfo(models.Model):
 
 那么思路有了我们就可以用上面学会的自定义方法实现
 
-![image-20241222192549232](/post/python/DRF/image-20241222192549232.png)
+![image-20241222192549232](/post/Python/DRF/image-20241222192549232.png)
 
 ```python
     def get_xxx(self, obj):
@@ -3630,7 +3630,7 @@ class UserInfo(models.Model):
 
 我们通过自定义方法可以实现该需求，但仍需要自己书写逻辑，其实DRF的序列化支持嵌套，下面就来看看如何利用嵌套实现
 
-![image-20241222193614643](/post/python/DRF/image-20241222193614643.png)
+![image-20241222193614643](/post/Python/DRF/image-20241222193614643.png)
 
 如上图，一个序列化器可以嵌套子序列化器，子序列化器中的操作与上一节介绍的无异，支持自定义字段，自定义方法等等，这样就快捷地实现了我们的需求
 
@@ -3667,7 +3667,7 @@ class UserSerializer(serializers.ModelSerializer):
 
 ##### 继承
 
-![image-20241222194350380](/post/python/DRF/image-20241222194350380.png)
+![image-20241222194350380](/post/Python/DRF/image-20241222194350380.png)
 
 如上图，Base序列化器定义了一个xx字段，而UserSerializer序列化器继承了Base，就可以直接使用xx字段
 
@@ -3821,7 +3821,7 @@ class InfoSerializer(serializers.Serializer):
 
 上一小节中我们已经了解了字段对象的创建逻辑，那么在字段加载完成后，字段将会被作为参数传递进去创建`InfoSerializer`类
 
-![image-20241223185239959](/post/python/DRF/image-20241223185239959.png)
+![image-20241223185239959](/post/Python/DRF/image-20241223185239959.png)
 
 `InfoSerializer`类的父类是`Serializer`类，该类在创建时指定了`metaclass=SerializerMetaclass`，由元类的知识我们知道，一旦`Serializer`指定了`metaclass=SerializerMetaclass`，那么其所有的子类在创建时都将指定元类为`SerializerMetaclass`，因此不管是继承的`Serializer`还是`ModelSerializer`，最终都由元类`SerializerMetaclass`创建
 
@@ -4334,15 +4334,15 @@ email = serializers.CharField(validators=[RegexValidator(r"\d+", message="格式
 
 每个字段的钩子方法以`validate_字段名`命令，而全局的钩子方法直接是`validate`方法，他会在各个字段的钩子方法校验完成后再对整体进行校验，因此传入的attr是所有字段和值组成的有序字典，而单个字段钩子方法的value是单个字段的值
 
-![image-20241224232824750](/post/python/DRF/image-20241224232824750.png)
+![image-20241224232824750](/post/Python/DRF/image-20241224232824750.png)
 
 总的钩子方法的错误信息也与字段的钩子不同
 
-![image-20241224233043880](/post/python/DRF/image-20241224233043880.png)
+![image-20241224233043880](/post/Python/DRF/image-20241224233043880.png)
 
 它的错误信息的键默认是`non_field_errors`，可以通过`api_settings.NON_FIELD_ERRORS_KEY`进行配置，如：
 
-![image-20241224233734229](/post/python/DRF/image-20241224233734229.png)
+![image-20241224233734229](/post/Python/DRF/image-20241224233734229.png)
 
 即可实现自定义错误信息的键
 
@@ -4448,13 +4448,13 @@ class DepartView(APIView):
 
 我们先看FK
 
-![image-20241225104844380](/post/python/DRF/image-20241225104844380.png)
+![image-20241225104844380](/post/Python/DRF/image-20241225104844380.png)
 
 如图，depart是一个FK，关联到职位表，用户在输入时实际上输入的是职位的id，如果id不存在就会报错。如果需求升级，就算该职位存在，还要做进一步校验，就需要我们的钩子方法，在钩子中，value值其实已经是用户传入的id对应的depart对象了，我们就可以对对象进行操作、校验
 
 然后我们来看M2M的情况
 
-![image-20241225110343348](/post/python/DRF/image-20241225110343348.png)
+![image-20241225110343348](/post/Python/DRF/image-20241225110343348.png)
 
 tags是一个M2M，关联userinfo和tags表，用户传入一个列表，1和2对应tags表的id，表示当前创建用户与id=1和id=2的标签都有关联，于是在userinfo_tags表中生成两条记录
 
@@ -4605,7 +4605,7 @@ class DpModelSerializer(serializers.ModelSerializer):
 
 上面我们已经实现了控制哪些字段返回，但是返回的格式还需要进一步操作。例如对于一个choices的gender字段，返回时是返回数据中真实存储的1或2吗，显然不是，而应该是对应的男和女。同样的还有FK字段depart，我们应该单单返回一个depart_id吗？显然也不是，而是应该将其depart_title或其他信息返回，这应该怎么实现呢？
 
-![image-20241225204254510](/post/python/DRF/image-20241225204254510.png)
+![image-20241225204254510](/post/Python/DRF/image-20241225204254510.png)
 
 - choices字段
 
@@ -4642,7 +4642,7 @@ class UusModelSerializer(serializers.ModelSerializer):
         return {"id": obj.gender, "text": obj.get_gender_display()}
 ```
 
-![image-20241225205712042](/post/python/DRF/image-20241225205712042.png)
+![image-20241225205712042](/post/Python/DRF/image-20241225205712042.png)
 
 - FK字段
 
@@ -4682,7 +4682,7 @@ class UusModelSerializer(serializers.ModelSerializer):
         }
 ```
 
-![image-20241225210517195](/post/python/DRF/image-20241225210517195.png)
+![image-20241225210517195](/post/Python/DRF/image-20241225210517195.png)
 
 如果是二合一的形式，视图函数中可以进一步缩写
 
@@ -4719,7 +4719,7 @@ class NbUserInfo(models.Model):
 
 我们上面学习的对choices的处理，都是要新定义一个字段来展示男/女，但需求中不管是提供的字段还是返回的字段都叫gender，显然不是我们原先学习的方法可以实现的
 
-![image-20241226161015680](/post/python/DRF/image-20241226161015680.png)
+![image-20241226161015680](/post/Python/DRF/image-20241226161015680.png)
 
 重点就是要将返回的gender设置为男/女
 
@@ -5103,7 +5103,7 @@ def db(request):
 
 数据如下
 
-![image-20250109120757629](/post/python/DRF/image-20250109120757629.png)
+![image-20250109120757629](/post/Python/DRF/image-20250109120757629.png)
 
 #### 功能实现
 
@@ -5267,7 +5267,7 @@ models.Comment.objects.create(content="er", blog_id=1, user_id=2)
 
 结果如下
 
-![image-20250109164431239](/post/python/DRF/image-20250109164431239.png)
+![image-20250109164431239](/post/Python/DRF/image-20250109164431239.png)
 
 基本功能已经实现了，但是现在只是评论的展示，后续如果用户要添加评论时，user字段是需要用户传入id值的，而展示则是展示用户名，所以此处需要我们进行一个拓展，让该字段在校验时传入的是id，在序列化时是返回用户名
 
@@ -5428,7 +5428,7 @@ class LoginView(APIView):
 
 因为发布评论必须先登录，因此要用到认证类，但是展示评论不需要登录，而这两个功能是写在一个视图类中的，所以我们可以采用匿名用户，当未登录时不让他抛出错误而是返回None，最后如果request.user不为None则说明登陆了，如果是None说明是未登录，不让发表。
 
-![image-20250112160054842](/post/python/DRF/image-20250112160054842.png)
+![image-20250112160054842](/post/Python/DRF/image-20250112160054842.png)
 
 在请求参数中携带token作身份标识，在请求体中传递评论内容
 
@@ -5641,7 +5641,7 @@ class BlogView(APIView):
 
 实现效果
 
-![image-20250120233733760](/post/python/DRF/image-20250120233733760.png)
+![image-20250120233733760](/post/Python/DRF/image-20250120233733760.png)
 
 #### 总结
 
@@ -5697,13 +5697,13 @@ class BlogView(APIView):
 
 #### 初步使用
 
-![image-20250121154003508](/post/python/DRF/image-20250121154003508.png)
+![image-20250121154003508](/post/Python/DRF/image-20250121154003508.png)
 
 在url中传入不同的page,可以返回对应页的数据
 
 > 一共有三篇博客,page_size=2,因此第一页两条数据,第二页一条数据
 
-![image-20250121154415485](/post/python/DRF/image-20250121154415485.png)
+![image-20250121154415485](/post/Python/DRF/image-20250121154415485.png)
 
 将该分页组件应用到前面的案例中,新的BlogView类实现如下
 
@@ -5738,7 +5738,7 @@ class BlogView(APIView):
 
 通过继承PageNumberPagination类,自定义一些字段的值实现定制
 
-![image-20250121155536954](/post/python/DRF/image-20250121155536954.png)
+![image-20250121155536954](/post/Python/DRF/image-20250121155536954.png)
 
 ```python
 class MyPageNumberPagination(PageNumberPagination):
@@ -6305,7 +6305,7 @@ class DemoDetailView(GenericAPIView):
 
 ### GenericViewSet
 
-![image-20250122230642274](/post/python/DRF/image-20250122230642274.png)
+![image-20250122230642274](/post/Python/DRF/image-20250122230642274.png)
 
 ```python
 class GenericViewSet(ViewSetMixin, generics.GenericAPIView):
@@ -6314,7 +6314,7 @@ class GenericViewSet(ViewSetMixin, generics.GenericAPIView):
 
 可见GenericViewSet类只是简单继承了ViewSetMixin类和GenericAPIView类，下面我们来看看ViewSetMixin类提供了什么功能
 
-![image-20250122232449040](/post/python/DRF/image-20250122232449040.png)
+![image-20250122232449040](/post/Python/DRF/image-20250122232449040.png)
 
 关键就是在于这个`as_view()`方法，以前我们使用的视图继承VIew或是APIView，因为都不会自定义as_view，所以都是走到VIew视图类的as_view()方法，但ViewSetMixin类提供了as_view方法，他为我们提供了什么功能呢？
 
@@ -6746,7 +6746,7 @@ class UserView(ListModelMixin, RetrieveModelMixin, CreateModelMixin, UpdateModel
 
 ```
 
-![image-20250123141034289](/post/python/DRF/image-20250123141034289.png)
+![image-20250123141034289](/post/Python/DRF/image-20250123141034289.png)
 
 #### DestroyModelMixin
 
@@ -7161,7 +7161,7 @@ class FtView(ModelViewSet):
 
 filterset_fields是存放需要用于筛选的字段的列表，如上面filterset_fields中有id和username，那么当请求的URL中携带id，他就会进行筛选，返回符合条件的
 
-![image-20250124024712756](/post/python/DRF/image-20250124024712756.png)
+![image-20250124024712756](/post/Python/DRF/image-20250124024712756.png)
 
 然而这种筛选只支持判断相等，即id=1，而无法实现筛选出id>1的数据
 
