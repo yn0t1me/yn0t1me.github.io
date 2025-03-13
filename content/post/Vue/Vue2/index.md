@@ -56,11 +56,11 @@ tags: ["Vue"]
 
 时期1
 
-![image-20221016094526430](/post/Vue/Vue2/image-20221016094526430.png)
+![image-20221016094526430](https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20221016094526430.png)
 
 时期2
 
-![image-20221016094955593](/post/Vue/Vue2/image-20221016094955593.png)
+![image-20221016094955593](https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20221016094955593.png)
 
 
 
@@ -107,7 +107,7 @@ jquery选择器，原生js 完全用不到了---> jq已经完成自己的历史�
 
 单页面开发：如果是vue项目，整个项目其实就一个 index.html 页面，看到的页面变化，不是多个html页面在变化，而是组件的替换
 
-![image-20221016103403145](/post/Vue/Vue2/image-20221016103403145.png)
+![image-20221016103403145](https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20221016103403145.png)
 
 ## Vue的快速使用
 
@@ -137,7 +137,7 @@ jquery选择器，原生js 完全用不到了---> jq已经完成自己的历史�
 
 第二步：安装Vue插件（提供代码提示，更方便开发，不下也可以开发Vue）
 
-![image-20250124144106255](/post/Vue/Vue2/image-20250124144106255.png)
+![image-20250124144106255](https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250124144106255.png)
 
 第三步：Vue导入本地（如果采用远程导入如cdn，则不需要这一步）
 
@@ -146,7 +146,7 @@ jquery选择器，原生js 完全用不到了---> jq已经完成自己的历史�
 - Vue.js v2.7.16版本的cdn地址 `https://cdn.jsdelivr.net/npm/vue/dist/vue.js` 
 - 将上述地址的源码复制到项目目录下的`js/vue.js`文件
 
-![image-20250124145430369](/post/Vue/Vue2/image-20250124145430369.png)
+![image-20250124145430369](https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250124145430369.png)
 
 第四步：开发第一个vue项目
 
@@ -256,7 +256,7 @@ js的对象中，key可以不用引号包裹，这是es6的新语法，旨在开
 
 显示结果：
 
-![image-20250125005745293](/post/Vue/Vue2/image-20250125005745293.png)
+![image-20250125005745293](https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250125005745293.png)
 
 
 
@@ -338,7 +338,7 @@ vue中面试题：v-if和v-show区别是什么？
 
 **显示效果**
 
-![image-20250125012522198](/post/Vue/Vue2/image-20250125012522198.png)
+![image-20250125012522198](https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250125012522198.png)
 
 ### 补充小知识：MVVM的双向数据绑定
 
@@ -359,13 +359,13 @@ var vm = new Vue({
 
 在控制台修改变量的值，页面会立马跟着变化 ---> 以后只需要修改变量值即可，不需要操作dom了
 
-![image-20250125013904332](/post/Vue/Vue2/image-20250125013904332.png)
+![image-20250125013904332](https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250125013904332.png)
 
 如图，直接修改`vm.b2=true`，就可以显示出原先被隐藏的内容，可见，修改Model即可修改View
 
 后端数据库的值改变并不会引起页面变化，只有通过ajax请求到数据后，前端将数据给到Model，Model的变化才会引起View的变化
 
-![image-20221016142247104](/post/Vue/Vue2/image-20221016142247104.png)
+![image-20221016142247104](https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20221016142247104.png)
 
 那么View变化是否也会引起Model改变呢？
 
@@ -421,7 +421,7 @@ var vm = new Vue({
 
 创建一个空的input框，当在页面上填入内容时，name也相应发生变化
 
-![image-20250125014344980](/post/Vue/Vue2/image-20250125014344980.png)
+![image-20250125014344980](https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250125014344980.png)
 
 至此我们已经看到了Vue的双向数据绑定
 
@@ -848,7 +848,7 @@ style_obj: {fontSize: '50px', background: 'pink', color: 'green'},
 
 页面效果
 
-![image-20250126003133920](/post/Vue/Vue2/image-20250126003133920.png)
+![image-20250126003133920](https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250126003133920.png)
 
 使用v-if和v-for写个购物车显示与不显示的案例
 
@@ -3141,23 +3141,23 @@ Vue-CLI 是基于nodejs的
 
 命令行创建说明：
 
-![image-20250201161451705](/post/Vue/Vue2/image-20250201161451705.png)
+![image-20250201161451705](https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250201161451705.png)
 
 第三方组件选择
 
-![image-20250201161024347](/post/Vue/Vue2/image-20250201161024347.png)
+![image-20250201161024347](https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250201161024347.png)
 
 vue版本
 
-![image-20250201161110040](/post/Vue/Vue2/image-20250201161110040.png)
+![image-20250201161110040](https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250201161110040.png)
 
 包管理文件
 
-![image-20250201161539702](/post/Vue/Vue2/image-20250201161539702.png)
+![image-20250201161539702](https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250201161539702.png)
 
 创建成功后就可以使用pycharm打开项目了
 
-![image-20250201161904849](/post/Vue/Vue2/image-20250201161904849.png)
+![image-20250201161904849](https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250201161904849.png)
 
 
 
@@ -3167,7 +3167,7 @@ vue版本
 
 - 方式二：配置pycharm的启动按钮
 
-![image-20250201162632956](/post/Vue/Vue2/image-20250201162632956.png)
+![image-20250201162632956](https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250201162632956.png)
 
 
 
@@ -3203,7 +3203,7 @@ vue2_test        # 项目名
   vue.config.js  # vue的配置文件  等同于 django中setting.py
 ```
 
-![image-20250204164419225](/post/Vue/Vue2/image-20250204164419225.png)
+![image-20250204164419225](https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250204164419225.png)
 
 ### vue项目开发技巧
 
@@ -4625,7 +4625,7 @@ new Vue({
 
 ### 各个状态的核心概念
 
-![img](/post/Vue/Vue2/eb9c566732fb3100f4a3f27a65983e09.png)
+![img](https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/eb9c566732fb3100f4a3f27a65983e09.png)
 
 #### state
 

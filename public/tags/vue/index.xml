@@ -936,7 +936,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;script&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue3/image-20250208144832691.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue3/image-20250208144832691.png&#34;
 	
 	
 	
@@ -971,7 +971,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;script&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue3/image-20250208145000810.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue3/image-20250208145000810.png&#34;
 	
 	
 	
@@ -1500,7 +1500,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;命名导出+命名导入&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue3/image-20221113100640595.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue3/image-20221113100640595.png&#34;
 	
 	
 	
@@ -1511,7 +1511,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;命名导出+命名空间导入&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue3/image-20221113100708949.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue3/image-20221113100708949.png&#34;
 	
 	
 	
@@ -1522,7 +1522,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;默认导出+默认导入&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue3/image-20221113100834135.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue3/image-20221113100834135.png&#34;
 	
 	
 	
@@ -1536,7 +1536,7 @@
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;关于node.js
-&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue3/image-20221113102414428.png&#34;
+&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue3/image-20221113102414428.png&#34;
 	
 	
 	
@@ -1610,7 +1610,7 @@
 &lt;li&gt;WebStorm&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;使用WebStorm创建项目，自动配置好项目启动按钮等，但是vuex，vue-router等组件需要手动安装，其他均已配置好&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue3/image-20250208181420027.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue3/image-20250208181420027.png&#34;
 	
 	
 	
@@ -1649,7 +1649,7 @@
 &lt;p&gt;将项目打包成静态文件，通常输出到 &lt;code&gt;dist&lt;/code&gt; 文件夹中&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue3/image-20250208182317285.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue3/image-20250208182317285.png&#34;
 	
 	
 	
@@ -1662,7 +1662,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;第二步：将编译后的代码dist文件上传到服务器（阿里云、腾讯云）&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue3/image-20220312123432759.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue3/image-20220312123432759.png&#34;
 	
 	
 	
@@ -1796,7 +1796,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;第四步：访问
-&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue3/image-20221112172411638.png&#34;
+&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue3/image-20221112172411638.png&#34;
 	
 	
 	
@@ -2729,7 +2729,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;style&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue3/image-20221113112314914.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue3/image-20221113112314914.png&#34;
 	
 	
 	
@@ -3037,7 +3037,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue3/image-20250208200643749.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue3/image-20250208200643749.png&#34;
 	
 	
 	
@@ -3048,7 +3048,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;可以看到，需要配置的地方都自动完成配置了&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue3/image-20250208201525153.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue3/image-20250208201525153.png&#34;
 	
 	
 	
@@ -3060,7 +3060,7 @@
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;必备操作&#34;&gt;必备操作
 &lt;/h3&gt;&lt;h4 id=&#34;快速上手案例&#34;&gt;快速上手（案例）
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue3/image-20221113114601213.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue3/image-20221113114601213.png&#34;
 	
 	
 	
@@ -3232,7 +3232,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h4 id=&#34;url传值get&#34;&gt;URL传值（GET）
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue3/image-20221113121504119.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue3/image-20221113121504119.png&#34;
 	
 	
 	
@@ -3365,7 +3365,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;详细见：&lt;strong&gt;src-2.zip&lt;/strong&gt;&lt;/p&gt;
 &lt;h4 id=&#34;url动态参数&#34;&gt;URL动态参数
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue3/image-20221113142551078.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue3/image-20221113142551078.png&#34;
 	
 	
 	
@@ -3814,7 +3814,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;h5 id=&#34;登录跳转含顶部&#34;&gt;登录跳转（含顶部）
 &lt;/h5&gt;&lt;p&gt;与其他一级标题相同，只需要编写自己的页面，然后切换时就可以嵌入到router-view中，保留顶部&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue3/image-20221113150609761.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue3/image-20221113150609761.png&#34;
 	
 	
 	
@@ -4064,7 +4064,7 @@
 &lt;/div&gt;&lt;p&gt;详见：src-4.zip&lt;/p&gt;
 &lt;h5 id=&#34;登录跳转不含顶部&#34;&gt;登录跳转（不含顶部）
 &lt;/h5&gt;&lt;p&gt;需要将登录与其他一级路由独立开来，路由结构如下图，这样就可以保证登录界面无顶部，而其他页面都有导航栏&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue3/image-20250209194053844.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue3/image-20250209194053844.png&#34;
 	
 	
 	
@@ -4074,7 +4074,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue3/image-20221113151724446.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue3/image-20221113151724446.png&#34;
 	
 	
 	
@@ -4084,7 +4084,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue3/image-20221113151735710.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue3/image-20221113151735710.png&#34;
 	
 	
 	
@@ -4440,7 +4440,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h4 id=&#34;导航守卫全局&#34;&gt;导航守卫（全局）
-&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue3/image-20221113154651481.png&#34;
+&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue3/image-20221113154651481.png&#34;
 	
 	
 	
@@ -4668,7 +4668,7 @@
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;vue add vuex （推荐）
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue3/image-20250209205551225.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue3/image-20250209205551225.png&#34;
 	
 	
 	
@@ -6450,7 +6450,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;时期1&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue2/image-20221016094526430.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20221016094526430.png&#34;
 	
 	
 	
@@ -6461,7 +6461,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;时期2&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue2/image-20221016094955593.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20221016094955593.png&#34;
 	
 	
 	
@@ -6507,7 +6507,7 @@
 &lt;p&gt;jquery选择器，原生js 完全用不到了&amp;mdash;&amp;gt; jq已经完成自己的历史使命了，慢慢退出舞台了&lt;/p&gt;
 &lt;p&gt;组件化开发：组件化开发：把某些可能会多次使用的 htm，css，js，写成单独的，以后直接引入即可&lt;/p&gt;
 &lt;p&gt;单页面开发：如果是vue项目，整个项目其实就一个 index.html 页面，看到的页面变化，不是多个html页面在变化，而是组件的替换&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue2/image-20221016103403145.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20221016103403145.png&#34;
 	
 	
 	
@@ -6563,7 +6563,7 @@
 &lt;li&gt;直接和新建一个python项目一样，没区别，且不用管python解释器&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;第二步：安装Vue插件（提供代码提示，更方便开发，不下也可以开发Vue）&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue2/image-20250124144106255.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250124144106255.png&#34;
 	
 	
 	
@@ -6579,7 +6579,7 @@
 &lt;li&gt;Vue.js v2.7.16版本的cdn地址 &lt;code&gt;https://cdn.jsdelivr.net/npm/vue/dist/vue.js&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;将上述地址的源码复制到项目目录下的&lt;code&gt;js/vue.js&lt;/code&gt;文件&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue2/image-20250124145430369.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250124145430369.png&#34;
 	
 	
 	
@@ -6775,7 +6775,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;显示结果：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue2/image-20250125005745293.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250125005745293.png&#34;
 	
 	
 	
@@ -6892,7 +6892,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;&lt;strong&gt;显示效果&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue2/image-20250125012522198.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250125012522198.png&#34;
 	
 	
 	
@@ -6928,7 +6928,7 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;把实例化后的Vue对象赋值给变量vm，以后从vm中可以通过 vm._data 取到 实例化的时候的data，也可以从vm.变量名取到data中的变量&lt;/p&gt;
 &lt;p&gt;在控制台修改变量的值，页面会立马跟着变化 &amp;mdash;&amp;gt; 以后只需要修改变量值即可，不需要操作dom了&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue2/image-20250125013904332.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250125013904332.png&#34;
 	
 	
 	
@@ -6940,7 +6940,7 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;如图，直接修改&lt;code&gt;vm.b2=true&lt;/code&gt;，就可以显示出原先被隐藏的内容，可见，修改Model即可修改View&lt;/p&gt;
 &lt;p&gt;后端数据库的值改变并不会引起页面变化，只有通过ajax请求到数据后，前端将数据给到Model，Model的变化才会引起View的变化&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue2/image-20221016142247104.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20221016142247104.png&#34;
 	
 	
 	
@@ -7050,7 +7050,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;创建一个空的input框，当在页面上填入内容时，name也相应发生变化&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue2/image-20250125014344980.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250125014344980.png&#34;
 	
 	
 	
@@ -7804,7 +7804,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;页面效果&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue2/image-20250126003133920.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250126003133920.png&#34;
 	
 	
 	
@@ -11835,7 +11835,7 @@ vue是一个前端项目，需要webpack支持，同时vue官方提供了一个�
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;命令行创建说明：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue2/image-20250201161451705.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250201161451705.png&#34;
 	
 	
 	
@@ -11846,7 +11846,7 @@ vue是一个前端项目，需要webpack支持，同时vue官方提供了一个�
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;第三方组件选择&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue2/image-20250201161024347.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250201161024347.png&#34;
 	
 	
 	
@@ -11857,7 +11857,7 @@ vue是一个前端项目，需要webpack支持，同时vue官方提供了一个�
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;vue版本&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue2/image-20250201161110040.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250201161110040.png&#34;
 	
 	
 	
@@ -11868,7 +11868,7 @@ vue是一个前端项目，需要webpack支持，同时vue官方提供了一个�
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;包管理文件&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue2/image-20250201161539702.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250201161539702.png&#34;
 	
 	
 	
@@ -11879,7 +11879,7 @@ vue是一个前端项目，需要webpack支持，同时vue官方提供了一个�
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;创建成功后就可以使用pycharm打开项目了&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue2/image-20250201161904849.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250201161904849.png&#34;
 	
 	
 	
@@ -11898,7 +11898,7 @@ vue是一个前端项目，需要webpack支持，同时vue官方提供了一个�
 &lt;p&gt;方式二：配置pycharm的启动按钮&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue2/image-20250201162632956.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250201162632956.png&#34;
 	
 	
 	
@@ -11969,7 +11969,7 @@ vue是一个前端项目，需要webpack支持，同时vue官方提供了一个�
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;vue&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;config&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;js&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# vue的配置文件  等同于 django中setting.py&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue2/image-20250204164419225.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/image-20250204164419225.png&#34;
 	
 	
 	
@@ -14487,7 +14487,7 @@ vue是一个前端项目，需要webpack支持，同时vue官方提供了一个�
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h3 id=&#34;各个状态的核心概念&#34;&gt;各个状态的核心概念
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://yn0t1me.github.io/post/Vue/Vue2/eb9c566732fb3100f4a3f27a65983e09.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/yn0t1me/blogImage/refs/heads/main/Vue2/eb9c566732fb3100f4a3f27a65983e09.png&#34;
 	
 	
 	
